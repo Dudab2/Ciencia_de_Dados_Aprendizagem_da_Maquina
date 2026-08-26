@@ -2,16 +2,16 @@
 
 ## 1. Identificação da equipe
 
-| Campo            | Resposta               |
-| ---------------- | ---------------------- |
-| **Turma**        | Sistemas de Informação |
-| **Data**         | 19/08                  |
-| **Equipe**       |                        |
-| **Integrante 1** | Pedro Ruan de O.       |
-| **Integrante 2** |                        |
-| **Integrante 3** |                        |
-| **Integrante 4** |                        |
-| **Integrante 5** |                        |
+| Campo            | Resposta                   |
+| ---------------- | ---------------------------|
+| **Turma**        | Sistemas de Informação     |
+| **Data**         | 19/08                      |
+| **Equipe**       |                            |
+| **Integrante 1** | Maria Eduarda G. Rodrigues |
+| **Integrante 2** |                            |
+| **Integrante 3** |                            |
+| **Integrante 4** |                            |
+| **Integrante 5** |                            |
 
 ---
 
