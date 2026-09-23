@@ -10,11 +10,14 @@
 
 | Campo | Preenchimento |
 |---|---|
-| Título provisório do projeto | |
-| Curso / disciplina | Engenharia de Software |
+| Título provisório do projeto | Green City |
+| Curso / disciplina | Engenharia de Software | Ciência de Dados|
 | Turma | |
-| Equipe | |
-| Integrantes e funções iniciais | Maria Eduarda Gonçalves Rodrigues |
+| Equipe ||
+| Integrantes e funções iniciais | Pedro Ruan de Oliveira Moura|
+||Filipe Santos Barbalho |
+||Filipe Costa Lima de Oliveira |
+||Maria Eduarda Gonçalves Rodrigues |
 | Professor(a) | |
 | Data de elaboração | 16/09/2026 |
 | Versão do documento | 1.0 |
@@ -26,9 +29,12 @@
 Em até 100 palavras, apresente o problema, o público-alvo, a proposta de análise e o resultado esperado.
 
 **Preenchimento:**
-
-________________________________________________________________________________
-
+A população tem grande dificuldade em localizar e achar lugares público de lazer e exercícios que não estão mapeados
+diretamente no google maps e diversos outros apps de mapa. Então a ideia é desenvolver um app que conecte as pessoas e a cidade
+de forma mais sustentável, principalmente em regiões periféricas. Os dados do app serão alimentados pelos próprios usuários e
+IA integrada. Estes mesmos dados serão usados para montar o Mapa Verde que será exibido para o usuário, preenchidos com diversas areas
+de exercícios, lazer, quadras, parques, e eventos. Tudo com seus respectivos feedbacks e pessoas conectadas no local,
+Visando conecta as pessoas entre si e com a cidade.
 ________________________________________________________________________________
 
 ### 2.2 Declaração do projeto em uma frase
@@ -37,7 +43,8 @@ ________________________________________________________________________________
 
 **Versão da equipe:**
 
-________________________________________________________________________________
+Nosso projeto utilizará dados cadastrados pelos próprios usuários, complementados por informações geográficas públicas, para compreender
+a distribuição e o uso de espaços públicos de lazer e exercício em regiões periféricas, apoiando moradores dessas regiões na decisão de onde encontrar e frequentar áreas verdes, quadras, parques e eventos comunitários.
 
 ## 3. Contexto e definição do problema
 
@@ -264,4 +271,3 @@ Antes da entrega, confirme:
 ________________________________________________________________________________
 
 ________________________________________________________________________________
-
