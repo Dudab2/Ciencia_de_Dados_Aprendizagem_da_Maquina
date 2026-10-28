@@ -61,9 +61,3 @@ Detectar fraude não define sozinho o tipo de aprendizado utilizado. Quando exis
 Por outro lado, quando não existem rótulos, pode-se utilizar o aprendizado não supervisionado para identificar operações que apresentam comportamentos diferentes do padrão habitual. Essas operações podem ser consideradas suspeitas, mas nem todas são necessariamente fraudes.
 
 Portanto, a escolha da abordagem depende dos dados disponíveis e do objetivo do sistema. O aprendizado supervisionado utiliza resultados conhecidos, enquanto o não supervisionado busca padrões sem depender de categorias previamente definidas.
-
-## Entrega
-
-Antes de entregar, preencha os campos de identificação que faltam e confira se a professora solicitou algum formato específico de arquivo.
-
-[Voltar ao início](README.md)
