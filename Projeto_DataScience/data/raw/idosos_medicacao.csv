@@ -1,0 +1,1546 @@
+id_paciente,idade,sexo,escolaridade,mora_sozinho,tem_cuidador,usa_alarme,n_doencas_cronicas,n_medicamentos,comprometimento_cognitivo,doses_prescritas_semana,doses_esquecidas_semana,horario_mais_esquecido,data_cadastro
+P1496,65,M,Sem escolaridade,NÃO,não,Sim,5,7,Nenhum,56,3,Noite,2024-08-03
+P0544,setenta e três,F,medio,Sim,SIM,Não,1,2,Nenhum,14,0,Nenhum,2025-06-05
+P1269,79,F,Superior,Sim,Sim,não,1,5,Nenhum,49,7,Noite,2024-05-15
+P0529,76,F,Médio,Não,Não,Sim,2,3,Nenhum,28,2,Manhã,2025-01-17
+P1095,69,feminino,Ensino Fundamental,Sim,Não,Sim,1,1,Nenhum,14,0,Nenhum,2024-03-17
+P0808,sessenta e quatro,masculino,Médio ,Não,Sim,S,3,3,Nenhum,35,0,Nenhum,2024-11-10
+P0071,64,F,Fundamental,Não,Sim,Não,1,2,Nenhum,14,0,Nenhum,27/11/2025
+P0862,62,M,Médio,Não,Sim,Sim ,2,5,Nenhum,49,54,Noite,21/08/2025
+P1204,73,M,FUNDAMENTAL,Não,nao,Não,1,3,Nenhum,21,2,Noite,2024-10-25
+P1175,73,M,Ensino Fundamental,SIM,Não,Sim,1,3,Moderado,28,8,Tarde,2025-10-01
+P0429,63,Feminino,Fundamental,Sim,Não,Sim,5,5,Nenhum,35,2,Tarde,2024-03-18
+P1409,74,M,Fundamental,Não,s,Nao,3,5,Nenhum,49,1,Noite,2024-03-18
+P1293,71,feminino,Sem escolaridade,Não,Sim,Sim,3,4,Nenhum,49,1,Noite,2024-12-11
+P0317,75,F,Ensino Fundamental,Não,Sim,Sim,1,3,Nenhum,35,2,Manhã,2025-11-14
+P0031,91,F,Sem escolaridade,Sim,Não,Não,3,3,Nenhum,28,6,Manhã,2024-01-12
+P0969,81,F,Sem escolaridade,Não,Sim,Nao,3,6,Nenhum,63,1,Noite,2025-11-20
+P0307,71,F,Ensino Médio,Sim,Não,nao,2,5,Nenhum,42,12,Noite,15/03/2024
+P0937,65,F,Sem escolaridade,Não,Não,Não,1,2,Nenhum,14,0,Nenhum,2025-10-22
+P0579,72,F,Fundamental,Sim,Não,Não,5,8,Moderado,63,28,Tarde,2024-05-10
+P0340,79,F,,Não,SIM,NÃO,2,2,Leve,14,0,Nenhum,2025-11-22
+P0480,95,F,Médio,nao,Sim,Não,1,3,Leve,35,5,Tarde,2024-01-24
+P0678,77 anos,M,medio,Sim,NÃO,Não,4,5,Moderado,42,10,Noite,2025-02-24
+P0608,78,M,Fundamental,Não,Sim,SIM,2,4,Nenhum,49,3,Noite,2025-01-02
+P0372,85,F,Sem escolaridade,NÃO,Não,Sim ,3,6,Nenhum,70,8,Noite,2025-09-05
+P0469,83,F,Médio,Não,Não,Não,2,2,Nenhum,21,3,Tarde,24/02/2025
+P0276,77,F,sem escolaridade,Sim,não,SIM,1,2,Nenhum,21,1,Noite,2025-08-11
+P1048,78,F,,Não,Sim,nao,1,1,Nenhum,7,0,Nenhum,2025-02-18
+P0933,83,M,FUNDAMENTAL,Não,Sim,N,3,8,Moderado,70,4,Noite,17/06/2024
+P0702,72,f,Sem escolaridade,NÃO,Sim,Não,3,3,Nenhum,35,0,Nenhum,2024-06-11
+P0487,68,masculino,Sem escolaridade,N,sim,Não,1,2,Nenhum,28,2,Tarde,2025-07-17
+P1173,73,F,,Não,Não,Não,6,6,Nenhum,70,10,Noite,24/09/2025
+P1390,67,M,Sem escolaridade,Sim,Não,Não,1,1,Nenhum,14,2,Manhã,2024-09-02
+P0840,71,M,Fundamental,Não,Sim ,NÃO,1,,Nenhum,14,0,Nenhum,2025-03-25
+P1363,60 anos,F,nenhuma,Sim,Não,Não,1,4,Nenhum,42,5,Tarde,17/06/2025
+P0100,67,masculino,,Não,Sim,NÃO,2,2,Moderado,21,1,Noite,23/10/2024
+P0847,99,Masculino,Superior,Sim,N,Não,1,2,Moderado,28,10,Noite,29/01/2025
+P1191,86,F,Superior,Sim,Não,Sim,1,1,Leve,14,0,Nenhum,2025-10-06
+P0463,61,m,Sem escolaridade,Não,Não,Sim,1,3,Nenhum,35,2,Manhã,2024-01-14
+P0384,64,F,Fundamental,Não,Não,Não,2,4,Nenhum,42,5,Manhã,2024-12-23
+P0507,93,F,,Sim,Sim,NÃO,2,4,Leve,42,7,Manhã,2025-11-13
+P0484,79,F,fundamental,Não,Sim ,Não,1,2,Nenhum,21,2,Noite,2025-01-13
+P0169,73,masculino,Sem escolaridade,Sim,S,nao,2,2,Nenhum,14,0,Nenhum,2024-03-01
+P0060,82,F,sem escolaridade,NÃO,Sim,Não,3,5,Nenhum,49,1,Manhã,2024-11-05
+P0024,73,M,,nao,Sim,Não,1,2,Nenhum,21,1,Noite,2024-11-05
+P1250,62,F,Ensino Fundamental,Não,Sim,Não,1,3,Nenhum,28,0,Nenhum,2025-10-06
+P0345,87,F,Fundamental,Não,Sim,Sim,1,3,Nenhum,21,1,Manhã,2025-01-20
+P0050,75,FEMININO,Superior,Não,N,Não,1,2,Nenhum,21,1,Manhã,2025-02-01
+P1287,63,F,nenhuma,Não,Não,Não,4,4,Nenhum,35,1,Noite,2024-01-17
+P1023,77,masculino,Sem escolaridade,Sim,não,Não,1,2,Nenhum,21,0,Nenhum,2024-08-21
+P0755,88,F,Fundamental,não,Nao,Não,3,4,Nenhum,35,1,Tarde,2025-09-12
+P0515,80,feminino,Ensino Fundamental,Não,SIM,Não,1,3,Nenhum,35,0,Nenhum,2025-09-07
+P0221,72,F,nenhuma,Não,Não,Não,1,3,Nenhum,21,1,Noite,2025-02-20
+P1069,86,M,Superior,Não,Sim,S,2,5,Nenhum,42,0,Nenhum,2025-10-25
+P1161,65,M,Fundamental,Não,Sim,Sim,1,1,Leve,14,1,Noite,2024-04-30
+P0066,80,F,Médio,Não,NÃO,Não,5,6,Nenhum,49,7,Noite,2024-08-05
+P0430,77,F,Superior,Não,Não,Sim,2,2,Moderado,21,4,Noite,2025-05-16
+P0479,74,M,FUNDAMENTAL,Não,Sim,S,2,2,Leve,14,0,Nenhum,2025-11-05
+P0637,72,feminino,Ensino Fundamental,Sim,Não,Não,3,6,Nenhum,49,10,Tarde,2024-03-21
+P0994,85,F,Fundamental,Não,Sim,Não,2,2,Nenhum,21,1,Noite,2025-05-13
+P1031,84,feminino,Fundamental,Sim,Não,Não,2,3,Leve,35,12,Noite,03/06/2025
+P0938,73,F,nenhuma,Não,Sim,Não,3,5,Nenhum,56,4,Noite,04/03/2024
+P0813,76,F,FUNDAMENTAL,Não,?,NÃO,2,3,Nenhum,21,1,Manhã,2024-03-02
+P0683,84,FEMININO,Ensino Médio,Sim,Não,Sim,4,7,Nenhum,63,7,Noite,2025-03-07
+P0240,70,F,sem escolaridade,Não,Sim,NÃO,1,2,Nenhum,21,2,Manhã,2025-11-15
+P0124,85,Feminino,Médio,s,Não,Não,3,4,Nenhum,35,10,Noite,2024-10-15
+P0644,,F,Ensino Fundamental,Não,Não,s,4,6,Nenhum,70,8,Tarde,2025-04-23
+P0077,71,FEMININO,Sem escolaridade,s,Nao,Sim,2,2,Nenhum,21,0,Nenhum,
+P0846,77,M,Sem escolaridade,Não,não,Não,1,2,Leve,21,1,Manhã,2024-05-12
+P1275,69,F,Sem escolaridade,Não,Sim,Não,2,2,Nenhum,21,1,Tarde,2025-03-17
+P0782,73,F,Fundamental,Não,Não,Não,4,7,Nenhum,56,9,Noite,2025-11-17
+P0052,79,F,,Não,sim,não,3,5,Nenhum,35,3,Tarde,2024-06-11
+P0071,64,F,Fundamental,Não,Sim,Não,1,2,Nenhum,14,0,Nenhum,27/11/2025
+P0434,60,F,Fundamental,Não,nao,SIM,1,2,Nenhum,21,0,Nenhum,2024-10-04
+P1286,76,M,Fundamental,Sim,NÃO,Não,4,6,Nenhum,42,9,Noite,15/08/2024
+P0241,67,F,Médio,Não,NÃO,nao,2,3,Nenhum,28,0,Nenhum,08/06/2025
+P0125,81,M,Fundamental,Não,NÃO,Sim ,3,5,Nenhum,49,2,Noite,2024-10-06
+P1102,79,M,FUNDAMENTAL,Não,Não,Não,1,4,Leve,28,10,Noite,2025-08-01
+P0375,78,F,Fundamental,nao,Sim,nao,3,4,Nenhum,35,2,Noite,16/03/2024
+P1400,63,F,,NÃO,Não,NÃO,1,1,Nenhum,7,0,Nenhum,29/02/2024
+P0980,78,f,Médio,não,Não,sim,1,3,Nenhum,28,1,Tarde,2025-08-23
+P0975,66,F,Fundamental,Sim,não,Não,4,5,Nenhum,42,4,Noite,2025-05-12
+P0333,68,M,Médio,Não,Não,Sim,1,2,Nenhum,21,0,Nenhum,2024-06-02
+P1147,78,F,nenhuma,S,Não,Não,3,4,Nenhum,49,6,Tarde,18/08/2024
+P0260,63,M,Analfabeto,Não,NÃO,Sim ,1,5,Nenhum,35,1,Noite,2025-01-27
+P0176,75,m,Médio,Sim,Sim,Sim,1,2,Leve,21,0,Nenhum,30/11/2025
+P1484,77,F,Médio ,Não,Sim,nao,6,8,Nenhum,70,4,Noite,2025-05-23
+P0716,64,F,Fundamental,nao,Sim,sim,1,2,Nenhum,21,0,Nenhum,03/04/2024
+P0602,69,F,Sem escolaridade,nao,Não,Sim,2,2,Nenhum,21,0,Nenhum,2025-06-13
+P0899,78,F,Fundamental,Não,Sim,Não,1,4,Nenhum,42,4,Tarde,2025-05-19
+P1091,69,F,Médio,Não,Sim,Não,2,4,Leve,42,2,Tarde,2025-01-24
+P1422,72,M,Fundamental,Sim,NÃO,Não,4,6,Nenhum,49,13,Noite,2025-10-04
+P1019,,feminino,Fundamental,Não,Não,Sim,1,1,Nenhum,7,0,Nenhum,2025-10-16
+P1375,74,F,Fundamental,Não,não,não,1,2,Nenhum,14,1,Noite,17/09/2024
+P1308,84,F,Médio,Sim,Não,Não,2,3,Moderado,28,11,Tarde,2024-11-18
+P1337,78,F,Médio,Nao,Sim,Não,2,6,Nenhum,70,10,Manhã,16/04/2024
+P0486,73,Feminino,Fundamental,nao,nao,não,1,3,Nenhum,35,4,Noite,03/02/2024
+P0353,69,Feminino,SUPERIOR,Não,Sim,Sim,1,2,Nenhum,21,0,Nenhum,31/05/2025
+P0068,70,F,Fundamental,Sim,Sim,Sim,1,3,Nenhum,28,1,Noite,2025-08-20
+P0845,75,F,SUPERIOR,Sim,Não,Sim,3,4,Leve,42,3,Manhã,2024-04-24
+P0907,72,F,Fundamental,Não,Nao,Não,1,2,Nenhum,14,1,Tarde,2024-04-28
+P0271,68,F,Superior,Não,Sim,Sim,1,2,Nenhum,21,0,Nenhum,2025-02-14
+P0423,69 anos,f,sem escolaridade,Não,Não,não,1,4,Nenhum,42,5,Tarde,2024-09-01
+P0536,79,F,Fundamental,Sim,Não,Não,2,2,Leve,21,3,Tarde,2024-03-08
+P1442,77,F,Fundamental,Nao,Não,Não,2,3,Nenhum,35,5,Manhã,2024-09-08
+P1433,67,f,fundamental,Não,sim,Não,1,1,Nenhum,14,0,Nenhum,2025-01-30
+P0910,65,M,Fundamental,Não,Não,NÃO,2,4,Nenhum,42,1,Manhã,2024-04-23
+P0424,62,F,,Não,Sim,Não,1,2,Nenhum,21,0,Nenhum,26/09/2025
+P0811,72,F,fundamental,Não,Não,Não,1,2,Leve,21,2,Noite,2025-02-02
+P0966,63,F,Sem escolaridade,Não,SIM,Sim,5,6,Nenhum,63,2,Noite,2024-07-08
+P0030,77,f,Ensino Fundamental,N,Sim,Nao,2,3,Nenhum,21,1,Tarde,2025-04-15
+P0586,90,F,Fundamental,Sim,Não,Não,4,6,Nenhum,63,15,Tarde,2025-11-12
+P0539,60,F,Ensino Médio,Não,Não,Não,2,4,Nenhum,42,3,Tarde,2025-07-24
+P1053,75,m,Médio ,Não,nao,Não,1,2,Leve,21,3,Manhã,2024-04-14
+P1213,73,M,,Não,não,Não,1,3,Nenhum,35,2,Noite,06/09/2025
+P0136,66,M,,Sim,Não,Não,2,3,Nenhum,28,0,Nenhum,02/03/2024
+P0680,73,F,Fundamental,Sim,Não,Não,2,3,Moderado,35,15,Noite,2025-08-11
+P0426,71,FEMININO,Médio,Sim,não,Não,1,1,Nenhum,14,2,Tarde,2024-12-10
+P0527,86,F,Médio,N,Não,Sim,3,3,Leve,28,5,Tarde,13/09/2025
+P1094,75,M,Fundamental,s,Não,Não,1,2,Nenhum,21,4,Tarde,21/10/2025
+P1439,64,M,Ensino Médio,Sim,Não,Não,1,2,Nenhum,21,3,Manhã,2024-07-03
+P0368,67,F,Fundamental,Sim,Não,Não,1,3,Nenhum,35,3,Tarde,2024-03-02
+P0185,77,F,Sem escolaridade,Sim,Não,Não,1,3,Nenhum,35,3,Tarde,2025-05-26
+P0245,91,F,Sem escolaridade,Não,Não,Não,4,6,Leve,63,16,Manhã,2024-08-22
+P1360,72,F,Médio,Sim,Não,Sim,1,2,Nenhum,21,2,Manhã,2025-07-24
+P0381,75,F,Médio,Não,Sim,Não,1,3,Moderado,35,2,Manhã,07/04/2025
+P1358,70,F,Ensino Médio,N,Sim,Sim,3,,Leve,63,4,Noite,2024-02-13
+P1334,76,F,Sem escolaridade,sim,Não,Não,3,4,Nenhum,49,9,Manhã,2024-05-04
+P0842,74,F,,Não,Não,N,1,1,Nenhum,14,0,Nenhum,16/08/2024
+P1108,68,masculino,Ensino Médio,Sim,NÃO,Sim,1,3,Nenhum,28,0,Nenhum,22/10/2025
+P0382,84,F,Fundamental,Sim,Não,Não,2,7,Leve,70,27,Tarde,08/07/2025
+P0590,0,F,sem escolaridade,Não,Não,Não,2,2,Leve,14,2,Noite,2025-06-25
+P0675,81,M,Médio,N,Não,Sim,4,5,Leve,63,12,Tarde,2024-07-02
+P1106,80,M,Fundamental,SIM,Não,Não,3,5,Leve,35,9,Manhã,2024-05-05
+P0671,80,M,Médio,Não,Sim,Não,1,2,Nenhum,14,2,Tarde,2025-09-29
+P0142,66,M,Fundamental,Sim,Não,Não,1,,Nenhum,21,2,Tarde,2025-02-09
+P1366,77,M,Fundamental,Não,Sim,S,1,2,Moderado,14,1,Manhã,2024-07-04
+P1059,75,M,Médio,Não,Sim,Não,1,3,Nenhum,21,0,Nenhum,2024-10-19
+P1244,70,F,nenhuma,Não,SIM,Sim,1,1,Nenhum,14,0,Nenhum,2024-11-22
+P0983,76,FEMININO,fundamental,Não,Sim ,Não,6,8,Nenhum,91,10,Manhã,2024-05-25
+P1243,87,M,fundamental,NÃO,Sim,Nao,1,2,Nenhum,21,2,Tarde,2024-07-30
+P1474,60,M,,Nao,nao,S,2,3,Nenhum,35,0,Nenhum,11/05/2024
+P0325,89,M,Fundamental,Não,Não,NÃO,2,2,Nenhum,28,2,Noite,21/01/2025
+P1054,94,Feminino,Sem escolaridade,sim,Não,Não,2,2,Nenhum,21,7,Noite,2024-06-23
+P0204,79,Masculino,Fundamental,Não,Não,Não,2,3,Nenhum,28,-1,Noite,2025-05-16
+P0199,74,F,Ensino Fundamental,Sim,Não,Sim,1,,Nenhum,28,1,Noite,19/07/2024
+P0045,75,M,Médio,Não,Sim,Não,1,3,Nenhum,35,3,Tarde,2024-05-17
+P0927,73 anos,M,Fundamental,Não,s,Não,3,5,Nenhum,35,3,Manhã,2024-12-02
+P0352,81,M,Médio ,Não,Não,Não,4,4,Nenhum,35,4,Noite,2025-05-21
+P0947,77,M,Fundamental,Não,Não,Não,1,2,Nenhum,14,4,Manhã,2024-02-16
+P1202,70,M,Ensino Médio,Não,Sim,Nao,4,5,Nenhum,42,4,Noite,2025-10-10
+P1259,88,M,Fundamental,Não,Não,S,3,4,Leve,35,5,Tarde,07/03/2025
+P0116,70,F,Fundamental,NÃO,Sim,Não,1,1,Nenhum,7,0,Nenhum,2024-08-02
+P0572,73,F,Fundamental,Nao,Sim,Sim,6,6,Nenhum,49,1,Noite,03/12/2024
+P1007,79,Masculino,Fundamental,Não,Sim,Não,1,2,Nenhum,28,2,Tarde,2025-03-04
+P0809,71,F,Fundamental,Não,SIM,Sim,1,2,Nenhum,21,1,Tarde,2024-02-06
+P0355,83,FEMININO,Médio,Não,Não,NÃO,3,4,Leve,42,8,Tarde,2025-07-18
+P1075,67,F,Médio,Não,Não,Sim,2,2,Nenhum,21,0,Nenhum,2025-08-13
+P0221,72,F,nenhuma,Não,Não,Não,1,3,Nenhum,21,1,Noite,2025-02-20
+P0622,74,F,Superior,N,Não,Não,2,3,Nenhum,28,3,Noite,05/03/2025
+P0079,79,M,fundamental,não,Não,Não,4,6,Leve,56,12,Tarde,2024-10-26
+P0310,88,M,fundamental,Não,Não,Não,2,2,Nenhum,21,1,Manhã,29/03/2024
+P1424,85,M,Superior,Não,Não,Não,3,3,Nenhum,35,4,Tarde,18/01/2025
+P0673,68,M,Superior,Não,S,Não,3,3,Nenhum,35,1,Tarde,2025-01-12
+P0868,71,F,Médio,S,Não,Não,4,4,Moderado,42,17,Noite,2025-07-13
+P1253,68,M,Sem escolaridade,Sim,NÃO,Sim,1,1,Nenhum,7,0,Nenhum,2024-05-09
+P0552,78,M,fundamental,N,Não,sim,4,5,Moderado,35,3,Manhã,2024-06-18
+P0016,67,M,Fundamental,Não,Sim,NÃO,1,3,Nenhum,21,3,Tarde,2024-10-16
+P1433,67,f,fundamental,Não,sim,Não,1,1,Nenhum,14,0,Nenhum,2025-01-30
+P0797,82,M,,Não,Sim,Não,2,2,Nenhum,21,0,Nenhum,2024-02-21
+P1162,71,feminino,Médio ,Sim,Não,Não,1,1,Nenhum,14,0,Nenhum,2024-01-03
+P1231,70,F,SUPERIOR,Não,Não,Sim,3,5,Nenhum,42,1,Tarde,2025-05-29
+P1205,69,F,Médio,Não,Sim,Não,2,2,Nenhum,21,1,Noite,2024-10-21
+P0498,71,F,fundamental,S,Não,Não,2,3,Nenhum,28,2,Noite,30/11/2024
+P1324,61,F,Superior,Não,N,não,2,3,Nenhum,28,0,Nenhum,2024-04-29
+P0553,76,F,Médio,Não,s,Sim,1,3,Leve,35,0,Nenhum,2024-07-10
+P0186,86,FEMININO,Médio ,NÃO,?,Não,1,2,Nenhum,21,1,Tarde,2025-07-11
+P1132,72,F,Médio,Não,Sim,Sim,4,5,Nenhum,42,1,Tarde,2025-06-14
+P1262,75 anos,f,medio,Não,Não,Sim,1,1,Nenhum,14,0,Nenhum,04/10/2025
+P1377,78,F,Fundamental,Não,s,não,2,3,Nenhum,21,1,Tarde,2024-09-15
+P0775,74,F,Ensino Fundamental,Não,Sim,Sim,1,5,Nenhum,56,63,Tarde,2024-01-28
+P1038,70,M,Fundamental,Não,não,Sim,1,2,Nenhum,21,2,Tarde,2025-07-26
+P0901,77,m,Sem escolaridade,Sim ,Não,NÃO,2,3,Nenhum,28,3,Tarde,2025-08-06
+P1068,,FEMININO,Médio ,Não,Não,Não,3,4,Nenhum,28,4,Manhã,20/05/2024
+P1421,72,M,Fundamental,Sim,não,s,1,1,Nenhum,7,0,Nenhum,03/03/2025
+P1049,,F,nenhuma,Não,Sim,Nao,3,4,Nenhum,42,0,Nenhum,06/05/2025
+P0584,65,F,Médio,Nao,Sim,Sim,1,3,Nenhum,28,0,Nenhum,2024-08-12
+P0746,81,F,Superior,Sim,Não,SIM,1,1,Nenhum,14,0,Nenhum,2025-04-08
+P0665,73,F,sem escolaridade,Sim,Não,Sim,3,4,Nenhum,42,2,Tarde,2024-02-22
+P0057,72,Feminino,Sem escolaridade,Não,Sim,SIM,2,3,Leve,21,1,Manhã,2025-09-25
+P1014,61,M,Fundamental,s,Não,Não,1,2,Nenhum,21,0,Nenhum,2025-08-15
+P1214,68,feminino,Fundamental,N,Não,N,1,2,Nenhum,21,0,Nenhum,02/08/2024
+P1186,63,M,Ensino Médio,Não,Sim,Não,3,4,Nenhum,42,2,Noite,04/12/2024
+P1471,75,F,Fundamental,Não,Não,Não,1,3,Nenhum,28,2,Tarde,2025-08-08
+P0238,73,F,Fundamental,Sim,Não,Não,1,3,Nenhum,21,4,Manhã,2025-10-05
+P0044,,F,Ensino Médio,Não,Sim,Não,1,,Nenhum,35,1,Noite,21/03/2025
+P1320,84,F,medio,Sim,Não,Sim,1,1,Nenhum,7,0,Nenhum,2025-08-05
+P0383,61,F,Médio,Não,Não,Não,3,4,Nenhum,42,3,Manhã,2025-02-19
+P0905,69,F,Sem escolaridade,Não,Sim,Não,2,2,Leve,14,1,Tarde,2024-12-17
+P0662,74,Masculino,FUNDAMENTAL,Sim,Não,Não,3,4,Moderado,28,7,Manhã,2025-11-16
+P0102,84,f,Analfabeto,Sim,Sim,Não,4,6,Leve,70,19,Noite,2024-12-18
+P0452,77,M,Sem escolaridade,não,Não,Não,1,2,Leve,28,4,Noite,31/10/2025
+P0591,64,feminino,sem escolaridade,Não,Não,Não,3,4,Nenhum,28,2,Noite,2024-10-23
+P0108,71,M,Médio,Sim,Não,Não,2,3,Nenhum,35,2,Noite,2025-04-27
+P0367,68,F,Fundamental,Não,Não,Não,2,4,Nenhum,49,5,Noite,31/07/2024
+P1079,69,M,Fundamental,N,?,Sim,1,3,Nenhum,35,0,Nenhum,2025-01-05
+P0332,79,F,,sim,Sim,Sim,2,4,Nenhum,35,4,Noite,22/03/2024
+P0421,75,masculino,Fundamental,Sim,nao,Sim,3,4,Nenhum,49,5,Noite,2025-05-30
+P0275,87,M,Ensino Fundamental,Não,Não,Não,1,3,Leve,28,5,Tarde,08/04/2024
+P1203,77,F,Fundamental,NÃO,Não,Sim,1,,Leve,7,1,Noite,2024-10-20
+P0814,70,F,Ensino Fundamental,Não,Sim,s,2,2,Nenhum,28,1,Manhã,2025-05-08
+P0737,80,F,Médio,Não,Sim,Não,3,4,Nenhum,35,1,Tarde,07/01/2025
+P0129,69,F,Sem escolaridade,NÃO,Sim,Não,2,3,Nenhum,21,1,Tarde,2024-02-01
+P0272,77,feminino,superior,Não,Não,Não,1,4,Leve,42,6,Tarde,23/03/2024
+P0863,74,M,Médio ,Não,Não,Não,1,5,Nenhum,49,2,Manhã,14/07/2024
+P0343,75,F,Superior,Não,Não,Sim,2,3,Nenhum,35,1,Tarde,2024-07-29
+P0719,71,F,SUPERIOR,N,Sim ,Não,1,1,Nenhum,7,0,Nenhum,2024-12-12
+P1410,78,M,Sem escolaridade,nao,Sim ,Sim,1,1,Nenhum,7,0,Nenhum,2024-01-08
+P0514,73,M,Fundamental,Sim,Sim,NÃO,3,7,Moderado,77,15,Noite,2025-10-07
+P1270,79,F,Fundamental,Não,Sim,não,2,5,Nenhum,63,7,Noite,16/02/2025
+P0533,70,FEMININO,Fundamental,Nao,Não,Sim,1,2,Nenhum,28,2,Tarde,2025-10-17
+P1404,70,F,Superior,NÃO,sim,Não,2,3,Nenhum,35,1,Manhã,2025-06-15
+P0304,71,masculino,Analfabeto,Não,Sim,NÃO,2,4,Nenhum,49,3,Noite,2024-05-16
+P1109,84,masculino,Fundamental,Não,Não,Não,1,1,Nenhum,7,0,Nenhum,2024-08-24
+P1285,74,M,fundamental,Não,N,Não,4,4,Nenhum,35,5,Tarde,2025-08-05
+P0248,89,M,Fundamental,Não,NÃO,nao,2,2,Nenhum,21,2,Tarde,2025-09-17
+P0033,70,FEMININO,Médio,Sim,Sim,Sim,1,2,Nenhum,21,0,Nenhum,2025-01-30
+P1106,80,M,Fundamental,SIM,Não,Não,3,5,Leve,35,9,Manhã,2024-05-05
+P0616,64,Masculino,Sem escolaridade,Sim,Não,Não,1,3,Nenhum,28,5,Noite,2024-10-01
+P1085,75,F,Superior,Sim,Não,Sim,1,3,Nenhum,35,4,Manhã,2024-04-07
+P0555,73,M,Sem escolaridade,não,Não,SIM,3,3,Leve,28,3,Noite,2025-10-25
+P0491,83,F,Sem escolaridade,Sim,Nao,Não,2,2,Nenhum,21,5,Tarde,2025-07-24
+P0362,77,F,medio,Não,Sim,NÃO,2,3,Moderado,35,4,Tarde,2024-08-19
+P0262,,M,Fundamental,sim,?,Não,1,2,Leve,21,2,Noite,2025-11-12
+P1466,74,M,FUNDAMENTAL,Nao,Não,Nao,2,,Nenhum,21,2,Manhã,22/04/2024
+P0923,75,f,Médio,Sim,Não,Não,5,5,Moderado,35,16,Tarde,03/08/2025
+P0232,69,M,Fundamental,Não,Sim,Sim,1,1,Leve,7,1,Noite,2024-12-20
+P1207,68,F,Médio,S,Não,N,4,5,Nenhum,49,6,Noite,2024-03-14
+P1321,,F,FUNDAMENTAL,nao,Sim,Sim,2,2,Leve,14,0,Nenhum,2024-07-20
+P0483,75,FEMININO,Analfabeto,Não,Sim,Não,1,1,Nenhum,14,1,Tarde,2024-05-13
+P0164,67,M,FUNDAMENTAL,Não,Sim,Nao,1,1,Nenhum,14,1,Manhã,2024-07-17
+P0630,60,F,Fundamental,não,Não,Não,2,3,Nenhum,21,1,Manhã,2024-08-05
+P1491,69,M,Médio,Não,Sim,Sim,1,2,Nenhum,21,0,Nenhum,2025-01-19
+P1312,80,F,sem escolaridade,Não,Sim,Sim,3,3,Nenhum,35,1,Manhã,2024-06-03
+P0756,83,F,Médio,Não,Não,Não,1,2,Nenhum,21,0,Nenhum,10/03/2024
+P1497,77,M,Médio,N,Sim,N,1,3,Nenhum,28,0,Nenhum,2025-04-21
+P0612,76,F,Fundamental,Sim,Não,Não,1,3,Moderado,28,4,Tarde,2025-09-11
+P1380,86,M,Fundamental,Não,Sim,Não,4,4,Nenhum,35,2,Tarde,25/02/2025
+P0354,81,F,Sem escolaridade,Não,Sim,Sim,1,,Nenhum,21,1,Noite,2025-11-11
+P1223,77,F,Fundamental,Não,s,Sim,1,5,Nenhum,56,1,Manhã,2024-08-30
+P0472,71,feminino,Médio ,Não,S,Não,1,5,Nenhum,49,4,Manhã,2025-05-10
+P0193,71,m,Fundamental,Não,Não,Sim,2,4,Nenhum,28,2,Noite,2024-08-26
+P0711,74,F,Sem escolaridade,NÃO,Sim ,Não,2,5,Nenhum,63,2,Noite,08/04/2024
+P0351,77,F,,Sim,SIM,Nao,3,5,Leve,56,15,Manhã,2024-02-07
+P0979,,F,Sem escolaridade,Sim ,Sim,não,1,3,Nenhum,35,0,Nenhum,04/03/2025
+P1399,79,F,Fundamental,Não,Sim,Nao,1,3,Leve,21,0,Nenhum,2025-11-05
+P0064,79,M,Ensino Médio,Não,Não,Não,2,3,Nenhum,21,2,Tarde,2025-01-18
+P0722,83,M,Fundamental,Não,Não,S,1,4,Nenhum,42,3,Tarde,2024-12-25
+P1092,74,FEMININO,Fundamental,Sim,Não,Não,3,5,Nenhum,49,4,Manhã,2024-02-11
+P0949,77,F,SUPERIOR,Não,Sim,Não,1,1,Leve,14,2,Noite,2025-09-26
+P0844,73,F,Fundamental,Sim,nao,SIM,3,7,Nenhum,77,13,Tarde,2025-10-28
+P0290,73,F,Ensino Fundamental,Não,Sim,Sim,1,3,Nenhum,28,0,Nenhum,2025-10-31
+P0433,73,M,,Não,Não,nao,2,4,Nenhum,35,0,Nenhum,2024-11-02
+P0589,76,F,Ensino Fundamental,Não,Sim,NÃO,2,3,Nenhum,21,2,Manhã,2024-06-06
+P0219,73,M,Fundamental,SIM,Não,Sim,1,2,Nenhum,21,0,Nenhum,2024-10-07
+P1339,96,F,Médio,Não,s,Sim,1,,Nenhum,21,0,Nenhum,22/02/2024
+P1247,71,M,SUPERIOR,N,Não,Não,1,2,Nenhum,21,0,Nenhum,2024-04-04
+P1413,61,F,Médio,Não,sim,sim,1,1,Nenhum,7,0,Nenhum,2025-11-28
+P0629,66,Feminino,Fundamental,Sim,Sim,Sim,2,3,Nenhum,35,0,Nenhum,2024-03-25
+P1097,87,f,fundamental,Sim,s,sim,1,3,Nenhum,28,36,Noite,25/04/2024
+P1273,71,M,Fundamental,nao,Sim,Não,5,5,Nenhum,35,2,Tarde,11/01/2025
+P1103,79,F,Sem escolaridade,Não,Não,Sim,1,5,Nenhum,35,3,Noite,2025-11-27
+P0428,88,M,Fundamental,N,Não,Não,1,3,Nenhum,28,3,Noite,2024-03-03
+P0655,79,m,Médio,Não,Sim,Não,4,6,Leve,56,7,Tarde,2025-05-12
+P1033,70,Masculino,Ensino Fundamental,Não,Sim,Não,1,,Nenhum,14,0,Nenhum,2025-09-12
+P0561,73,M,Fundamental,não,SIM,Sim,2,7,Nenhum,56,5,Manhã,2024-11-29
+P0298,71,FEMININO,Médio ,Sim,Não,Não,3,4,Nenhum,35,8,Tarde,2024-09-22
+P0959,74,m,FUNDAMENTAL,sim,Não,NÃO,3,4,Nenhum,42,8,Tarde,03/03/2024
+P0611,66,M,Ensino Fundamental,Não,N,Não,1,3,Nenhum,35,1,Tarde,2024-10-11
+P0299,60,M,Fundamental,Sim,Sim,Não,3,4,Nenhum,49,3,Noite,
+P1090,72,FEMININO,SUPERIOR,Não,Sim,Não,3,4,Nenhum,35,38,Tarde,2025-01-05
+P0661,60,feminino,Médio,Não,S,Sim,5,6,Nenhum,77,2,Noite,2025-11-20
+P1444,86 anos,masculino,Fundamental,Não,Não,Não,2,3,Moderado,35,11,Noite,2024-02-27
+P0412,60,F,Fundamental,Não,Sim,Não,2,2,Nenhum,21,0,Nenhum,2025-07-21
+P0620,86,F,Sem escolaridade,Não,sim,Sim,1,1,Nenhum,7,0,Nenhum,15/10/2025
+P1240,86,F,Médio,Sim,Não,Sim,3,4,Nenhum,42,7,Noite,2025-02-04
+P0278,65,F,Sem escolaridade,nao,Não,Não,1,2,Nenhum,21,0,Nenhum,2025-07-04
+P1200,,F,,nao,ignorado,Não,1,2,Nenhum,21,1,Tarde,2024-03-31
+P0880,74,M,Fundamental,Nao,Não,sim,5,7,Nenhum,77,5,Tarde,2024-01-31
+P0611,66,M,Ensino Fundamental,Não,N,Não,1,3,Nenhum,35,1,Tarde,2024-10-11
+P0237,60,M,Fundamental,Não,Sim,Sim,2,2,Nenhum,21,0,Nenhum,20/12/2024
+P1281,,f,Médio,Não,Sim,Não,1,1,Leve,14,0,Nenhum,2025-01-07
+P1353,64,M,Fundamental,Não,SIM,Não,1,2,Leve,14,0,Nenhum,26/12/2024
+P1489,77,Masculino,Fundamental,Não,Sim,Sim,2,,Moderado,28,0,Nenhum,2024-08-12
+P0906,,F,Médio,Sim,Não,Sim,4,4,Nenhum,42,7,Manhã,2024-02-17
+P1230,79,M,Médio ,N,Sim,Sim,3,4,Nenhum,35,1,Noite,2025-01-28
+P0209,67,F,Médio,Não,Não,Sim,1,3,Nenhum,28,0,Nenhum,18/12/2024
+P0395,80,M,,Não,Não,Não,2,4,Nenhum,35,4,Tarde,2025-03-12
+P0427,80,masculino,Ensino Fundamental,não,Sim,N,2,4,Leve,42,6,Manhã,2024-08-19
+P0889,60,M,sem escolaridade,NÃO,Sim,Não,1,3,Nenhum,28,0,Nenhum,2024-10-03
+P0059,67,M,Fundamental,Não,Não,Não,3,4,Leve,42,9,Noite,2024-04-04
+P0900,62,M,sem escolaridade,Sim,Não,Sim,1,2,Leve,21,0,Nenhum,2025-10-27
+P1492,74,F,Fundamental,Não,sim,não,1,3,Nenhum,28,1,Manhã,2024-07-08
+P0495,72,feminino,Médio,N,Sim,Sim,1,3,Nenhum,21,0,Nenhum,08/11/2024
+P0766,60,FEMININO,Sem escolaridade,não,Não,Sim,1,3,Nenhum,21,0,Nenhum,2025-07-05
+P1226,78,masculino,,Não,Sim,não,1,1,Nenhum,7,0,Nenhum,2024-01-06
+P0757,67,M,Fundamental,N,Não,Não,3,7,Nenhum,63,4,Manhã,2025-09-13
+P1246,75,M,Analfabeto,Não,nao,sim,6,6,Nenhum,42,4,Manhã,04/07/2025
+P0753,66,M,sem escolaridade,nao,Não,Nao,1,99,Leve,21,0,Nenhum,10/01/2024
+P0870,74,m,Médio,Não,SIM,Não,1,1,Nenhum,7,0,Nenhum,2024-08-07
+P0482,85,F,Médio,Não,-,sim,3,4,Leve,42,1,Noite,2024-03-05
+P0530,87,F,fundamental,Não,Não,Não,3,5,Nenhum,42,1,Noite,2025-11-08
+P1189,79,F,Ensino Fundamental,Não,Sim,sim,2,3,Moderado,28,3,Noite,17/08/2024
+P0860,79,Feminino,Sem escolaridade,Sim,N,NÃO,3,4,Nenhum,35,3,Tarde,2024-11-24
+P1141,88,M,Ensino Médio,NÃO,-,Sim,4,5,Nenhum,42,2,Noite,2024-04-30
+P0234,84,M,Médio,Não,Sim,Não,4,6,Nenhum,42,10,Manhã,2025-10-08
+P0652,73,F,Fundamental,Não,-,Não,2,3,Leve,28,2,Tarde,2025-09-27
+P0197,79,M,Superior,Não,SIM,Não,3,6,Nenhum,63,9,Noite,2024-05-28
+P0585,80,F,Ensino Médio,Não,Sim,Não,3,3,Nenhum,28,33,Noite,2024-12-27
+P1493,69,F,Médio,Sim,NÃO,Não,1,3,Nenhum,21,1,Tarde,2024-09-02
+P0082,69,feminino,Fundamental,Não,SIM,Não,1,2,Leve,21,0,Nenhum,2025-11-13
+P1446,76,feminino,Fundamental,Não,Não,Não,2,5,Nenhum,42,4,Tarde,14/02/2024
+P0951,,M,Superior,Não,Sim,Sim,1,1,Nenhum,7,0,Nenhum,2024-02-14
+P1191,86,F,Superior,Sim,Não,Sim,1,1,Leve,14,0,Nenhum,2025-10-06
+P0112,76,F,fundamental,nao,Não,Sim,3,7,Nenhum,56,5,Tarde,2024-06-21
+P1315,79,M,Médio ,Sim,Não,Não,1,3,Nenhum,28,5,Noite,2024-03-30
+P0865,68,M,Fundamental,Não,Sim,Não,2,2,Nenhum,21,0,Nenhum,2024-05-19
+P1305,72,FEMININO,Médio,Não,Sim,Não,3,4,Nenhum,35,0,Nenhum,2025-06-01
+P0417,83,F,Superior,Não,Sim ,Não,1,2,Moderado,21,2,Noite,2025-04-19
+P1304,80,F,fundamental,Nao,Sim,Não,4,4,Leve,49,4,Noite,2025-09-15
+P1477,91,M,Fundamental,Sim,Não,Não,2,2,Leve,14,2,Noite,27/08/2025
+P1290,81,M,Superior,Não,Sim,Não,2,3,Nenhum,28,2,Manhã,13/06/2024
+P0311,83,F,sem escolaridade,Sim,Nao,Não,2,3,Leve,35,4,Tarde,2024-10-17
+P0783,88,F,Fundamental,Não,Sim,Sim,7,8,Nenhum,77,8,Noite,2025-01-20
+P0423,69 anos,f,sem escolaridade,Não,Não,não,1,4,Nenhum,42,5,Tarde,2024-09-01
+P0567,73,M,Sem escolaridade,Sim,não,SIM,1,2,Nenhum,14,1,Tarde,04/12/2024
+P0465,65,F,Médio,Sim,Não,Não,2,3,Nenhum,35,6,Noite,2024-03-16
+P1282,,M,Fundamental,não,Sim,Não,1,2,Nenhum,14,1,Tarde,2024-09-27
+P0406,72,Masculino,Fundamental,N,Sim,SIM,2,4,Leve,35,0,Nenhum,2024-05-08
+P1088,62,F,fundamental,Não,Sim,Não,2,4,Nenhum,28,2,Noite,2025-11-11
+P1285,74,M,fundamental,Não,N,Não,4,4,Nenhum,35,5,Tarde,2025-08-05
+P1056,86,masculino,Fundamental,Não,Sim,Não,4,5,Nenhum,56,7,Tarde,2024-02-23
+P0440,77,f,,NÃO,Sim,Não,2,2,Nenhum,14,0,Nenhum,08/01/2025
+P0077,71,FEMININO,Sem escolaridade,s,Nao,Sim,2,2,Nenhum,21,0,Nenhum,
+P0888,71,M,Médio,Não,não,Sim,1,2,Nenhum,14,1,Manhã,19/11/2024
+P0535,61,F,Fundamental,Não,Sim,Não,3,3,Nenhum,35,1,Noite,2025-04-11
+P0781,74,F,Médio,Sim,não,Sim,1,3,Nenhum,28,2,Noite,2025-11-14
+P1252,86,F,Sem escolaridade,Não,Sim,Não,4,6,Nenhum,49,5,Manhã,2024-05-09
+P1314,77,F,Sem escolaridade,Não,Nao,Não,1,3,Nenhum,21,1,Noite,21/09/2024
+P1193,72,F,medio,Não,Sim,Não,1,3,Nenhum,21,2,Tarde,2024-03-19
+P1037,82,M,Fundamental,Não,s,Sim,2,2,Leve,14,0,Nenhum,15/03/2025
+P0799,82,F,Médio,Não,Não,N,1,2,Nenhum,14,3,Manhã,12/04/2025
+P1114,72,M,Fundamental,nao,Não,s,4,5,Nenhum,63,1,Noite,14/02/2025
+P0255,72,M,Ensino Fundamental,Não,Sim,Não,2,3,Nenhum,21,30,Manhã,10/02/2024
+P0323,83,masculino,Ensino Fundamental,Sim,nao,Sim,1,4,Moderado,42,8,Manhã,2024-07-20
+P1125,73,F,Fundamental,Sim,Não,Sim,1,4,Nenhum,49,6,Tarde,2024-01-10
+P1166,67,F,Médio,Não,Sim,Não,3,4,Nenhum,35,2,Manhã,2025-02-16
+P1099,82,M,Médio,Sim,Não,Não,1,2,Nenhum,21,3,Tarde,2025-09-11
+P0705,82,F,Sem escolaridade,Não,Sim,Nao,1,1,Nenhum,14,0,Nenhum,2024-07-03
+P0571,62,F,medio,Sim,ignorado,Sim,2,3,Nenhum,28,2,Manhã,2024-03-28
+P0889,60,M,sem escolaridade,NÃO,Sim,Não,1,3,Nenhum,28,0,Nenhum,2024-10-03
+P0366,86,F,Médio,Não,Não,Sim,5,7,Leve,77,15,Manhã,2024-07-29
+P0964,73,M,Ensino Fundamental,nao,Sim,Não,3,5,Nenhum,56,4,Tarde,29/01/2024
+P0087,70,F,,NÃO,Sim,Não,2,3,Nenhum,28,2,Noite,2025-05-30
+P1463,67,F,fundamental,Não,Sim,Não,2,2,Nenhum,21,0,Nenhum,2025-05-12
+P0266,82,M,Sem escolaridade,NÃO,Sim,não,2,4,Nenhum,49,4,Tarde,2025-10-25
+P0288,74,F,Médio,Não,Não,S,1,5,Leve,42,5,Manhã,
+P1235,77,M,Ensino Fundamental,Sim,Não,Não,3,3,Nenhum,35,0,Nenhum,2025-04-29
+P0359,,F,,Não,nao,Não,4,6,Leve,49,13,Tarde,2025-02-11
+P0454,91 anos,F,fundamental,Não,Sim ,N,4,6,Moderado,42,3,Tarde,2025-10-12
+P1434,61,m,,Não,Sim,sim,1,3,Nenhum,35,0,Nenhum,2025-08-05
+P0562,77,F,Sem escolaridade,Não,Sim,Sim,1,4,Nenhum,35,2,Manhã,2024-09-21
+P1435,76,feminino,fundamental,Não,Sim ,Sim,4,4,Nenhum,49,1,Noite,09/04/2024
+P0773,76,Feminino,Ensino Fundamental,Não,s,Sim,1,2,Nenhum,14,0,Nenhum,2025-08-22
+P0222,76,F,,Não,Sim,Não,1,1,Nenhum,7,1,Tarde,09/04/2025
+P0114,62,F,Sem escolaridade,Sim ,Não,Sim,3,4,Nenhum,28,1,Manhã,2024-05-26
+P0603,84,M,Médio,não,Sim,Sim,3,3,Nenhum,28,0,Nenhum,2025-02-09
+P0614,78,M,,s,Não,Não,1,1,Nenhum,7,1,Manhã,2025-02-01
+P0175,64,F,,Não,Sim,Sim,1,1,Leve,7,0,Nenhum,22/10/2025
+P1113,65,masculino,Fundamental,Nao,não,nao,3,5,Nenhum,56,3,Tarde,2024-09-09
+P1354,77,M,Médio,Não,Não,Sim,1,2,Nenhum,21,1,Manhã,2024-07-17
+P1081,76,M,Superior,Não,Sim,Não,1,1,Nenhum,7,0,Nenhum,2025-08-14
+P1211,81,F,Fundamental,Sim,Não,Não,1,2,Nenhum,21,1,Tarde,2024-01-25
+P0019,81,m,Fundamental,s,Não,Não,3,4,Nenhum,49,3,Noite,2024-07-27
+P1034,78,M,Sem escolaridade,não,Sim,Não,1,3,Moderado,21,1,Manhã,2025-01-08
+P0286,70,F,Ensino Médio,Não,Sim,sim,3,3,Leve,28,2,Noite,2024-04-16
+P0916,83,F,Fundamental,nao,Sim,Sim,3,4,Moderado,42,2,Noite,2025-07-16
+P1011,64,F,Ensino Superior,Não,nao,Não,4,,Nenhum,56,3,Tarde,25/05/2024
+P1232,65,M,Fundamental,Não,NÃO,Não,2,3,Nenhum,35,3,Tarde,2024-06-21
+P0032,150,F,Ensino Superior,Não,Sim ,Não,3,3,Nenhum,28,0,Nenhum,27/06/2024
+P1220,85,F,FUNDAMENTAL,Sim,S,Sim,3,4,Nenhum,35,3,Manhã,2024-05-29
+P0211,81,M,superior,Sim,Não,Não,4,6,Nenhum,70,10,Tarde,2024-10-21
+P0830,60,F,Fundamental,Não,N,S,2,4,Moderado,35,3,Tarde,2025-08-28
+P1419,,F,Sem escolaridade,Não,Sim,s,1,1,Leve,14,0,Nenhum,2025-04-11
+P1119,77,F,Fundamental,sim,Sim,Não,2,4,Leve,35,2,Tarde,2025-07-10
+P1344,70,F,Fundamental,Não,Sim,Sim,2,2,Nenhum,21,0,Nenhum,2025-03-11
+P1157,74,M,Sem escolaridade,Sim,Sim,Sim,4,7,Nenhum,77,4,Tarde,2024-09-24
+P0985,77,Masculino,Médio,Não,Sim,SIM,1,3,Nenhum,28,0,Nenhum,2025-06-26
+P0944,84,feminino,Fundamental,Não,Não,N,2,3,Nenhum,35,5,Noite,2024-04-15
+P1359,71,M,Sem escolaridade,Nao,Não,s,2,3,Leve,28,4,Tarde,2025-01-29
+P0189,63,F,Fundamental,Não,Sim,Não,3,4,Nenhum,42,2,Manhã,10/11/2025
+P0414,80,M,Sem escolaridade,Não,S,Sim,1,6,Nenhum,49,3,Manhã,2024-12-13
+P0989,72,m,Fundamental,Não,Nao,NÃO,1,3,Nenhum,35,1,Noite,09/09/2025
+P0528,75 anos,Masculino,Ensino Fundamental,nao,Sim,NÃO,3,3,Nenhum,35,1,Noite,2025-01-27
+P0742,84,feminino,Médio,Não,Sim,Nao,1,4,Leve,35,2,Noite,2025-07-11
+P0416,76,masculino,Médio,Sim,Não,Não,4,5,Nenhum,56,6,Manhã,2024-04-12
+P1138,74,M,Superior,Não,Não,Não,3,3,Nenhum,21,3,Tarde,2025-11-13
+P0084,71,Feminino,Fundamental,Não,Sim,Sim,3,4,Nenhum,49,0,Nenhum,16/09/2024
+P0708,78,M,,Sim,Não,s,3,4,Nenhum,35,5,Manhã,03/08/2024
+P0049,79,feminino,Fundamental,Não,Sim,Não,2,3,Nenhum,35,3,Tarde,01/05/2025
+P1322,70,F,Fundamental,Sim,nao,N,1,2,Leve,21,4,Manhã,07/09/2025
+P0156,88,F,Fundamental,Não,SIM,Não,3,3,Nenhum,28,3,Tarde,25/02/2024
+P1101,83,M,Fundamental,Não,sim,Sim,6,7,Nenhum,63,4,Noite,2024-07-15
+P1174,sessenta e seis,f,Analfabeto,Não,NÃO,Não,2,3,Nenhum,35,4,Noite,26/09/2025
+P0439,69,M,Superior,N,Sim,Não,1,2,Nenhum,21,1,Tarde,11/05/2024
+P1084,74,M,Fundamental,Não,Não,Não,1,1,Nenhum,7,2,Tarde,2024-04-15
+P0853,81,F,Fundamental,Não,Sim,Não,1,2,Nenhum,21,1,Tarde,23/05/2025
+P1266,73,F,Sem escolaridade,Não,Sim,Não,1,,Nenhum,21,1,Noite,2025-05-20
+P0433,73,M,,Não,Não,nao,2,4,Nenhum,35,0,Nenhum,2024-11-02
+P1176,61,F,nenhuma,Não,Sim ,s,1,3,Nenhum,28,0,Nenhum,2024-06-10
+P0180,76,m,Ensino Fundamental,Sim,NÃO,Nao,3,3,Nenhum,28,2,Noite,2024-12-31
+P1369,84,M,Médio,Não,Não,Não,3,5,Moderado,35,4,Noite,27/12/2024
+P1284,80,M,nenhuma,sim,Não,Não,1,3,Nenhum,35,4,Noite,2025-04-06
+P0577,85,F,FUNDAMENTAL,Não,Sim,Não,1,1,Nenhum,7,0,Nenhum,2024-12-21
+P0545,72,M,Ensino Superior,Não,SIM,Sim ,1,1,Nenhum,14,1,Tarde,2024-01-06
+P0862,62,M,Médio,Não,Sim,Sim ,2,5,Nenhum,49,54,Noite,21/08/2025
+P0364,66,f,Superior,Não,Sim,Não,3,5,Nenhum,42,0,Nenhum,2024-02-14
+P1212,70,M,Sem escolaridade,Não,Sim,Não,2,3,Nenhum,28,0,Nenhum,2025-10-13
+P1234,75,F,Médio,Não,Sim,Nao,1,1,Nenhum,14,0,Nenhum,2024-11-27
+P0347,69,F,,Sim,Não,Sim,1,1,Nenhum,7,0,Nenhum,2025-03-27
+P1118,71,F,Sem escolaridade,nao,Não,Não,1,2,Nenhum,14,3,Tarde,11/12/2024
+P0494,78,f,Analfabeto,Não,SIM,s,1,4,Nenhum,42,1,Noite,13/04/2024
+P0721,73,M,Superior,Não,Sim ,Não,1,1,Nenhum,7,0,Nenhum,2024-08-18
+P0693,82,F,Fundamental,Não,Não,Nao,1,2,Nenhum,21,3,Manhã,2025-03-21
+P1331,60,M,Fundamental,Não,Sim,N,1,2,Nenhum,28,0,Nenhum,2025-06-27
+P0621,70,F,Fundamental,Não,Sim ,Não,2,4,Nenhum,49,2,Manhã,2024-07-19
+P0599,76,M,Médio ,Sim,N,Não,3,5,Nenhum,56,8,Manhã,16/10/2024
+P1086,71,Feminino,Sem escolaridade,Não,Não,SIM,1,2,Nenhum,14,0,Nenhum,21/09/2024
+P0244,62,F,Sem escolaridade,Não,Sim,Sim,3,4,Nenhum,42,2,Tarde,28/10/2024
+P0850,82,F,fundamental,Não,Não,Não,5,6,Leve,42,15,Noite,2025-01-20
+P0568,69,M,Fundamental,Não,Sim,NÃO,1,4,Nenhum,42,2,Noite,14/04/2024
+P0650,,M,Fundamental,Não,Sim,Não,1,4,Nenhum,42,4,Tarde,2025-06-24
+P0807,73,M,medio,N,S,Não,2,3,Nenhum,28,4,Noite,21/04/2024
+P0940,81,M,Médio,Não,NÃO,N,6,7,Nenhum,63,10,Tarde,20/02/2024
+P0848,81 anos,f,medio,s,Não,Não,1,1,Nenhum,14,0,Nenhum,2025-05-21
+P0436,69,feminino,Fundamental,Não,Sim,Não,1,2,Nenhum,21,2,Tarde,2024-06-10
+P1462,68,M,Fundamental,Sim,Não,SIM,1,1,Nenhum,7,1,Manhã,14/01/2025
+P0576,62,M,Médio,Não,Sim,Não,4,7,Nenhum,63,2,Noite,06/05/2025
+P0309,79,F,Médio ,Sim,?,Sim,1,3,Nenhum,21,1,Manhã,16/06/2025
+P0431,66,F,Ensino Fundamental,nao,Sim,Não,4,7,Nenhum,70,1,Noite,10/07/2024
+P0931,74,feminino,Superior,Não,Não,Não,3,4,Nenhum,42,2,Noite,15/02/2025
+P0399,78,Feminino,Sem escolaridade,Não,N,Sim,2,3,Nenhum,21,0,Nenhum,
+P0424,62,F,,Não,Sim,Não,1,2,Nenhum,21,0,Nenhum,26/09/2025
+P0371,74,F,Médio,Sim,Sim,Não,5,6,Nenhum,56,5,Manhã,17/06/2024
+P0055,70,M,Fundamental,Sim,N,não,1,2,Nenhum,21,1,Manhã,08/01/2025
+P1215,60,M,Médio,Sim,Não,SIM,1,1,Nenhum,14,0,Nenhum,2025-03-06
+P1280,72,masculino,Fundamental,Não,S,Não,1,1,Nenhum,14,1,Manhã,08/05/2025
+P0600,60,M,FUNDAMENTAL,Não,SIM,Sim,1,3,Nenhum,21,0,Nenhum,2025-10-07
+P0313,88,F,nenhuma,Não,Não,Não,2,4,Nenhum,35,3,Noite,2025-05-20
+P0974,setenta e nove,F,Sem escolaridade,nao,ignorado,Não,1,3,Leve,35,1,Noite,2025-08-04
+P1197,64,F,Fundamental,Não,Sim,Não,2,5,Nenhum,35,2,Manhã,2024-05-10
+P0110,60,masculino,Sem escolaridade,nao,N,Não,1,2,Nenhum,21,3,Tarde,2025-11-22
+P0882,82,F,Médio,Não,Não,Nao,3,4,Nenhum,42,5,Manhã,2025-06-03
+P0728,80,F,Fundamental,Nao,Sim,Sim,3,8,Nenhum,63,3,Manhã,2024-02-10
+P0101,71,M,Fundamental,s,s,Sim ,2,4,Nenhum,28,1,Tarde,13/05/2024
+P0501,85,F,Ensino Médio,Sim,Não,Sim,4,6,Moderado,56,13,Manhã,2024-12-09
+P0706,66,F,medio,NÃO,Sim,Sim,2,2,Moderado,14,1,Manhã,19/09/2024
+P1417,92,F,Sem escolaridade,Não,Não,não,2,3,Leve,21,6,Noite,26/09/2024
+P0267,75,f,Sem escolaridade,Não,Não,Não,2,3,Nenhum,35,1,Tarde,18/09/2025
+P0715,72,M,Fundamental,Não,Sim,Não,2,3,Nenhum,28,0,Nenhum,2025-02-12
+P0297,76,F,Fundamental,Sim,Não,Sim,2,4,Nenhum,49,5,Noite,2024-06-08
+P0875,60,F,Fundamental,Não,Nao,Sim,2,3,Nenhum,28,-1,Noite,2024-09-30
+P0462,67,F,Fundamental,Não,Sim,Não,2,2,Leve,14,3,Tarde,2025-05-23
+P1122,74,F,Fundamental,Sim ,N,S,1,4,Nenhum,42,6,Noite,2025-03-11
+P1036,74,M,FUNDAMENTAL,Sim,Não,Não,3,6,Nenhum,63,7,Noite,2024-03-17
+P1182,81,M,sem escolaridade,Sim,sim,Nao,1,1,Nenhum,14,1,Manhã,13/07/2025
+P0378,60,M,Médio,N,Sim,Sim,1,2,Nenhum,21,0,Nenhum,2025-06-22
+P0287,76,F,Fundamental,Sim,Nao,Não,1,2,Nenhum,21,5,Manhã,2025-10-16
+P1482,79,M,fundamental,Não,Sim,Não,1,2,Nenhum,14,2,Noite,18/05/2025
+P0768,70,F,FUNDAMENTAL,Não,Não,Não,1,2,Nenhum,21,0,Nenhum,27/06/2024
+P0127,86,M,nenhuma,Nao,Não,Não,1,2,Nenhum,14,0,Nenhum,2024-11-13
+P0328,73,feminino,Fundamental,Nao,s,Sim,1,1,Moderado,14,1,Noite,2025-04-06
+P0293,86,F,nenhuma,Não,Sim,Sim ,3,4,Nenhum,42,3,Manhã,2024-01-12
+P0788,72,F,Ensino Fundamental,Não,Não,Não,1,2,Nenhum,14,0,Nenhum,24/03/2025
+P0765,77,f,Sem escolaridade,Sim,Não,Não,1,3,Nenhum,35,8,Noite,2025-01-13
+P1008,71,F,FUNDAMENTAL,Não,Sim,Não,1,2,Nenhum,21,1,Manhã,2025-08-25
+P0356,76,F,Superior,Não,Não,Não,1,2,Moderado,21,1,Manhã,2024-01-15
+P1256,69,F,Fundamental,Não,nao,Não,1,1,Nenhum,7,0,Nenhum,2024-12-12
+P0171,69,M,Fundamental,Não,s,Não,4,5,Moderado,35,3,Tarde,2024-10-15
+P0890,60,M,Ensino Superior,nao,Não,Não,1,2,Moderado,21,3,Noite,2024-12-18
+P1156,75,F,Fundamental,Não,Não,nao,1,1,Nenhum,14,0,Nenhum,2024-09-10
+P0987,63,m,Médio,Não,não,Não,1,4,Nenhum,49,1,Noite,12/11/2024
+P0817,71,F,Médio,não,Sim,Não,1,3,Nenhum,28,0,Nenhum,2025-01-31
+P1306,60,masculino,Superior,Não,SIM,Não,1,3,Nenhum,28,0,Nenhum,2024-03-01
+P0210,71,f,Fundamental,SIM,Não,nao,3,4,Nenhum,35,3,Tarde,15/11/2024
+P1192,82,F,Sem escolaridade,Não,Sim,Não,3,5,Nenhum,56,3,Noite,2025-11-25
+P0549,80,M,Médio ,Não,Não,Não,2,3,Nenhum,28,2,Noite,25/01/2024
+P0141,77,M,Superior,Não,S,Não,3,5,Nenhum,42,3,Tarde,30/11/2025
+P1111,86,m,Fundamental,Não,Não,Sim,1,3,Moderado,28,5,Tarde,2024-04-19
+P1032,76,F,Fundamental,Sim,Não,Não,3,3,Nenhum,28,6,Noite,23/07/2024
+P0819,76,M,Ensino Médio,Não,SIM,nao,4,5,Nenhum,63,5,Noite,2025-07-19
+P1224,80,F,medio,NÃO,Sim,Não,2,3,Nenhum,21,3,Noite,2025-04-12
+P0723,60,F,Sem escolaridade,S,Não,Não,1,2,Nenhum,14,5,Tarde,2024-09-23
+P0701,83,F,FUNDAMENTAL,S,Não,s,4,4,Nenhum,42,5,Noite,2025-11-01
+P0651,89,feminino,,Não,Sim,Não,8,9,Nenhum,63,12,Tarde,2025-02-21
+P0200,73,M,Fundamental,não,Não,Não,1,1,Nenhum,7,1,Noite,21/04/2024
+P0939,82,F,Fundamental,Não,Não,Sim,3,5,Nenhum,42,1,Noite,2024-11-08
+P1277,,F,Superior,Não,Não,Não,1,4,Nenhum,28,2,Noite,2024-01-21
+P0745,75,F,Fundamental,Sim,Não,Sim,1,5,Leve,49,7,Noite,2025-07-09
+P1064,83,M,Fundamental,Não,Sim,Não,2,2,Nenhum,14,0,Nenhum,2024-03-17
+P0731,78,M,Superior,Não,Sim,Não,3,3,Moderado,21,0,Nenhum,2025-01-04
+P0011,81,F,Médio,SIM,Não,Não,3,3,Nenhum,35,6,Noite,2025-11-11
+P0148,73,F,Médio ,NÃO,Sim,Não,3,3,Nenhum,28,1,Noite,2025-07-27
+P1086,71,Feminino,Sem escolaridade,Não,Não,SIM,1,2,Nenhum,14,0,Nenhum,21/09/2024
+P0283,81,F,,não,Não,Sim,1,5,Nenhum,49,2,Noite,2025-08-27
+P0292,75,M,FUNDAMENTAL,Não,nao,nao,1,2,Nenhum,14,1,Tarde,2025-03-19
+P0583,72,F,Fundamental,Não,Sim,NÃO,1,1,Moderado,7,0,Nenhum,2024-12-09
+P1047,70,F,,Nao,Não,Sim,3,6,Nenhum,77,1,Manhã,06/05/2025
+P0130,67,M,fundamental,Não,não,N,3,3,Nenhum,35,1,Tarde,2025-09-15
+P0324,80,F,Fundamental,Não,S,Não,2,3,Leve,28,1,Tarde,02/06/2024
+P0818,76 anos,F,FUNDAMENTAL,Não,Sim,s,2,2,Nenhum,21,0,Nenhum,2025-01-01
+P0523,85,F,Superior,Não,S,Não,5,6,Nenhum,56,4,Noite,2024-02-07
+P0592,76,M,Superior,Sim,Sim,NÃO,2,3,Moderado,28,7,Tarde,2025-08-24
+P0670,60,F,Médio,Sim,Sim ,Não,1,2,Nenhum,28,0,Nenhum,2025-11-15
+P1453,73,F,Superior,NÃO,Não,Sim,2,4,Nenhum,35,1,Manhã,2024-07-05
+P0694,60,masculino,Ensino Fundamental,nao,-,Não,2,2,Nenhum,21,1,Tarde,14/03/2025
+P1427,81,F,Sem escolaridade,Não,sim,Não,1,1,Leve,7,1,Tarde,19/06/2025
+P0159,70,masculino,Sem escolaridade,Não,SIM,Sim,1,4,Nenhum,42,0,Nenhum,2025-02-01
+P0618,76,F,Fundamental,N,Nao,Sim ,3,7,Nenhum,70,11,Manhã,2024-12-14
+P0998,75,F,Ensino Médio,Não,NÃO,Não,2,3,Nenhum,35,2,Noite,2024-06-19
+P1104,,M,Fundamental,Não,Sim,Sim,1,1,Moderado,14,1,Tarde,2024-04-17
+P0196,67,M,Sem escolaridade,Não,Sim,Não,4,6,Nenhum,63,7,Manhã,18/01/2025
+P1278,87,masculino,medio,sim,Não,Não,2,3,Nenhum,35,1,Tarde,03/08/2025
+P1388,,M,Sem escolaridade,Não,Sim,NÃO,1,2,Nenhum,14,0,Nenhum,03/03/2024
+P0411,62,M,Médio,Não,Sim,Não,1,,Nenhum,7,0,Nenhum,2024-07-13
+P0097,63,feminino,Médio,nao,nao,N,2,3,Nenhum,35,3,Tarde,2025-04-24
+P0615,68,M,Fundamental,Sim,Não,nao,3,5,Nenhum,42,7,Noite,28/02/2024
+P0157,75,F,Fundamental,Não,Não,Sim,1,4,Nenhum,42,4,Tarde,2025-05-12
+P0420,85 anos,M,Médio ,Não,Não,Não,1,2,Moderado,21,3,Tarde,07/04/2024
+P1416,67,F,,N,Sim,Não,3,3,Nenhum,28,2,Noite,2024-11-15
+P0478,65,F,sem escolaridade,Não,Não,Não,1,4,Nenhum,42,4,Noite,18/11/2024
+P1346,92,F,Superior,Sim,Não,Sim,4,6,Nenhum,63,12,Noite,2024-01-19
+P0681,81,Feminino,fundamental,Sim ,Não,Sim,5,6,Nenhum,49,6,Tarde,2024-01-15
+P0988,77,M,Médio,Sim,não,Não,1,3,Nenhum,28,6,Tarde,27/11/2024
+P0448,71,M,Médio,Sim,Não,Não,1,4,Nenhum,49,4,Noite,2025-10-04
+P0179,73,Masculino,FUNDAMENTAL,Não,Sim,NÃO,1,2,Nenhum,28,1,Manhã,12/01/2025
+P0391,60,M,Fundamental,Não,S,Sim,1,4,Nenhum,49,1,Manhã,01/07/2025
+P1328,61,F,Fundamental,Não,Não,Não,3,9,Nenhum,77,11,Noite,2025-07-15
+P0894,74,F,Sem escolaridade,Não,Não,Não,1,,Nenhum,28,4,Noite,2025-06-07
+P1279,77,F,Médio,NÃO,Sim,Não,2,,Nenhum,14,0,Nenhum,2025-02-21
+P1472,83,M,Fundamental,Não,Sim,NÃO,1,3,Nenhum,21,1,Noite,19/01/2024
+P1074,61,M,Fundamental,N,Sim,Sim,1,3,Nenhum,28,1,Noite,2024-02-12
+P0669,70,F,Fundamental,Sim,Não,Não,2,2,Nenhum,21,2,Noite,2024-06-24
+P1272,86,M,Médio ,SIM,Não,Não,3,3,Nenhum,28,5,Manhã,2024-06-11
+P1143,60,F,Médio,Sim,Não,Não,1,2,Nenhum,21,1,Noite,2024-07-31
+P0902,75,FEMININO,Sem escolaridade,Não,Sim,s,1,1,Leve,7,0,Nenhum,2024-06-29
+P1089,79,f,medio,Sim ,Não,Não,3,4,Nenhum,28,4,Manhã,2024-02-26
+P0295,72,F,,Não,Nao,Não,1,,Leve,35,3,Noite,2024-09-04
+P0835,68,F,superior,Não,Sim,Não,3,5,Nenhum,56,3,Manhã,2024-09-28
+P0919,85,F,Sem escolaridade,Sim,Não,Não,1,2,Nenhum,21,6,Noite,13/10/2025
+P0089,78,Feminino,Médio,Sim,Não,SIM,1,3,Nenhum,28,3,Noite,2025-01-09
+P0042,78,F,Sem escolaridade,Não,Sim,Não,3,5,Nenhum,56,2,Noite,2024-11-08
+P1327,76,F,Ensino Fundamental,Não,SIM,SIM,2,5,Moderado,42,4,Tarde,2024-06-12
+P0632,94,F,Fundamental,Não,Sim,não,3,4,Nenhum,49,6,Manhã,2025-05-30
+P0695,67,Masculino,Sem escolaridade,Não,Sim,Não,1,2,Nenhum,21,0,Nenhum,2024-04-01
+P1429,79,F,superior,NÃO,Não,não,1,99,Leve,14,2,Noite,2024-01-23
+P1443,63,F,,Não,Não,NÃO,1,1,Nenhum,14,0,Nenhum,28/10/2025
+P1461,82,M,,Não,Sim,Não,3,3,Nenhum,28,1,Manhã,
+P0291,72,F,Superior,Não,Sim,Não,1,,Nenhum,14,0,Nenhum,2024-09-08
+P0865,68,M,Fundamental,Não,Sim,Não,2,2,Nenhum,21,0,Nenhum,2024-05-19
+P0627,71,M,Fundamental,não,Não,não,3,3,Nenhum,28,4,Noite,2024-01-03
+P0349,61,M,fundamental,NÃO,Não,Não,3,4,Nenhum,35,2,Tarde,2025-03-27
+P0598,81,masculino,Fundamental,Sim,Não,S,3,4,Leve,35,40,Tarde,08/08/2025
+P1454,71,F,Sem escolaridade,Não,SIM,Não,2,4,Nenhum,35,1,Noite,10/07/2024
+P1168,88,F,nenhuma,Não,Sim,Sim,1,2,Leve,14,1,Manhã,2024-05-27
+P0874,75,F,,Sim,Não,Sim,2,2,Nenhum,21,3,Tarde,2024-08-13
+P0679,77,M,superior,nao,Não,Não,4,6,Nenhum,49,9,Manhã,2025-07-17
+P0459,77,M,Fundamental,Não,Sim,Sim,3,5,Nenhum,42,2,Tarde,2025-04-17
+P0376,93,F,Ensino Fundamental,Não,s,Não,1,3,Nenhum,21,3,Tarde,2024-09-26
+P0334,66,M,Sem escolaridade,Não,Não,Sim,1,1,Moderado,7,0,Nenhum,17/07/2024
+P1313,69,M,medio,Sim,Não,Sim,3,3,Leve,35,3,Manhã,2025-02-22
+P1362,81,M,Médio,Sim,Não,Não,2,3,Nenhum,21,2,Noite,2024-04-16
+P1201,63,F,Médio,Não,Não,sim,1,2,Nenhum,14,1,Tarde,2025-11-09
+P0713,66,Feminino,Fundamental,Não,Não,Não,2,4,Nenhum,42,0,Nenhum,2025-04-16
+P1431,72,F,Superior,Não,Sim,não,1,2,Nenhum,14,1,Tarde,07/06/2025
+P0597,70,F,Médio,Sim,Sim,Não,1,5,Nenhum,42,0,Nenhum,29/02/2024
+P0329,65,F,sem escolaridade,Não,N,Não,1,2,Nenhum,21,4,Noite,2024-09-18
+P0319,82,F,Médio,Sim,Não,Não,1,4,Nenhum,42,4,Manhã,2025-04-13
+P1188,77,F,sem escolaridade,NÃO,Sim,Não,2,4,Leve,42,6,Noite,2024-09-15
+P1005,74,F,,Não,nao,Sim,5,5,Nenhum,49,0,Nenhum,2025-07-20
+P0013,75,F,FUNDAMENTAL,Sim,Não,Sim,1,1,Nenhum,14,0,Nenhum,2024-10-28
+P0172,78,F,Médio,Sim,Não,NÃO,2,2,Nenhum,14,1,Tarde,2025-02-08
+P0261,72,M,Superior,Não,Sim,Sim,1,2,Nenhum,21,0,Nenhum,14/08/2024
+P0866,81,F,Médio,Não,Não,Não,1,2,Nenhum,21,3,Tarde,2025-09-07
+P0908,,F,nenhuma,Não,Não,Não,2,4,Nenhum,42,1,Noite,20/05/2025
+P1495,71,m,Fundamental,não,Sim ,NÃO,1,2,Nenhum,21,0,Nenhum,2024-03-28
+P0139,90,M,Sem escolaridade,Sim,Não,Não,3,5,Nenhum,49,13,Noite,2025-09-29
+P0550,79,F,Fundamental,Não,Sim,Sim,2,2,Nenhum,21,0,Nenhum,2024-10-20
+P1378,75,M,Sem escolaridade,Não,Não,Sim,4,5,Nenhum,49,3,Tarde,31/10/2024
+P0893,71,m,Fundamental,Não,Não,Não,1,3,Nenhum,28,1,Tarde,2025-11-23
+P0821,70,M,Fundamental,Não,ignorado,Sim,1,1,Nenhum,7,0,Nenhum,2025-09-26
+P0559,64,F,Superior,Não,sim,Não,2,2,Leve,21,1,Noite,2024-02-16
+P0140,97,F,Fundamental,nao,Sim,Não,1,3,Moderado,28,8,Manhã,2024-08-04
+P1348,68,M,Sem escolaridade,Sim,Sim,não,1,3,Moderado,35,4,Tarde,2025-10-16
+P1233,65,M,Médio,nao,Sim,Não,2,3,Nenhum,35,0,Nenhum,2025-08-30
+P0225,75,F,Fundamental,N,Sim,não,1,4,Nenhum,49,3,Noite,2024-02-14
+P0619,69,F,,Não,Não,Sim,1,4,Nenhum,49,2,Noite,2025-09-20
+P0410,64,Masculino,Ensino Médio,Não,Não,Não,4,6,Nenhum,56,6,Noite,2025-10-06
+P0326,,M,Fundamental,Sim,Não,NÃO,3,3,Nenhum,28,5,Tarde,2024-09-06
+P0300,77,M,Fundamental,Sim,não,Sim,7,8,Nenhum,63,20,Noite,2024-03-28
+P0941,76,F,,Sim,Não,Sim,2,3,Nenhum,28,1,Manhã,2024-11-09
+P1487,81,F,medio,SIM,Não,Não,1,4,Nenhum,42,46,Noite,13/09/2024
+P0707,67,F,Fundamental,N,Não,Sim,3,4,Nenhum,49,1,Noite,2025-04-24
+P1432,67,m,FUNDAMENTAL,Sim,não,não,1,3,Nenhum,35,4,Manhã,2024-12-12
+P0999,75,F,Fundamental,Não,N,Sim,2,3,Nenhum,35,0,Nenhum,2024-01-09
+P1227,80,F,Fundamental,Nao,Sim,Não,2,3,Nenhum,28,0,Nenhum,2024-09-03
+P0574,67,M,Médio,Não,Sim,Nao,1,3,Nenhum,21,1,Tarde,2025-05-11
+P0504,62,M,FUNDAMENTAL,N,Sim,Não,1,3,Nenhum,28,2,Tarde,2025-01-12
+P0606,78,M,Ensino Médio,Não,Sim,Não,1,3,Leve,35,2,Noite,2024-06-24
+P0803,77,M,medio,Não,Não,Não,1,1,Nenhum,7,0,Nenhum,2024-04-09
+P0004,,Feminino,Ensino Fundamental,Não,Não,Não,1,1,Nenhum,7,0,Nenhum,2025-01-28
+P0977,83,F,Fundamental,Sim,Não,Não,3,3,Leve,35,10,Tarde,2024-01-30
+P0468,89,F,Médio,Não,Sim,Não,3,4,Nenhum,42,3,Tarde,26/03/2025
+P0322,72,M,fundamental,Não,Não,Sim,1,2,Nenhum,28,0,Nenhum,2025-04-12
+P0006,64,F,,Não,Sim,SIM,2,2,Nenhum,21,0,Nenhum,03/08/2024
+P0223,75,F,Sem escolaridade,Não,SIM,Sim,1,2,Nenhum,21,0,Nenhum,2024-09-01
+P0548,66,F,,Não,Não,Sim,4,5,Leve,35,1,Noite,2024-05-15
+P0789,65,f,Superior,N,NÃO,Não,1,1,Nenhum,7,0,Nenhum,10/03/2024
+P0040,79,M,,Sim,Não,Não,1,1,Leve,7,0,Nenhum,2024-03-16
+P0543,76,M,Fundamental,Não,Não,Sim ,4,8,Leve,98,12,Tarde,2024-01-11
+P0243,60,feminino,Fundamental,Não,Sim,Não,1,1,Nenhum,14,1,Tarde,24/03/2025
+P0137,77,M,Médio ,Sim,Não,Sim,1,3,Moderado,28,5,Noite,2024-12-15
+P1222,84,M,Ensino Médio,Não,Não,Sim,4,4,Nenhum,49,3,Manhã,2024-03-06
+P0635,72,Feminino,Médio,Sim ,N,s,1,3,Nenhum,35,2,Tarde,2024-01-29
+P0340,79,F,,Não,SIM,NÃO,2,2,Leve,14,0,Nenhum,2025-11-22
+P0712,80 anos,M,Ensino Fundamental,Sim,Nao,Sim,3,5,Leve,49,12,Manhã,09/07/2025
+P1098,78,F,Médio,Não,Sim,Não,1,5,Leve,56,3,Tarde,2024-02-08
+P0793,78,masculino,FUNDAMENTAL,Sim,Nao,Sim,2,2,Nenhum,21,0,Nenhum,2024-12-01
+P1407,,F,Fundamental,Sim,Não,Sim,5,6,Nenhum,63,6,Noite,2024-12-14
+P0582,65,F,FUNDAMENTAL,Não,Sim,Nao,2,2,Nenhum,21,1,Noite,31/07/2025
+P0434,60,F,Fundamental,Não,nao,SIM,1,2,Nenhum,21,0,Nenhum,2024-10-04
+P1499,80,F,sem escolaridade,Sim,Sim,Não,2,3,Nenhum,28,1,Noite,2025-10-27
+P1430,80,F,,Nao,NÃO,Nao,2,2,Leve,21,1,Noite,2025-05-29
+P0377,72,M,FUNDAMENTAL,Não,S,Não,1,3,Nenhum,28,0,Nenhum,2025-10-29
+P0315,81,masculino,Fundamental,Sim ,Não,sim,3,4,Leve,42,3,Manhã,2025-02-24
+P0443,77,M,Médio ,Nao,Não,Não,3,5,Nenhum,42,7,Tarde,2025-07-26
+P0320,65,FEMININO,Ensino Médio,Não,s,Não,1,2,Nenhum,21,0,Nenhum,2024-12-02
+P1035,70,F,Sem escolaridade,Não,não,Não,1,1,Nenhum,7,0,Nenhum,2025-01-12
+P0837,71,M,sem escolaridade,nao,Sim ,Não,1,2,Nenhum,21,0,Nenhum,02/11/2024
+P1165,66,M,Médio,Não,Não,Não,2,4,Nenhum,42,1,Noite,24/01/2024
+P0425,67,M,medio,nao,Nao,Sim,1,4,Leve,35,-1,Noite,2025-03-18
+P0554,90,F,Analfabeto,Não,Não,Não,2,3,Nenhum,21,25,Noite,2025-04-18
+P0595,64,F,Fundamental,Não,Não,s,3,7,Nenhum,56,1,Manhã,27/10/2025
+P0945,76,M,Fundamental,Não,s,Não,5,7,Leve,77,16,Noite,2025-09-13
+P1335,77,F,FUNDAMENTAL,Sim ,Não,s,2,2,Leve,14,1,Tarde,01/01/2024
+P0812,69,M,Fundamental,Não,SIM,Não,2,3,Nenhum,28,1,Noite,2024-01-19
+P1254,76,M,,Sim,Sim,Não,2,2,Leve,14,1,Manhã,08/08/2025
+P0922,67,M,Sem escolaridade,Sim,Sim,Não,1,4,Nenhum,35,2,Tarde,2024-11-06
+P0228,89 anos,F,,Não,Não,nao,1,2,Nenhum,21,1,Noite,2025-02-08
+P1300,66,F,medio,Sim,Não,Não,1,1,Nenhum,14,0,Nenhum,2024-11-15
+P0856,74,M,fundamental,Não,Sim,Não,1,1,Nenhum,7,1,Tarde,2025-07-09
+P1028,74,F,Ensino Médio,Sim,Não,não,1,99,Nenhum,63,11,Manhã,2024-01-06
+P0725,67,F,,Não,s,Não,1,2,Moderado,28,1,Noite,05/05/2024
+P0067,71,M,Fundamental,N,Não,Não,3,3,Nenhum,35,2,Tarde,03/05/2024
+P0394,78,M,Fundamental,Sim,NÃO,Sim,2,3,Nenhum,35,4,Manhã,2025-09-17
+P0580,77,F,Superior,Não,Sim,Não,1,1,Nenhum,14,0,Nenhum,16/06/2025
+P0025,71,M,Fundamental,Sim ,Não,S,3,3,Nenhum,21,1,Tarde,2025-06-04
+P0212,63,F,Fundamental,Não,Sim,Sim,2,5,Nenhum,49,2,Tarde,2025-02-14
+P1194,80,F,Médio,Não,Sim,Não,2,4,Nenhum,49,1,Tarde,19/05/2025
+P0825,60,M,Superior,Nao,SIM,Não,1,1,Nenhum,7,0,Nenhum,2024-05-02
+P0537,70,M,Médio,Não,Sim,Sim,4,4,Nenhum,28,0,Nenhum,24/11/2024
+P0963,66,M,Médio,Sim,Não,S,3,5,Leve,42,3,Noite,2025-11-10
+P1133,69,F,Superior,Não,Não,nao,1,5,Nenhum,42,4,Tarde,2024-12-17
+P0086,78,M,nenhuma,Não,Sim,Sim,1,2,Leve,21,0,Nenhum,2024-10-11
+P1481,78,f,Sem escolaridade,Não,Sim,Sim,3,5,Nenhum,56,2,Manhã,2025-05-09
+P0273,73,M,Fundamental,Não,Não,nao,3,6,Nenhum,49,8,Manhã,21/09/2025
+P0968,68,masculino,nenhuma,Não,Sim,Sim,2,3,Nenhum,35,0,Nenhum,10/11/2024
+P0744,60,M,FUNDAMENTAL,Não,Sim,Não,1,2,Nenhum,21,0,Nenhum,2025-04-15
+P1392,86,FEMININO,Superior,Sim,Não,Sim,1,3,Nenhum,28,4,Noite,03/03/2024
+P0631,87,F,Fundamental,Não,S,Não,4,6,Nenhum,63,2,Noite,21/03/2024
+P1387,84,M,Sem escolaridade,Não,Não,NÃO,1,2,Nenhum,21,2,Tarde,02/07/2025
+P1441,-1,M,,Não,s,Não,1,1,Nenhum,7,0,Nenhum,2024-08-06
+P0506,70,F,FUNDAMENTAL,Não,Não,Sim,1,1,Nenhum,7,0,Nenhum,2025-01-29
+P0274,91,F,Fundamental,nao,s,Sim,4,5,Nenhum,49,2,Noite,2025-03-25
+P0760,78,M,,Sim,Sim ,Sim,3,5,Nenhum,42,6,Tarde,26/11/2024
+P0363,82,M,FUNDAMENTAL,Sim,Sim,NÃO,1,3,Nenhum,35,3,Noite,2024-05-20
+P0623,76,F,Médio,Sim,Sim,SIM,1,2,Nenhum,21,0,Nenhum,30/10/2025
+P0003,,F,Médio,Não,Não,Não,2,2,Leve,21,2,Manhã,10/02/2024
+P0007,75,F,Fundamental,NÃO,Sim ,Não,7,7,Nenhum,63,3,Manhã,2025-04-18
+P0312,78,M,nenhuma,N,Não,Não,2,3,Nenhum,28,3,Manhã,2024-10-14
+P1030,82,Masculino,Analfabeto,não,Não,Nao,1,1,Nenhum,14,2,Tarde,25/12/2024
+P0666,60,M,Sem escolaridade,Sim,Não,Não,3,3,Nenhum,35,4,Noite,25/03/2024
+P0991,81,M,Fundamental,N,Sim,Não,2,3,Nenhum,35,0,Nenhum,2024-09-02
+P1129,72,F,Ensino Fundamental,Não,Sim,nao,1,2,Nenhum,21,0,Nenhum,2024-02-07
+P0216,82,F,Médio,Não,Não,nao,3,4,Nenhum,28,3,Manhã,30/10/2025
+P1453,73,F,Superior,NÃO,Não,Sim,2,4,Nenhum,35,1,Manhã,2024-07-05
+P0028,77,F,Sem escolaridade,Sim,Não,Nao,5,5,Leve,56,15,Noite,2025-10-08
+P1121,78,M,Fundamental,Não,Não,Sim,2,5,Leve,56,3,Manhã,2024-10-23
+P0915,82,masculino,Sem escolaridade,Não,Não,Sim,3,,Leve,42,4,Noite,2024-07-24
+P0713,66,Feminino,Fundamental,Não,Não,Não,2,4,Nenhum,42,0,Nenhum,2025-04-16
+P0639,79,F,Fundamental,Não,-,nao,2,4,Nenhum,42,1,Noite,2025-01-15
+P1139,73,M,Médio,Não,Não,Não,2,2,Nenhum,21,0,Nenhum,2024-09-26
+P0692,72,m,Superior,Não,Sim,Sim,2,4,Nenhum,42,0,Nenhum,2025-06-17
+P1050,78,F,Sem escolaridade,Não,SIM,Não,3,3,Nenhum,28,0,Nenhum,2024-12-17
+P0625,78,M,Fundamental,Não,Sim,Não,1,2,Leve,21,0,Nenhum,02/11/2024
+P1146,80,Masculino,Ensino Médio,SIM,Nao,Sim,2,4,Leve,35,6,Noite,2024-06-09
+P0257,77,F,Médio ,Sim,NÃO,Sim,2,3,Nenhum,35,4,Noite,2024-02-29
+P0026,71,F,Fundamental,Não,NÃO,Não,2,6,Nenhum,49,7,Manhã,2025-02-15
+P0337,69,F,Sem escolaridade,Não,S,Não,1,1,Leve,7,0,Nenhum,23/04/2024
+P0573,76,F,Fundamental,Não,Sim,Nao,3,5,Nenhum,49,3,Tarde,2024-10-12
+P0048,76,f,Ensino Fundamental,N,SIM,Não,3,5,Nenhum,56,5,Manhã,2025-07-21
+P0107,66,F,medio,Não,Não,Sim,2,4,Nenhum,49,4,Noite,03/11/2024
+P0350,86,F,Fundamental,Não,Sim,Não,6,7,Leve,84,9,Tarde,09/06/2025
+P0056,69,masculino,Sem escolaridade,Não,SIM,nao,1,2,Nenhum,21,1,Noite,2025-05-29
+P1178,75,M,Sem escolaridade,Não,Não,sim,1,2,Nenhum,21,1,Manhã,2025-10-20
+P0214,70,masculino,Fundamental,Não,S,Não,5,6,Moderado,56,3,Manhã,2024-02-26
+P0121,66,Feminino,Superior,Não,Não,Não,5,6,Nenhum,56,7,Noite,2024-03-29
+P0918,78,F,Superior,Não,nao,Não,3,5,Nenhum,35,6,Noite,2024-10-31
+P1158,86,F,Médio ,Não,Não,Não,3,4,Nenhum,35,2,Manhã,2025-05-11
+P0073,sessenta e sete,masculino,Médio,Não,Sim,Não,2,2,Nenhum,21,0,Nenhum,2024-08-30
+P1169,setenta e um,F,Fundamental,Sim,Sim,sim,1,1,Nenhum,7,0,Nenhum,2025-08-02
+P0758,81,F,,Sim,Sim ,Sim,2,7,Nenhum,84,6,Noite,28/01/2025
+P0046,76,M,fundamental,nao,Não,Não,1,1,Nenhum,14,0,Nenhum,2025-01-06
+P1302,60,F,Sem escolaridade,Não,Sim,Sim,1,3,Nenhum,35,1,Tarde,2025-11-22
+P0524,72,F,Sem escolaridade,Sim ,Não,Não,2,3,Nenhum,28,4,Noite,2024-08-09
+P0917,85,Masculino,,Sim,nao,Não,5,7,Moderado,49,26,Manhã,26/04/2025
+P1180,77,F,Médio,Sim,sim,Sim,1,2,Leve,21,2,Noite,2024-07-04
+P1112,72,F,Fundamental,Não,Não,Nao,3,4,Nenhum,49,3,Tarde,2024-07-18
+P0839,89,feminino,Sem escolaridade,S,nao,Não,3,6,Nenhum,42,8,Tarde,07/08/2025
+P0534,78,M,Fundamental,Nao,NÃO,Não,2,2,Nenhum,21,1,Noite,2025-03-05
+P1170,71,M,Ensino Fundamental,Não,Não,nao,1,3,Nenhum,21,1,Tarde,25/06/2024
+P0604,69 anos,M,,Não,Sim,Sim,1,2,Nenhum,21,0,Nenhum,03/12/2024
+P0466,70,M,Fundamental,não,Sim,Não,2,4,Nenhum,35,1,Noite,2025-07-30
+P1126,72 anos,m,Fundamental,Não,Sim,Não,1,1,Nenhum,14,0,Nenhum,2024-08-31
+P1316,89,M,Médio,NÃO,Sim,Sim,3,5,Leve,63,12,Manhã,2025-10-24
+P0820,65,F,Sem escolaridade,Não,Sim,Sim,3,3,Nenhum,28,0,Nenhum,2025-08-11
+P1000,81,F,Médio,Sim,Não,Sim,6,6,Leve,70,13,Tarde,01/12/2024
+P0061,61,m,Superior,Não,Não,Não,1,1,Nenhum,14,15,Tarde,2024-06-25
+P0953,78,FEMININO,Sem escolaridade,Sim ,Não,Não,2,4,Nenhum,42,6,Noite,2024-10-20
+P0093,71,M,Sem escolaridade,Não,Não,NÃO,2,4,Nenhum,28,2,Manhã,2025-08-04
+P0667,61,M,FUNDAMENTAL,Sim,Sim,Não,1,4,Nenhum,49,1,Tarde,
+P0742,84,feminino,Médio,Não,Sim,Nao,1,4,Leve,35,2,Noite,2025-07-11
+P0195,65,M,Sem escolaridade,não,Sim,Não,1,4,Nenhum,35,1,Manhã,10/03/2025
+P0281,,M,Sem escolaridade,Não,Sim,Não,1,1,Moderado,14,1,Manhã,2024-11-13
+P0696,68,M,Superior,Não,NÃO,s,1,2,Nenhum,21,2,Noite,2024-01-07
+P0360,-1,F,Fundamental,NÃO,ignorado,Sim,1,5,Nenhum,56,2,Manhã,2025-05-13
+P0520,87,F,Fundamental,s,Não,Não,2,4,Moderado,35,19,Noite,2024-08-06
+P1235,77,M,Ensino Fundamental,Sim,Não,Não,3,3,Nenhum,35,0,Nenhum,2025-04-29
+P0810,76,feminino,Fundamental,sim,Não,Sim,1,2,Nenhum,21,1,Noite,2025-03-04
+P0183,71,Masculino,Médio,Não,Não,s,3,5,Nenhum,56,2,Noite,2024-10-08
+P1055,63,F,Ensino Fundamental,Não,Não,Sim,1,4,Nenhum,42,0,Nenhum,01/07/2025
+P0111,77,Feminino,sem escolaridade,Não,Não,N,1,3,Nenhum,35,4,Noite,2025-03-31
+P0043,69,F,Médio,Não,Não,Sim,2,3,Leve,21,2,Noite,02/06/2024
+P0747,88,M,Superior,NÃO,s,Não,2,4,Leve,42,3,Manhã,2024-12-17
+P0967,72,M,Fundamental,Sim,Não,N,1,3,Nenhum,35,4,Tarde,2024-10-22
+P0205,60,M,Sem escolaridade,Sim,Sim,Não,3,5,Nenhum,42,6,Tarde,18/06/2025
+P1051,64,m,Sem escolaridade,Não,Sim,Não,3,4,Nenhum,35,0,Nenhum,2025-11-24
+P0053,62,masculino,Médio,N,Não,Não,1,1,Nenhum,7,0,Nenhum,2025-02-08
+P0546,,F,Médio,nao,Sim,Nao,5,8,Nenhum,98,12,Noite,15/06/2024
+P0069,81,Feminino,sem escolaridade,Sim,Nao,Sim,4,4,Leve,42,3,Manhã,2024-10-08
+P1002,68,F,Médio,Não,Sim,Sim,3,4,Nenhum,42,0,Nenhum,26/09/2024
+P0904,87,F,Fundamental,não,Não,Não,3,7,Nenhum,70,5,Manhã,2024-04-22
+P0794,77,F,Fundamental,Sim,nao,não,5,7,Moderado,70,22,Manhã,07/10/2024
+P0184,83,F,,Não,S,Não,1,1,Nenhum,7,2,Tarde,2025-10-06
+P0138,81,F,Ensino Fundamental,Sim,Não,Não,2,4,Nenhum,42,10,Noite,2024-06-04
+P1024,79,Feminino,Fundamental,sim,Sim,S,1,2,Nenhum,14,0,Nenhum,2025-01-13
+P0081,78,F,,Sim,Sim,Sim,5,5,Nenhum,42,2,Manhã,2024-12-14
+P1343,78,F,Ensino Fundamental,NÃO,Não,Não,1,4,Nenhum,35,4,Noite,2024-12-06
+P0106,72,F,Fundamental,Não,Não,Sim,2,2,Nenhum,21,0,Nenhum,
+P1198,67,Feminino,medio,Não,Não,Sim,3,10,Nenhum,119,11,Noite,10/06/2025
+P0542,67,F,Médio,Não,Não,Não,1,2,Nenhum,21,1,Manhã,2025-04-21
+P0778,77,M,FUNDAMENTAL,Não,S,Não,2,3,Nenhum,35,1,Noite,16/02/2024
+P0481,,masculino,fundamental,Não,Não,Sim,1,2,Nenhum,21,0,Nenhum,2024-02-21
+P0166,67,M,Fundamental,Não,Não,Não,2,2,Nenhum,21,0,Nenhum,2024-06-19
+P0249,97,M,Sem escolaridade,Sim,Não,Não,1,1,Nenhum,7,3,Noite,19/10/2024
+P0308,84,M,Fundamental,Não,Não,S,1,2,Moderado,21,1,Noite,2025-05-22
+P0447,83,f,Médio,Nao,Sim,Não,1,2,Leve,21,0,Nenhum,2025-11-07
+P0786,76,M,Fundamental,Sim,Não,Sim,2,3,Nenhum,21,4,Noite,28/02/2025
+P0335,74,m,Fundamental,Não,-,Não,2,3,Moderado,35,4,Manhã,2025-04-01
+P0098,66,m,Sem escolaridade,Não,Sim,Não,1,3,Nenhum,28,1,Noite,2024-04-13
+P0859,,F,Sem escolaridade,Não,nao,N,2,2,Nenhum,21,1,Tarde,2024-12-02
+P0738,80,F,Analfabeto,Não,Sim,Não,2,3,Nenhum,21,3,Noite,31/01/2025
+P0926,89,masculino,nenhuma,Não,Não,Não,2,2,Nenhum,21,2,Tarde,2025-06-25
+P0883,65,Masculino,,Não,Sim,Não,3,5,Nenhum,49,2,Tarde,11/04/2025
+P0995,73,M,Analfabeto,não,Sim,Não,1,1,Nenhum,7,0,Nenhum,2025-01-11
+P0103,71,F,superior,Nao,Sim,s,1,2,Nenhum,21,0,Nenhum,22/12/2024
+P0435,81,F,fundamental,Não,Sim,Não,4,5,Nenhum,35,3,Tarde,2025-11-01
+P0075,75,M,Fundamental,Não,Sim ,Não,3,3,Nenhum,28,2,Manhã,2024-10-14
+P1382,60,Feminino,Analfabeto,Sim ,Sim,Não,1,3,Nenhum,35,2,Tarde,07/08/2024
+P0925,73,F,FUNDAMENTAL,Sim ,Sim,Não,1,5,Nenhum,56,6,Manhã,2024-03-10
+P1401,,M,Analfabeto,Não,Não,Sim,3,4,Nenhum,35,1,Noite,25/02/2024
+P0303,,F,Sem escolaridade,Não,Não,Sim,2,3,Nenhum,28,1,Manhã,2025-08-07
+P1332,65,F,,Não,Não,Não,4,5,Nenhum,49,4,Manhã,31/01/2024
+P1301,74,M,Sem escolaridade,Não,ignorado,Sim,1,3,Nenhum,21,0,Nenhum,15/08/2024
+P1260,70,M,Médio,Não,N,Não,3,,Nenhum,42,4,Noite,2024-09-08
+P0763,80,F,Fundamental,Não,Sim,Sim ,1,2,Nenhum,21,0,Nenhum,2025-01-31
+P0734,72,M,Médio,Não,nao,Não,3,4,Nenhum,28,2,Noite,2024-12-14
+P0389,setenta e seis,F,SUPERIOR,Não,Sim,Sim,1,1,Moderado,14,0,Nenhum,2024-04-04
+P0236,69,FEMININO,medio,SIM,N,Não,2,3,Nenhum,28,36,Noite,03/02/2024
+P1365,71,F,Fundamental,Não,Sim,não,4,4,Nenhum,42,1,Manhã,2024-02-26
+P0268,77,F,nenhuma,Não,Não,Sim,2,3,Leve,35,3,Tarde,2025-01-29
+P0306,66,m,Médio,Não,Não,sim,2,,Nenhum,98,6,Tarde,2024-03-31
+P0990,70,M,Superior,Não,Não,Sim,5,5,Nenhum,42,3,Noite,18/01/2025
+P0118,74,M,,Sim,SIM,NÃO,3,3,Nenhum,35,1,Noite,2025-07-04
+P1248,60,F,FUNDAMENTAL,Não,Sim,Não,1,2,Nenhum,21,0,Nenhum,2024-02-18
+P0674,63,f,Médio,Não,Não,Não,2,2,Leve,14,2,Noite,2025-01-12
+P0250,sessenta e cinco,F,Fundamental,não,nao,Sim,3,5,Nenhum,63,1,Manhã,2024-04-21
+P1221,74,M,SUPERIOR,sim,Não,Não,1,1,Nenhum,14,2,Noite,2024-08-20
+P1107,,M,Sem escolaridade,N,s,Não,3,4,Nenhum,35,2,Manhã,2024-05-14
+P0072,65,M,Fundamental,Não,Sim,Não,2,4,Nenhum,42,2,Manhã,2024-01-23
+P0095,61,M,,Não,Sim,Sim,1,1,Moderado,14,0,Nenhum,2024-02-12
+P1373,77,F,Médio,Não,Sim,Não,3,6,Nenhum,42,1,Noite,02/09/2025
+P0034,67,Masculino,Médio ,Não,Sim,nao,2,3,Nenhum,35,4,Noite,16/08/2025
+P0800,74,F,FUNDAMENTAL,Não,Não,Não,3,5,Nenhum,42,8,Tarde,2025-03-01
+P1392,86,FEMININO,Superior,Sim,Não,Sim,1,3,Nenhum,28,4,Noite,03/03/2024
+P0449,83,M,Fundamental,Não,Sim ,Não,5,7,Nenhum,77,9,Noite,06/10/2025
+P0446,62,Masculino,Ensino Médio,Não,Não,Sim,1,2,Nenhum,14,0,Nenhum,2025-07-28
+P0772,85,F,Sem escolaridade,Sim,não,Sim,2,3,Moderado,28,6,Manhã,22/04/2024
+P0717,61 anos,M,Fundamental,Não,NÃO,Não,6,7,Nenhum,63,6,Tarde,2024-12-26
+P1151,75,Masculino,Sem escolaridade,Não,Sim,Não,3,6,Nenhum,70,5,Tarde,2025-10-05
+P1177,68,F,Médio ,Não,Não,Sim,1,99,Nenhum,14,0,Nenhum,11/05/2024
+P1351,,F,Fundamental,Não,Sim,Não,3,3,Nenhum,21,1,Manhã,2024-04-28
+P1062,86,M,Médio,SIM,?,s,2,4,Nenhum,28,2,Noite,2024-03-03
+P0078,75,F,Médio ,Não,Sim,Não,5,7,Nenhum,77,7,Noite,2025-03-25
+P0085,64,F,Sem escolaridade,Sim,Sim,Não,1,1,Nenhum,7,1,Tarde,2024-10-18
+P1299,65,f,Fundamental,Não,Sim,S,1,2,Moderado,21,1,Tarde,21/12/2024
+P0083,71,M,Fundamental,Não,?,Sim,3,5,Nenhum,35,3,Noite,15/06/2025
+P0458,67,F,Médio,Não,Sim,Não,3,4,Nenhum,35,3,Manhã,2024-07-23
+P0971,72 anos,F,Fundamental,SIM,Sim,Sim ,1,3,Nenhum,21,0,Nenhum,2024-06-04
+P0677,93,F,Médio ,N,Não,Não,3,6,Nenhum,70,10,Tarde,2024-11-01
+P1485,80,F,Médio,Não,Sim ,Não,1,2,Nenhum,21,0,Nenhum,06/07/2025
+P1350,73,F,Fundamental,Sim,não,Sim,3,4,Nenhum,35,2,Noite,2025-01-23
+P0437,70,F,Médio,NÃO,Não,Não,2,3,Nenhum,28,1,Tarde,06/07/2024
+P0771,88,masculino,Fundamental,N,Sim,Não,1,1,Nenhum,14,2,Manhã,17/12/2024
+P0645,71,F,nenhuma,Sim,Não,Não,1,1,Nenhum,14,0,Nenhum,2025-04-12
+P0909,75,M,Médio ,Não,Não,Sim,4,6,Moderado,56,14,Noite,2024-09-17
+P1115,75,FEMININO,Fundamental,Não,nao,Sim ,3,5,Nenhum,56,4,Noite,2025-09-22
+P1229,78,M,Médio,Não,Não,Não,3,4,Nenhum,42,0,Nenhum,01/09/2025
+P1152,82,Feminino,Médio,Sim,Não,Sim,2,3,Nenhum,35,4,Noite,2024-02-29
+P0405,78,M,,Nao,Sim,Não,2,2,Nenhum,21,1,Tarde,2025-03-20
+P1342,,F,FUNDAMENTAL,Sim,Não,Não,4,5,Nenhum,56,4,Noite,2024-08-09
+P0986,79,F,Superior,Nao,Sim,Não,2,3,Leve,28,3,Noite,2025-07-27
+P1228,69,M,Médio,Nao,?,Não,1,1,Nenhum,14,0,Nenhum,2025-08-05
+P0105,67,F,Médio,Não,Não,Não,1,1,Nenhum,14,0,Nenhum,2025-08-01
+P0610,78,FEMININO,Médio,Não,Sim,s,3,3,Nenhum,28,0,Nenhum,2024-10-05
+P1271,86,F,Fundamental,Não,Sim ,NÃO,1,1,Nenhum,14,3,Noite,23/08/2025
+P0689,70,F,Médio,Sim,Não,Não,2,4,Nenhum,28,3,Noite,2024-08-22
+P1001,,F,FUNDAMENTAL,Não,Não,Sim,6,6,Nenhum,63,3,Noite,17/10/2024
+P0827,74,F,Fundamental,NÃO,Sim,SIM,3,4,Nenhum,35,2,Manhã,20/07/2025
+P0984,80,M,Superior,Não,Sim,Não,3,4,Nenhum,42,3,Manhã,2025-02-18
+P0063,75,M,Superior,Não,Não,não,4,4,Leve,35,9,Tarde,2025-02-16
+P0282,60,F,Ensino Fundamental,Não,S,Não,1,3,Nenhum,28,0,Nenhum,2024-11-12
+P0779,74,F,Ensino Médio,Não,Sim ,Sim,4,5,Leve,56,1,Manhã,2025-04-21
+P1044,75,F,Ensino Fundamental,Não,Sim,Sim,2,4,Moderado,42,2,Tarde,22/06/2025
+P0239,66,F,FUNDAMENTAL,Não,Não,Sim,1,2,Nenhum,21,0,Nenhum,2024-02-05
+P0224,65 anos,FEMININO,FUNDAMENTAL,Nao,Não,Sim,2,3,Nenhum,28,1,Noite,2025-07-09
+P0146,71,F,Sem escolaridade,Não,Não,Não,1,1,Nenhum,14,3,Noite,26/03/2025
+P1440,83,M,Superior,Não,Não,Não,1,5,Leve,63,16,Tarde,2024-01-03
+P0374,81,F,Sem escolaridade,Não,Não,Não,2,4,Leve,42,4,Tarde,2025-03-21
+P1396,89,F,Fundamental,Não,SIM,N,1,2,Nenhum,14,1,Noite,2024-02-05
+P0119,87,F,superior,Não,Sim,Sim,1,4,Nenhum,42,5,Noite,2024-07-22
+P1160,63,M,Sem escolaridade,Sim ,Não,sim,1,2,Leve,14,1,Tarde,2024-09-11
+P0251,71,M,,Não,Não,Não,1,3,Nenhum,28,2,Noite,27/08/2025
+P1488,63,M,medio,Sim,Não,Não,6,8,Leve,63,27,Noite,2025-09-23
+P1245,82,F,Médio,Sim,Não,Não,3,4,Moderado,42,9,Noite,29/02/2024
+P0943,78,feminino,Fundamental,Não,Sim,não,1,3,Nenhum,28,1,Noite,2025-09-01
+P0010,67,F,Fundamental,N,Sim,Sim,2,,Nenhum,21,0,Nenhum,2024-03-01
+P0450,77,F,Fundamental,Sim,Nao,Não,4,6,Leve,70,15,Tarde,19/07/2025
+P0932,78,M,sem escolaridade,Sim,Não,Não,1,3,Leve,28,3,Manhã,16/05/2025
+P0709,72,F,Fundamental,Sim,Não,N,2,3,Moderado,35,8,Noite,18/11/2024
+P0256,80,F,Superior,sim,Não,Não,1,2,Nenhum,21,0,Nenhum,14/10/2024
+P0594,61,Masculino,fundamental,Não,Não,Não,1,3,Nenhum,35,3,Noite,27/03/2024
+P0390,63,F,Ensino Médio,Não,S,Não,2,3,Nenhum,21,0,Nenhum,2025-02-26
+P1010,77,F,medio,Não,Sim,nao,2,3,Nenhum,28,1,Tarde,2025-02-17
+P1237,74,M,Fundamental,Não,Sim,Não,3,5,Nenhum,49,2,Manhã,2024-05-01
+P0558,sessenta e seis,F,Médio,NÃO,Sim,Não,5,6,Nenhum,70,3,Tarde,2025-08-01
+P1326,82,F,Sem escolaridade,nao,Sim,Não,1,3,Moderado,35,42,Tarde,2025-05-04
+P0887,84,F,Fundamental,Não,Sim,nao,4,4,Nenhum,35,2,Noite,2024-07-31
+P0461,77,M,Fundamental,Sim,Não,Não,4,5,Leve,42,6,Noite,26/11/2025
+P0724,62,FEMININO,Fundamental,Não,Não,Não,1,4,Nenhum,35,4,Tarde,2025-11-28
+P1423,77,F,,Não,Sim,Não,1,3,Nenhum,21,1,Tarde,2025-03-22
+P0145,67,F,Sem escolaridade,Não,S,Sim,1,2,Leve,21,0,Nenhum,2024-03-29
+P0502,81,M,Ensino Fundamental,SIM,ignorado,Não,3,3,Leve,21,1,Manhã,2025-03-29
+P1129,72,F,Ensino Fundamental,Não,Sim,nao,1,2,Nenhum,21,0,Nenhum,2024-02-07
+P0740,60,M,Superior,Não,Não,Sim,1,1,Leve,7,0,Nenhum,22/09/2025
+P1426,67,FEMININO,Sem escolaridade,Não,Sim,Sim,2,3,Nenhum,28,0,Nenhum,09/05/2025
+P0869,69,Feminino,Fundamental,Não,Não,Não,1,4,Nenhum,42,3,Manhã,2024-07-07
+P0732,,M,Superior,Não,Não,Sim,3,4,Nenhum,35,2,Tarde,2024-08-12
+P0540,68,F,Sem escolaridade,Não,Nao,Não,2,3,Nenhum,28,0,Nenhum,24/09/2024
+P0178,75,M,Sem escolaridade,Não,Não,Não,1,1,Nenhum,7,0,Nenhum,14/10/2024
+P1490,75,f,,Sim,Sim,Sim,2,2,Nenhum,21,0,Nenhum,2025-07-30
+P0698,66,feminino,Médio,sim,Não,Não,1,2,Leve,21,1,Manhã,27/10/2025
+P1164,62,M,Fundamental,Não,Não,Sim,2,2,Nenhum,14,0,Nenhum,2025-10-03
+P1076,76,F,fundamental,Sim,Não,Não,3,3,Nenhum,28,3,Tarde,2025-10-25
+P0924,69,M,Fundamental,Não,Sim,Não,1,2,Nenhum,21,0,Nenhum,12/01/2025
+P0950,60,M,Superior,Não,Sim,Não,2,,Nenhum,21,0,Nenhum,2024-01-21
+P0429,63,Feminino,Fundamental,Sim,Não,Sim,5,5,Nenhum,35,2,Tarde,2024-03-18
+P0008,71,M,Fundamental,Não,Sim,Sim,5,9,Nenhum,84,4,Noite,2024-10-24
+P0911,68,M,Fundamental,Sim,Não,Não,1,1,Leve,7,0,Nenhum,16/11/2025
+P0668,78,f,Médio,Não,s,SIM,1,4,Nenhum,42,3,Manhã,2024-03-12
+P1389,77,FEMININO,FUNDAMENTAL,Não,Não,Não,1,1,Nenhum,14,0,Nenhum,2024-12-19
+P0358,76,F,Sem escolaridade,Não,Sim ,Sim,1,3,Nenhum,35,1,Tarde,2024-04-05
+P0784,81,Feminino,Sem escolaridade,Sim,Sim,Não,2,4,Leve,28,9,Tarde,2024-11-29
+P0736,75,F,Fundamental,Não,Sim,Não,2,3,Moderado,21,3,Noite,24/02/2024
+P0330,70,M,Fundamental,Não,Não,NÃO,6,7,Nenhum,84,9,Noite,2024-01-25
+P1352,78,M,Médio,Nao,sim,Não,2,3,Nenhum,28,1,Noite,2025-06-07
+P1183,68,F,Fundamental,Sim,nao,Não,3,5,Nenhum,49,8,Noite,2025-07-15
+P1150,82,F,fundamental,nao,Não,nao,1,2,Nenhum,28,1,Manhã,2024-05-18
+P0259,73,F,FUNDAMENTAL,Não,Sim,Não,1,4,Nenhum,42,0,Nenhum,2025-07-10
+P0942,81,F,Fundamental,Sim,Não,Sim,2,2,Nenhum,21,1,Tarde,2025-03-28
+P1210,76,F,Médio,Nao,Não,N,1,5,Leve,35,5,Noite,18/04/2024
+P0373,0,M,Fundamental,Não,s,Não,1,1,Nenhum,7,0,Nenhum,2024-03-01
+P1135,73 anos,M,Médio ,Não,Sim,Sim,1,2,Nenhum,21,1,Noite,2025-09-11
+P1058,77,F,FUNDAMENTAL,Não,Sim,Não,4,6,Nenhum,49,6,Manhã,27/05/2025
+P0143,60,M,Fundamental,Não,Não,Não,2,2,Nenhum,14,0,Nenhum,2025-11-06
+P0526,70,M,Médio,Não,nao,Sim,3,3,Nenhum,28,1,Noite,
+P1171,65,M,medio,N,Sim,Não,4,6,Leve,70,5,Noite,2024-07-31
+P0233,77,m,Ensino Fundamental,Sim,Não,sim,1,1,Leve,14,2,Noite,16/12/2024
+P1341,68,F,,Não,Sim,NÃO,1,1,Nenhum,7,0,Nenhum,2025-11-15
+P1465,82,F,Sem escolaridade,Sim,Não,SIM,1,2,Moderado,21,3,Noite,2024-06-20
+P0441,72,M,fundamental,Nao,Não,Não,3,3,Nenhum,21,0,Nenhum,2024-06-05
+P0532,66,F,Sem escolaridade,Não,Sim,Não,3,3,Nenhum,21,2,Noite,2024-02-28
+P1238,79,F,Médio,Não,Não,Não,4,5,Nenhum,35,5,Tarde,2025-01-07
+P0227,94,m,Analfabeto,Não,ignorado,Não,2,5,Nenhum,35,2,Noite,2025-03-11
+P1199,86,M,,nao,Sim,Não,2,5,Nenhum,56,2,Tarde,12/09/2024
+P0229,67,F,superior,Não,SIM,Não,5,6,Nenhum,49,2,Noite,2025-05-04
+P1318,77,Feminino,Fundamental,N,Sim,Não,1,1,Nenhum,7,0,Nenhum,27/06/2025
+P1336,89 anos,FEMININO,Sem escolaridade,Não,Sim,sim,1,1,Nenhum,7,1,Noite,2025-06-02
+P0213,74 anos,M,Fundamental,NÃO,Sim,Não,3,3,Leve,35,2,Tarde,2025-04-16
+P0886,76,M,Ensino Fundamental,Não,S,Não,4,4,Nenhum,49,7,Noite,2024-10-13
+P0080,72,f,Fundamental,NÃO,Sim,Não,1,2,Nenhum,21,2,Noite,2024-11-24
+P0149,83,M,nenhuma,N,N,Não,3,3,Nenhum,28,3,Noite,2024-09-30
+P0815,69,FEMININO,Fundamental,Não,Sim,Não,1,2,Leve,28,2,Noite,21/09/2025
+P1480,88,F,FUNDAMENTAL,não,Sim,Não,4,5,Nenhum,42,4,Manhã,2024-12-22
+P0965,74,Feminino,fundamental,Não,Não,Não,3,5,Leve,42,4,Noite,2025-06-22
+P0672,76,F,Médio,NÃO,Não,Não,1,1,Nenhum,14,1,Tarde,2024-06-27
+P1190,73,M,Fundamental,Não,Não,Nao,2,2,Nenhum,28,2,Tarde,22/08/2024
+P0556,72,F,Superior,NÃO,Sim,Nao,1,2,Nenhum,28,0,Nenhum,28/12/2024
+P1408,79,m,Fundamental,não,Sim,Não,1,1,Leve,14,2,Manhã,2025-02-05
+P0134,72,feminino,Superior,Não,SIM,Não,1,3,Nenhum,28,2,Noite,2025-01-17
+P1218,60,M,Fundamental,Não,Não,Sim,1,2,Moderado,21,2,Noite,23/07/2025
+P0934,87,F,Sem escolaridade,Sim,Não,Sim,3,4,Leve,35,8,Tarde,2025-06-06
+P1311,65,F,Sem escolaridade,nao,Sim,Não,1,2,Nenhum,14,1,Tarde,2024-12-10
+P0824,60,M,Fundamental,NÃO,Sim,Não,1,3,Nenhum,35,0,Nenhum,
+P0409,60,f,Fundamental,nao,Não,Sim,1,2,Nenhum,14,1,Noite,2025-03-10
+P0369,76,M,Fundamental,Não,Não,Não,3,6,Nenhum,63,4,Manhã,22/07/2024
+P0508,77,f,Superior,Não,não,não,2,3,Nenhum,35,5,Noite,05/06/2025
+P1217,60,M,sem escolaridade,Sim,Não,Sim ,1,2,Nenhum,21,0,Nenhum,2025-10-10
+P0505,60,M,fundamental,Não,Sim,N,3,3,Nenhum,35,2,Noite,2025-03-05
+P1371,62,M,,Não,NÃO,Não,2,3,Nenhum,35,1,Tarde,2025-01-12
+P0348,79,Feminino,Superior,Não,Sim,SIM,3,6,Nenhum,42,1,Noite,2024-01-06
+P0387,78,F,Sem escolaridade,Sim,Sim,Sim,2,2,Nenhum,21,0,Nenhum,2025-01-31
+P0001,76,M,Fundamental,Sim,Nao,Não,1,1,Nenhum,7,1,Noite,2024-08-16
+P1027,60,F,Fundamental,Não,Não,Não,2,4,Nenhum,42,3,Noite,2025-04-11
+P0361,73,M,nenhuma,N,Sim,Não,2,3,Nenhum,28,0,Nenhum,2025-04-05
+P0895,72,masculino,Fundamental,Não,Não,Não,2,4,Nenhum,42,5,Noite,2024-09-09
+P0829,84,F,Fundamental,nao,Nao,Sim,1,4,Nenhum,42,2,Manhã,2025-02-15
+P1457,92,M,Ensino Fundamental,Não,Sim,Não,4,4,Nenhum,28,2,Noite,2025-03-22
+P0476,71,feminino,Ensino Médio,Não,Sim,Sim,4,4,Moderado,42,2,Manhã,2024-02-02
+P1319,62,M,Fundamental,Não,Sim,Sim,4,5,Nenhum,56,2,Noite,07/08/2024
+P0058,86,F,fundamental,Sim ,N,Não,1,1,Nenhum,14,2,Manhã,18/12/2024
+P0638,65,M,Fundamental,Sim,Nao,nao,1,4,Nenhum,42,6,Noite,2024-11-04
+P1345,66,F,,NÃO,S,Não,2,3,Nenhum,28,2,Manhã,2025-02-16
+P1080,85,m,,Sim,N,Não,2,3,Nenhum,28,4,Tarde,2025-08-17
+P1006,77,FEMININO,Fundamental,Não,Não,Não,3,5,Nenhum,56,7,Manhã,2024-05-14
+P0173,70,M,Médio,Não,Sim,Não,1,2,Nenhum,21,0,Nenhum,2025-04-15
+P0451,73,F,Fundamental,Sim,Não,Não,1,2,Nenhum,21,1,Noite,31/05/2025
+P0126,77,M,Médio,Não,Não,Não,4,6,Nenhum,49,2,Noite,2024-08-10
+P0039,67,M,Fundamental,Não,Sim,S,4,5,Nenhum,35,0,Nenhum,2024-09-12
+P0531,71,m,,não,Não,Nao,3,9,Leve,70,16,Manhã,2025-01-23
+P0858,77,F,Fundamental,Não,Sim,Não,3,3,Leve,35,1,Tarde,2024-03-13
+P0714,74,M,Médio,Não,Não,Não,1,3,Nenhum,28,1,Tarde,2025-03-28
+P0091,79,F,FUNDAMENTAL,Não,Sim,N,2,2,Nenhum,14,1,Noite,2024-10-05
+P1494,65,F,Fundamental,Sim,Sim,Não,2,5,Nenhum,63,4,Noite,2024-12-05
+P0182,76,F,Médio,Não,Sim,Não,1,2,Nenhum,21,0,Nenhum,2025-03-31
+P0876,60,F,Ensino Fundamental,Não,Não,Não,1,1,Nenhum,14,0,Nenhum,2025-05-02
+P1041,66,F,,Não,Não,Não,2,5,Nenhum,56,5,Manhã,2024-01-05
+P0787,74,Feminino,Fundamental,NÃO,Sim,Não,1,3,Nenhum,28,1,Noite,28/09/2025
+P0415,72,M,SUPERIOR,Sim,Não,Não,1,3,Nenhum,21,4,Manhã,2025-10-27
+P0252,77,F,Médio,Sim,Não,Não,1,4,Moderado,35,7,Noite,21/08/2024
+P0070,72,F,superior,Não,Não,Não,1,2,Nenhum,21,0,Nenhum,25/05/2024
+P0804,77,F,Fundamental,Não,Sim,Não,1,1,Nenhum,7,0,Nenhum,31/03/2024
+P0132,63,M,Médio,Não,S,Sim,2,4,Nenhum,28,0,Nenhum,2024-04-07
+P0301,88,F,FUNDAMENTAL,Não,NÃO,Não,2,2,Nenhum,21,2,Tarde,2025-06-10
+P1376,77,F,medio,Não,não,Sim ,2,5,Nenhum,49,-1,Noite,2024-09-13
+P0327,61,M,Médio,Não,Sim,Sim,2,2,Nenhum,21,0,Nenhum,2025-09-18
+P1273,71,M,Fundamental,nao,Sim,Não,5,5,Nenhum,35,2,Tarde,11/01/2025
+P1145,74,feminino,Superior,Não,Sim,Sim,1,3,Nenhum,35,1,Tarde,2024-09-04
+P0500,62,M,FUNDAMENTAL,Nao,Não,Nao,1,1,Nenhum,14,2,Noite,2025-01-26
+P0342,76,M,Médio,Não,Não,Sim,2,3,Nenhum,21,0,Nenhum,15/11/2024
+P0833,65,F,Sem escolaridade,Sim,Não,s,3,4,Nenhum,49,8,Noite,2025-05-26
+P0365,73,M,medio,N,Sim,Nao,1,3,Nenhum,21,2,Noite,18/09/2024
+P0496,81,M,Médio,Sim,Sim,Não,1,1,Moderado,7,1,Tarde,16/08/2025
+P1436,73,M,Médio,Sim,Não,S,2,4,Nenhum,28,2,Noite,2025-01-04
+P0339,83,F,FUNDAMENTAL,Não,Sim,Não,2,3,Nenhum,21,0,Nenhum,2025-10-03
+P0422,67,F,Médio,Sim,não,Sim,2,4,Nenhum,49,2,Manhã,2024-02-17
+P0165,81,F,Superior,Sim,Sim,Não,1,,Moderado,7,2,Noite,2024-09-19
+P0029,77,F,Médio ,N,Sim,N,3,4,Nenhum,42,5,Tarde,2024-05-21
+P0517,79,m,fundamental,Não,Não,Não,3,6,Leve,42,9,Noite,2024-12-04
+P0194,86,feminino,Sem escolaridade,Sim,Não,SIM,2,4,Moderado,28,7,Manhã,27/06/2024
+P1025,60,M,Sem escolaridade,Não,Sim,Não,1,2,Nenhum,28,2,Tarde,2024-05-19
+P1403,72,M,Médio,Sim,nao,Sim,2,6,Nenhum,42,4,Manhã,2024-10-01
+P0946,71,feminino,Sem escolaridade,Não,Não,nao,2,2,Nenhum,21,1,Tarde,30/11/2025
+P1402,71,F,Fundamental,NÃO,Não,Sim,4,4,Nenhum,35,0,Nenhum,30/08/2025
+P0170,74,F,nenhuma,nao,Não,Não,1,2,Nenhum,14,0,Nenhum,17/09/2025
+P0168,77,F,nenhuma,Não,sim,não,4,5,Nenhum,35,3,Manhã,2025-09-22
+P0653,87,M,Sem escolaridade,Sim,Não,SIM,3,6,Nenhum,63,16,Noite,2025-02-02
+P0174,64,M,Fundamental,nao,Não,Sim,1,1,Nenhum,7,0,Nenhum,2025-05-29
+P0519,81,Feminino,fundamental,Não,Não,Não,3,8,Nenhum,77,2,Noite,2024-01-09
+P1250,62,F,Ensino Fundamental,Não,Sim,Não,1,3,Nenhum,28,0,Nenhum,2025-10-06
+P1236,68,F,nenhuma,Sim,nao,Sim,1,5,Nenhum,63,8,Tarde,02/07/2024
+P0913,78,M,,Não,Sim,Sim,3,4,Nenhum,28,4,Tarde,2024-06-09
+P0492,77,F,Sem escolaridade,Não,Não,não,3,4,Moderado,42,6,Noite,2025-05-04
+P0954,65,M,Fundamental,Não,Sim,N,1,2,Nenhum,28,0,Nenhum,2024-07-01
+P0074,78,F,medio,Não,Não,Não,4,4,Nenhum,42,4,Noite,2025-06-03
+P1291,75,FEMININO,Sem escolaridade,Não,Sim,SIM,2,4,Nenhum,35,1,Noite,2025-07-23
+P0588,67,F,Médio,Não,Não,Não,1,2,Nenhum,21,0,Nenhum,2025-04-08
+P0751,74,M,fundamental,Não,Sim,Não,3,4,Leve,35,4,Manhã,2024-06-07
+P0658,75,F,Sem escolaridade,Não,Sim,Sim,4,5,Nenhum,49,1,Noite,15/10/2025
+P0843,88,F,Médio,Não,Sim,Sim,3,5,Nenhum,56,3,Manhã,2025-07-01
+P0235,68,M,Médio,Sim,S,nao,2,4,Nenhum,42,2,Tarde,2025-11-03
+P0733,78,M,Médio,Não,Sim,Não,5,7,Nenhum,84,7,Tarde,12/05/2024
+P0215,71,F,Sem escolaridade,Não,Não,Não,4,5,Nenhum,35,3,Noite,2024-07-04
+P0163,91,FEMININO,Superior,Não,Não,Não,2,3,Nenhum,28,5,Manhã,14/07/2024
+P0133,79,M,Médio,Sim,Não,Nao,2,4,Nenhum,49,12,Manhã,2024-05-02
+P1456,73,F,Fundamental,Não,Não,Não,2,4,Leve,28,5,Noite,04/08/2025
+P1264,70,M,,Não,SIM,Sim,1,1,Nenhum,7,0,Nenhum,07/08/2025
+P0935,76,F,sem escolaridade,nao,Não,Sim,2,4,Nenhum,49,1,Tarde,2025-09-24
+P0109,81,M,Médio,Não,Não,Sim,4,4,Nenhum,35,4,Manhã,2025-07-05
+P0569,78,f,Sem escolaridade,Não,Sim,Não,3,4,Nenhum,42,3,Noite,13/05/2024
+P0891,67,M,Fundamental,Não,Sim,sim,3,3,Nenhum,21,1,Noite,2024-04-24
+P0948,60,M,Fundamental,SIM,Sim,Sim,1,2,Nenhum,21,0,Nenhum,2025-11-03
+P1042,82,M,fundamental,Não,Não,Não,3,4,Nenhum,28,7,Noite,2024-05-27
+P0885,,M,Fundamental,Não,s,Sim,1,2,Nenhum,21,1,Noite,2025-09-15
+P1303,79,F,,Não,Não,Sim,2,2,Moderado,21,2,Tarde,2025-05-28
+P0851,71,M,Sem escolaridade,Não,Não,Não,2,2,Nenhum,21,2,Manhã,30/03/2024
+P0735,76,M,Médio,N,Sim,Sim,1,2,Nenhum,21,0,Nenhum,2024-08-19
+P0718,79,M,Ensino Fundamental,Não,Não,Sim,1,1,Nenhum,14,0,Nenhum,2025-05-10
+P0455,75,Feminino,Analfabeto,Nao,Não,s,1,7,Nenhum,77,4,Noite,2024-01-15
+P0265,78,M,Médio,Não,Não,Sim,2,2,Nenhum,21,0,Nenhum,2024-09-13
+P0076,80,F,Fundamental,Não,Não,Não,1,3,Moderado,28,4,Tarde,12/08/2025
+P0445,71,M,Médio ,Não,Não,Não,3,4,Nenhum,42,2,Manhã,2024-06-16
+P0396,75,feminino,Fundamental,Sim,Nao,Sim,1,2,Nenhum,28,2,Manhã,2025-10-24
+P0177,87 anos,F,Fundamental,Não,Sim,Não,3,4,Nenhum,28,2,Manhã,2024-03-09
+P1043,80,F,Médio,Não,Não,Não,2,2,Nenhum,21,3,Tarde,2024-02-19
+P1349,81,feminino,Ensino Médio,Não,Sim,Não,2,3,Nenhum,35,0,Nenhum,2024-12-06
+P0260,63,M,Analfabeto,Não,NÃO,Sim ,1,5,Nenhum,35,1,Noite,2025-01-27
+P1066,74,F,Sem escolaridade,Não,Sim,Não,3,4,Nenhum,35,3,Manhã,2025-09-08
+P0596,71,F,Sem escolaridade,não,Sim,Não,2,4,Moderado,28,8,Tarde,2024-08-23
+P0062,71,FEMININO,Sem escolaridade,não,sim,Não,1,2,Nenhum,14,19,Nenhum,2025-01-05
+P0873,80,Feminino,Médio,Não,Não,Nao,3,4,Moderado,35,6,Tarde,2025-01-27
+P1437,70,M,fundamental,nao,Sim,Sim,1,4,Nenhum,28,1,Tarde,23/06/2025
+P1448,999,F,Sem escolaridade,NÃO,Sim,Não,2,5,Leve,56,4,Tarde,24/11/2024
+P0279,84,F,Sem escolaridade,Não,Sim,Não,2,4,Nenhum,35,2,Tarde,2024-07-02
+P0037,73,M,Fundamental,Não,Não,Não,1,1,Nenhum,7,0,Nenhum,30/10/2025
+P0663,67,M,Fundamental,SIM,Não,Sim,1,1,Nenhum,7,1,Noite,06/09/2025
+P1393,70,F,,Não,Não,Sim,3,4,Nenhum,35,1,Manhã,2024-05-12
+P1117,83,F,superior,Não,Não,Sim,1,5,Leve,63,6,Noite,2025-03-27
+P0978,71,F,Fundamental,sim,Sim,S,1,3,Nenhum,28,2,Tarde,09/10/2024
+P0739,61,M,Médio,Sim,Não,Nao,3,4,Nenhum,49,5,Tarde,2025-04-08
+P0192,73,F,Analfabeto,nao,Sim,Não,3,5,Nenhum,63,5,Manhã,2024-06-25
+P0920,60,FEMININO,Fundamental,Sim,Não,Não,1,1,Nenhum,7,0,Nenhum,2025-05-29
+P0457,oitenta e três,F,Médio,Sim,Não,Sim,5,5,Nenhum,49,8,Noite,21/08/2024
+P0676,77,feminino,Médio ,Não,Não,Sim,2,3,Leve,35,4,Tarde,2024-06-14
+P0761,84,M,Sem escolaridade,Não,Sim,Não,2,4,Nenhum,42,1,Tarde,07/09/2025
+P1394,78,M,Fundamental,S,Sim,Não,3,7,Nenhum,63,9,Noite,05/01/2024
+P0729,65,masculino,Médio ,Não,nao,não,1,2,Nenhum,21,3,Manhã,24/12/2024
+P0413,69,M,Sem escolaridade,Não,Sim,Não,1,5,Nenhum,63,1,Noite,2025-03-19
+P0826,74,M,Ensino Fundamental,NÃO,Sim,Não,5,6,Nenhum,63,9,Tarde,21/09/2024
+P0617,80,F,Sem escolaridade,Não,não,nao,1,3,Nenhum,28,5,Noite,2024-07-17
+P0115,,M,Sem escolaridade,Não,Sim,Sim,2,4,Leve,35,4,Manhã,2024-05-18
+P0418,85,FEMININO,Superior,Sim,Não,Sim ,6,8,Nenhum,56,10,Noite,2024-10-06
+P1470,60,M,Fundamental,Não,Nao,SIM,1,4,Nenhum,28,0,Nenhum,2025-03-11
+P0970,74,masculino,Fundamental,Não,Sim,N,1,2,Nenhum,21,0,Nenhum,2024-12-31
+P0605,69,F,,Não,Não,Não,3,,Nenhum,56,6,Manhã,2024-12-06
+P1476,setenta e três,M,fundamental,Sim,Não,Não,1,,Nenhum,7,2,Manhã,27/09/2024
+P0090,78,F,,Não,Sim ,Não,3,4,Nenhum,42,0,Nenhum,2024-10-28
+P0849,68,M,Superior,NÃO,Não,Não,1,1,Nenhum,7,0,Nenhum,01/01/2024
+P1179,77,F,superior,Sim,Não,Não,4,4,Nenhum,35,8,Manhã,2025-03-05
+P1475,72,FEMININO,Sem escolaridade,Sim,não,nao,2,2,Nenhum,21,0,Nenhum,2025-01-31
+P0754,90,F,,Não,Não,sim,1,2,Leve,14,0,Nenhum,2024-08-02
+P0499,60,M,Sem escolaridade,Não,Sim,Sim,2,4,Nenhum,28,0,Nenhum,05/01/2025
+P0012,80,F,nenhuma,Não,Sim,NÃO,1,2,Nenhum,14,1,Noite,2025-05-09
+P0397,80,F,Fundamental,não,SIM,Sim,4,4,Nenhum,35,2,Noite,2024-02-21
+P0285,65,M,Fundamental,Não,Não,Não,1,2,Nenhum,21,1,Noite,01/10/2025
+P1067,65,M,medio,Sim,Não,Sim,1,4,Nenhum,35,0,Nenhum,2024-05-08
+P0691,77,F,superior,Não,Não,Sim,2,,Nenhum,28,0,Nenhum,2024-09-21
+P1384,73,M,Fundamental,Não,Sim,Sim,2,3,Nenhum,35,3,Tarde,2025-01-29
+P1445,73,F,,Não,Sim,Não,1,1,Leve,7,0,Nenhum,28/03/2025
+P0690,71,M,medio,Não,Não,NÃO,2,2,Nenhum,14,2,Tarde,2024-05-20
+P0852,70,M,Médio,Não,Sim ,Não,3,3,Nenhum,35,1,Noite,2025-11-16
+P0160,65 anos,M,Superior,Não,Não,Não,2,4,Leve,42,5,Manhã,2024-01-20
+P0896,82,Masculino,Fundamental,Sim,Não,Não,1,2,Nenhum,14,2,Noite,2025-08-17
+P1323,74,f,Médio,Não,Não,Não,1,2,Nenhum,21,0,Nenhum,2025-09-10
+P0258,71,F,Fundamental,Não,Não,Não,1,2,Nenhum,14,1,Noite,2025-02-27
+P0336,64,M,Fundamental,Não,s,Sim,1,2,Nenhum,14,0,Nenhum,15/03/2024
+P1449,72,f,Ensino Fundamental,Não,Sim,Sim,1,2,Nenhum,21,0,Nenhum,25/10/2024
+P1040,79,M,Fundamental,Não,nao,Sim,1,3,Nenhum,28,1,Tarde,2025-01-15
+P0516,77,Feminino,Médio,Não,S,Não,1,3,Leve,28,4,Noite,2024-09-04
+P1016,66,M,Médio,Não,s,Sim,2,3,Moderado,35,0,Nenhum,2025-07-31
+P0769,64,m,Superior,SIM,Não,NÃO,1,2,Nenhum,21,2,Manhã,09/04/2025
+P1374,61,M,,Não,nao,Não,1,3,Moderado,35,8,Tarde,2025-01-14
+P0762,79,M,Ensino Fundamental,Nao,Nao,NÃO,3,4,Nenhum,49,4,Tarde,2024-03-24
+P1134,85,F,Ensino Fundamental,Não,Não,Sim,3,4,Leve,35,4,Tarde,04/07/2025
+P0522,67,F,Fundamental,Sim ,NÃO,Sim,5,5,Nenhum,56,8,Noite,07/09/2024
+P0023,84,M,Fundamental,Sim,SIM,Sim ,4,4,Leve,35,5,Tarde,2024-08-15
+P0357,76,M,Sem escolaridade,SIM,Não,Não,4,5,Nenhum,56,8,Noite,27/02/2024
+P1310,71,F,Médio,Não,Sim,Não,4,8,Nenhum,91,0,Nenhum,27/09/2025
+P0341,60,F,Ensino Fundamental,Sim,Não,Sim,1,1,Nenhum,14,1,Manhã,2024-07-27
+P0432,78,Masculino,fundamental,Sim,NÃO,Sim,1,3,Nenhum,35,2,Noite,21/02/2024
+P0474,75,F,superior,Não,Não,Não,4,5,Nenhum,35,1,Manhã,10/04/2025
+P0218,85,M,fundamental,não,Sim,Sim,2,3,Leve,35,3,Manhã,2025-09-27
+P0912,77,M,Ensino Superior,Não,Não,Sim,1,3,Nenhum,28,1,Noite,2025-10-18
+P1241,84,F,nenhuma,Não,N,Não,2,2,Nenhum,21,1,Noite,19/07/2025
+P1012,86,F,Médio,S,Não,Não,2,2,Nenhum,21,1,Noite,2024-09-21
+P1369,84,M,Médio,Não,Não,Não,3,5,Moderado,35,4,Noite,27/12/2024
+P0094,73,M,Sem escolaridade,Não,Sim,Não,2,2,Nenhum,21,0,Nenhum,07/11/2025
+P1009,80,F,Fundamental,Não,Sim,Não,2,2,Nenhum,14,1,Noite,2025-08-09
+P1071,72,m,fundamental,Sim,Não,Sim,1,4,Nenhum,49,2,Tarde,2024-09-17
+P1093,80,m,Fundamental,Não,Sim,Sim,2,2,Leve,21,2,Noite,2024-11-04
+P0697,60,F,Fundamental,Não,Sim,Não,3,3,Nenhum,28,0,Nenhum,2025-04-12
+P1383,71,F,,Não,sim,Sim ,2,4,Nenhum,49,0,Nenhum,2025-09-01
+P0997,80,M,Ensino Fundamental,Não,Sim,Sim,1,3,Nenhum,35,0,Nenhum,2024-04-23
+P0154,70,M,Médio,Não,Sim,Sim,1,1,Nenhum,14,0,Nenhum,2025-04-11
+P1100,84 anos,F,Médio ,Não,Sim,Sim,2,2,Leve,21,0,Nenhum,2024-02-01
+P1420,74,M,Médio,Não,Não,Não,1,2,Nenhum,21,3,Manhã,2025-08-18
+P1337,78,F,Médio,Nao,Sim,Não,2,6,Nenhum,70,10,Manhã,16/04/2024
+P0790,73,F,Fundamental,Não,Não,Não,2,4,Nenhum,49,3,Manhã,2024-05-17
+P0581,60,feminino,Fundamental,Não,Nao,Não,1,2,Nenhum,21,0,Nenhum,20/05/2025
+P0704,74,F,Fundamental,Não,S,Não,1,2,Nenhum,21,0,Nenhum,2024-03-01
+P1297,61,M,Sem escolaridade,Não,não,Não,1,5,Nenhum,42,1,Noite,2025-07-11
+P0488,77,F,,NÃO,Sim,não,1,2,Nenhum,14,1,Noite,
+P0560,67,F,Fundamental,Não,Sim,Não,1,3,Nenhum,28,2,Noite,2025-11-17
+P1120,66,F,Ensino Fundamental,Não,sim,Não,2,2,Nenhum,14,1,Noite,2024-08-22
+P0802,65,F,Fundamental,Sim ,Não,Não,1,2,Nenhum,14,0,Nenhum,2024-03-16
+P0513,75,F,Fundamental,Não,N,Não,4,4,Nenhum,42,1,Noite,2025-01-10
+P0634,60,F,fundamental,Sim,Não,N,1,2,Nenhum,21,1,Noite,2024-07-06
+P1142,60,M,Sem escolaridade,N,s,Não,1,3,Nenhum,35,0,Nenhum,09/11/2025
+P1379,76,F,Sem escolaridade,N,Sim ,Não,3,3,Leve,35,2,Tarde,14/05/2024
+P0791,68,M,Fundamental,Não,sim,Sim,1,3,Nenhum,21,0,Nenhum,2025-03-16
+P0117,76,F,Sem escolaridade,Não,Sim,Não,3,5,Leve,56,7,Manhã,14/12/2024
+P0741,82,feminino,nenhuma,NÃO,Sim,Não,1,2,Nenhum,21,1,Tarde,06/05/2025
+P1082,73,M,medio,Não,Sim,Não,4,4,Nenhum,28,1,Tarde,2024-09-09
+P0831,77,feminino,Fundamental,s,Nao,Não,1,3,Nenhum,21,5,Noite,28/11/2024
+P0120,72,F,Ensino Fundamental,Sim,nao,Não,3,6,Moderado,49,21,Noite,2024-05-10
+P0657,67,F,Fundamental,nao,Sim,Não,1,3,Moderado,28,2,Noite,2024-08-27
+P1467,64,M,Fundamental,Não,N,S,1,3,Nenhum,28,1,Noite,2024-07-22
+P0636,72,F,Ensino Médio,Sim,Sim,Não,3,4,Leve,42,8,Tarde,2024-12-10
+P0370,81,M,Sem escolaridade,Sim,Nao,Não,2,5,Nenhum,42,7,Tarde,2025-08-09
+P0269,74,F,Ensino Fundamental,Não,Sim,Não,1,,Leve,21,2,Noite,
+P0656,77,masculino,Fundamental,não,Sim,Não,3,5,Nenhum,35,3,Noite,
+P0936,79,Feminino,Fundamental,Sim,sim,Sim,1,2,Nenhum,14,1,Noite,2024-06-15
+P0823,65,F,Médio,Sim,Sim ,Não,1,2,Nenhum,14,0,Nenhum,2024-11-29
+P0867,63,F,Médio,Não,Não,Sim,2,4,Nenhum,28,1,Noite,16/11/2024
+P0047,,F,Fundamental,Não,Sim,S,1,4,Nenhum,42,1,Tarde,2025-04-09
+P1329,,M,Sem escolaridade,S,Não,Não,2,5,Nenhum,35,5,Tarde,2025-04-20
+P0992,86,M,Fundamental,N,Sim,sim,1,4,Nenhum,35,2,Manhã,2024-07-11
+P0877,74,F,Fundamental,Sim,Não,Não,1,2,Nenhum,21,4,Noite,01/07/2025
+P0774,85,F,Sem escolaridade,Não,sim,Sim,1,2,Leve,14,1,Tarde,2024-04-28
+P1081,76,M,Superior,Não,Sim,Não,1,1,Nenhum,7,0,Nenhum,2025-08-14
+P0005,60,F,,Não,Sim,Não,1,1,Nenhum,7,0,Nenhum,2024-04-12
+P1004,79,F,,Não,Sim,Não,5,5,Moderado,49,8,Manhã,16/06/2024
+P1340,72,F,Sem escolaridade,não,Sim,Não,4,6,Leve,63,2,Manhã,2025-09-16
+P0264,70,M,Superior,Não,Sim,Não,3,5,Nenhum,63,4,Manhã,2024-04-09
+P1261,82,m,Fundamental,Não,Sim,s,1,4,Leve,49,5,Noite,12/06/2024
+P1411,71,F,Médio,Não,Sim,Sim,3,6,Nenhum,63,2,Noite,2024-05-28
+P0444,85,f,Fundamental,Sim,Não,Não,3,4,Leve,42,12,Noite,2024-12-07
+P1003,71,f,Sem escolaridade,Não,S,SIM,1,3,Moderado,35,1,Noite,2025-10-16
+P1078,96,M,Médio,nao,N,Não,3,4,Leve,49,6,Manhã,17/01/2024
+P0838,85,M,Superior,Não,Sim,Não,3,3,Nenhum,28,1,Noite,2024-06-24
+P1381,84,M,Fundamental,Não,Sim,nao,3,4,Nenhum,49,1,Noite,2024-05-08
+P0305,74,F,Fundamental,NÃO,sim,Sim,1,1,Nenhum,7,0,Nenhum,2025-09-08
+P1209,92,F,Sem escolaridade,N,N,NÃO,4,6,Nenhum,56,12,Noite,2024-09-27
+P0314,78,M,Fundamental,Sim,Não,Não,4,5,Leve,56,13,Noite,2024-12-26
+P0150,75,feminino,Fundamental,Não,Não,Não,3,6,Nenhum,63,4,Noite,2024-05-11
+P1149,82,F,nenhuma,Não,Sim,s,3,4,Moderado,49,6,Noite,2024-03-19
+P0575,,F,Fundamental,Sim,N,SIM,1,2,Leve,21,0,Nenhum,28/08/2024
+P0051,,F,Médio,SIM,Sim,Não,5,6,Nenhum,56,5,Tarde,2024-01-24
+P1206,69,M,Fundamental,Sim,Não,NÃO,1,3,Nenhum,28,5,Tarde,2024-05-13
+P0727,76,M,Ensino Fundamental,Não,Não,Não,1,4,Nenhum,42,2,Noite,2025-04-21
+P0834,150,F,Sem escolaridade,Não,Sim ,Nao,1,,Nenhum,21,2,Tarde,2024-08-08
+P1116,75,M,Sem escolaridade,Sim,não,sim,1,,Nenhum,21,1,Manhã,2024-06-19
+P1167,94,masculino,Sem escolaridade,Não,Sim,Sim,2,4,Nenhum,49,1,Tarde,01/06/2024
+P0471,77,F,superior,Sim,Nao,Não,3,3,Nenhum,28,4,Tarde,2025-08-18
+P0972,73,feminino,Sem escolaridade,não,N,nao,1,1,Moderado,7,2,Noite,2024-03-02
+P0654,65,F,Fundamental,Não,nao,Não,1,1,Nenhum,7,0,Nenhum,2024-02-01
+P0400,68,F,Fundamental,Sim,Não,Não,2,2,Nenhum,14,3,Noite,04/05/2025
+P0512,72,F,Fundamental,Não,s,Não,3,4,Nenhum,35,2,Manhã,2024-08-02
+P0321,,M,Fundamental,Não,Sim,N,2,5,Nenhum,49,2,Noite,2024-06-21
+P0020,74,M,Fundamental,Não,Não,Não,1,4,Nenhum,49,3,Noite,31/03/2025
+P0685,71,m,Médio,Não,Sim,Sim,3,,Nenhum,35,1,Noite,2025-08-07
+P0036,83,F,Superior,Sim,Não,Não,2,3,Leve,35,11,Tarde,2024-02-08
+P0903,73,F,Sem escolaridade,Não,Sim,s,1,3,Nenhum,35,0,Nenhum,2025-05-23
+P0828,73,F,Fundamental,Não,Sim,NÃO,1,2,Nenhum,21,0,Nenhum,2024-11-08
+P1386,75,M,Fundamental,Sim,SIM,Não,1,2,Nenhum,21,0,Nenhum,2025-04-05
+P0408,81,masculino,Médio,Não,Sim,Não,1,3,Nenhum,21,0,Nenhum,2024-10-22
+P0921,71,M,Fundamental,Não,Sim,NÃO,2,3,Nenhum,35,3,Tarde,15/04/2024
+P0538,83,FEMININO,FUNDAMENTAL,S,Não,Sim,1,1,Leve,14,4,Noite,
+P0759,79,F,FUNDAMENTAL,Nao,Não,Sim,1,1,Nenhum,14,2,Noite,10/08/2024
+P1063,70,F,Ensino Fundamental,Não,Não,SIM,1,3,Nenhum,28,2,Tarde,2025-02-22
+P0246,64,M,Fundamental,Não,Não,Não,2,4,Nenhum,42,1,Tarde,2025-03-10
+P1128,73,F,Fundamental,NÃO,Sim,Não,4,6,Nenhum,49,3,Tarde,2024-04-10
+P0785,74,F,Médio,Sim,nao,Não,1,1,Nenhum,7,0,Nenhum,2024-11-07
+P0490,79,M,Fundamental,Sim,sim,Não,2,3,Nenhum,21,1,Tarde,11/11/2024
+P0155,74 anos,M,Ensino Fundamental,Não,Sim,Sim,1,3,Nenhum,21,0,Nenhum,2024-04-04
+P0962,75,M,Fundamental,Não,Não,N,1,2,Nenhum,14,0,Nenhum,17/09/2025
+P0854,74,F,Fundamental,Não,Sim,Não,1,2,Leve,14,0,Nenhum,26/11/2025
+P0626,70,F,Ensino Fundamental,Não,Não,Não,2,2,Nenhum,14,0,Nenhum,2024-12-16
+P0686,70,F,Médio,Nao,Sim,Sim,2,5,Nenhum,49,0,Nenhum,2025-02-20
+P0570,76,f,Fundamental,Não,Sim,Não,2,4,Nenhum,35,4,Tarde,08/08/2025
+P1468,63,f,Sem escolaridade,Não,Não,Não,2,2,Nenhum,21,2,Manhã,03/09/2024
+P0018,66,FEMININO,Sem escolaridade,Não,Não,sim,2,4,Nenhum,35,2,Tarde,2024-12-20
+P0128,64,F,Sem escolaridade,NÃO,s,Não,1,3,Nenhum,35,1,Tarde,2025-03-28
+P0608,78,M,Fundamental,Não,Sim,SIM,2,4,Nenhum,49,3,Noite,2025-01-02
+P0928,77,M,Analfabeto,Sim,Sim,Não,4,4,Nenhum,28,3,Noite,2024-06-15
+P0981,78,f,Fundamental,Não,nao,Não,2,4,Nenhum,49,2,Manhã,2024-08-06
+P1383,71,F,,Não,sim,Sim ,2,4,Nenhum,49,0,Nenhum,2025-09-01
+P0191,88,M,Ensino Fundamental,N,Não,Não,1,2,Leve,21,5,Noite,14/04/2024
+P1140,74,feminino,Ensino Médio,N,Sim,Não,2,3,Nenhum,21,1,Noite,31/07/2025
+P0993,88,Masculino,fundamental,Não,?,Sim,1,4,Nenhum,42,2,Manhã,2025-05-13
+P1064,83,M,Fundamental,Não,Sim,Não,2,2,Nenhum,14,0,Nenhum,2024-03-17
+P1289,90,M,Médio ,Nao,Sim,Sim,1,3,Nenhum,35,1,Noite,09/02/2025
+P0607,80,f,fundamental,Não,Sim,Sim,3,4,Moderado,35,1,Manhã,30/05/2025
+P0181,84,F,Fundamental,Nao,Sim,Sim,1,2,Moderado,14,0,Nenhum,2025-11-24
+P0302,62,F,,Não,Não,s,3,4,Nenhum,28,2,Tarde,16/08/2025
+P0497,60,M,Ensino Fundamental,Não,S,Não,1,1,Nenhum,14,1,Manhã,26/10/2025
+P1330,80,F,FUNDAMENTAL,Sim,Não,NÃO,1,2,Nenhum,14,2,Manhã,2024-06-07
+P1294,60,M,FUNDAMENTAL,Não,Não,Não,1,2,Nenhum,14,1,Manhã,2024-06-07
+P1274,77,F,Médio,Não,Não,Não,4,7,Nenhum,84,18,Noite,2025-03-29
+P0518,68,f,Superior,NÃO,Sim,Sim,1,3,Nenhum,28,1,Tarde,2024-07-09
+P1070,73,FEMININO,Fundamental,Não,Sim,Sim,1,1,Nenhum,7,0,Nenhum,31/07/2024
+P0477,83,F,Fundamental,Não,Não,Não,2,3,Nenhum,28,1,Tarde,2024-04-16
+P0158,82,M,Sem escolaridade,Não,-,Não,3,4,Leve,35,2,Noite,2024-08-29
+P1196,90,Feminino,Sem escolaridade,Não,Não,Sim,5,5,Moderado,56,4,Tarde,2024-06-28
+P0017,77,M,Fundamental,Não,Sim,Sim ,1,2,Nenhum,14,0,Nenhum,2025-02-04
+P1073,72,F,medio,Não,nao,Não,4,5,Nenhum,49,5,Tarde,2024-03-30
+P1200,,F,,nao,ignorado,Não,1,2,Nenhum,21,1,Tarde,2024-03-31
+P0547,76,F,Fundamental,Não,Sim,Não,1,1,Nenhum,14,2,Manhã,14/12/2024
+P0659,84,F,Sem escolaridade,Não,Nao,Não,7,7,Nenhum,84,13,Tarde,2025-11-23
+P1263,80,feminino,Superior,Não,Não,Sim,3,4,Nenhum,49,1,Noite,2025-10-31
+P1020,79,feminino,Médio ,Sim,não,Não,1,4,Leve,49,7,Manhã,01/02/2025
+P1458,75,FEMININO,Fundamental,Não,SIM,Não,2,3,Nenhum,35,1,Noite,2024-10-08
+P0960,77,F,Analfabeto,Não,Não,Sim,3,3,Nenhum,35,0,Nenhum,2025-08-04
+P1451,71,m,Fundamental,Sim,Não,Nao,3,3,Nenhum,28,2,Manhã,2025-06-08
+P0284,78,M,Médio,Nao,Sim,Sim,1,4,Nenhum,42,2,Tarde,21/03/2024
+P0798,82,Feminino,Sem escolaridade,Não,Não,s,2,4,Moderado,42,7,Noite,12/06/2024
+P0226,76,F,Fundamental,Não,Não,Sim,1,4,Nenhum,28,1,Noite,2024-03-26
+P0027,78,F,Fundamental,Não,Sim,Sim,2,3,Leve,35,0,Nenhum,2024-03-29
+P0438,65,Masculino,SUPERIOR,não,Sim,Não,5,5,Nenhum,42,3,Tarde,2024-04-25
+P1117,83,F,superior,Não,Não,Sim,1,5,Leve,63,6,Noite,2025-03-27
+P0230,72,M,Sem escolaridade,Não,Sim,Não,2,3,Leve,35,1,Noite,18/08/2025
+P0038,67,masculino,Fundamental,Sim,Não,Sim,1,2,Nenhum,21,1,Noite,09/07/2024
+P0750,67,F,Médio,Não,Não,Sim,1,2,Nenhum,21,-1,Nenhum,2024-12-11
+P1046,67,F,Superior,Não,Não,Não,2,3,Nenhum,35,1,Noite,2024-01-27
+P0470,66,M,Fundamental,Não,Não,Não,2,3,Nenhum,21,2,Tarde,2025-08-03
+P1317,72,M,Superior,Não,Não,Não,1,2,Nenhum,21,0,Nenhum,2025-10-23
+P1492,74,F,Fundamental,Não,sim,não,1,3,Nenhum,28,1,Manhã,2024-07-08
+P0688,86,f,Fundamental,Sim,Não,Sim,1,1,Nenhum,7,1,Tarde,07/04/2025
+P1420,74,M,Médio,Não,Não,Não,1,2,Nenhum,21,3,Manhã,2025-08-18
+P0640,78,Masculino,nenhuma,Não,?,Não,4,5,Nenhum,49,1,Noite,2024-11-22
+P1471,75,F,Fundamental,Não,Não,Não,1,3,Nenhum,28,2,Tarde,2025-08-08
+P1219,64,M,Superior,Não,Não,Não,2,3,Nenhum,35,2,Manhã,2024-05-03
+P1159,60,F,Analfabeto,Não,Não,Sim,1,1,Nenhum,14,0,Nenhum,2025-07-17
+P1288,74,F,Ensino Médio,não,Sim,Não,1,4,Nenhum,49,6,Tarde,18/04/2024
+P1405,,F,Sem escolaridade,s,Sim,Não,1,4,Nenhum,35,2,Manhã,12/05/2024
+P0801,67,F,Médio,Não,Não,Sim,2,4,Nenhum,42,1,Noite,2025-07-20
+P0161,66,M,medio,não,Sim,sim,1,1,Nenhum,7,0,Nenhum,2024-05-11
+P0957,70,F,Analfabeto,NÃO,N,Sim,3,3,Leve,35,6,Noite,2025-11-13
+P1187,71,M,Fundamental,Não,s,não,3,5,Leve,49,3,Noite,2024-11-20
+P0822,86,F,Sem escolaridade,S,Nao,Não,3,4,Moderado,42,14,Noite,2024-10-06
+P1309,60,M,Fundamental,Sim,Não,não,1,2,Nenhum,14,1,Noite,08/08/2024
+P0878,72,F,Fundamental,Não,Não,Não,2,4,Nenhum,42,1,Noite,02/12/2024
+P0914,69,m,Médio,Sim,Não,Não,1,1,Nenhum,7,0,Nenhum,2025-02-22
+P0153,61,feminino,,Não,Sim,Não,1,2,Nenhum,21,2,Manhã,
+P1415,85,F,Ensino Fundamental,N,Não,Não,1,1,Leve,14,0,Nenhum,2024-01-12
+P0510,78,F,Médio,Não,sim,Não,1,2,Leve,21,0,Nenhum,18/07/2025
+P1136,84,feminino,FUNDAMENTAL,Não,Sim,Não,1,2,Nenhum,21,1,Noite,03/07/2025
+P1251,82,M,nenhuma,Não,sim,Não,1,1,Nenhum,7,0,Nenhum,2024-09-20
+P1296,81,m,Sem escolaridade,S,Não,Sim,1,3,Nenhum,35,2,Tarde,2025-04-19
+P0104,80,F,Sem escolaridade,Sim,NÃO,Não,1,,Nenhum,21,3,Manhã,2025-05-14
+P0587,65,F,Médio,Não,Nao,Não,2,3,Nenhum,28,3,Manhã,16/05/2024
+P1367,65,M,Ensino Superior,não,Não,N,1,3,Nenhum,21,0,Nenhum,2025-02-28
+P1144,70,masculino,Fundamental,Não,Sim,Não,1,2,Leve,21,0,Nenhum,2025-03-14
+P0054,71,F,Superior,S,Não,Não,1,2,Nenhum,14,0,Nenhum,2025-01-10
+P0152,66,Masculino,Sem escolaridade,Não,Sim,Não,3,3,Nenhum,28,1,Noite,2025-06-04
+P0404,71,F,FUNDAMENTAL,Não,Não,Não,1,2,Nenhum,14,2,Tarde,2025-03-30
+P1498,65,F,Ensino Médio,Não,Não,Não,1,2,Nenhum,14,1,Noite,2025-09-26
+P0208,64,F,Médio,Não,Não,nao,2,4,Nenhum,49,4,Noite,17/08/2025
+P1459,88,M,Ensino Médio,não,Não,Não,4,,Nenhum,63,8,Tarde,2025-06-06
+P1123,,F,,N,Não,Não,1,2,Nenhum,14,1,Tarde,2024-11-06
+P1357,71,M,Sem escolaridade,Sim,Não,Sim,2,2,Nenhum,14,0,Nenhum,06/07/2025
+P0009,74,F,Superior,Não,Sim,Sim,2,,Leve,42,1,Manhã,2025-08-27
+P1015,66,F,Médio,Não,Sim,Não,1,1,Nenhum,7,0,Nenhum,2024-09-21
+P1385,60,F,fundamental,Não,Não,NÃO,1,1,Nenhum,14,0,Nenhum,2025-09-24
+P1061,,Feminino,Ensino Fundamental,Não,Sim,não,1,1,Nenhum,14,0,Nenhum,2024-09-13
+P0453,90,Feminino,,Não,Não,sim,1,1,Nenhum,7,-1,Manhã,25/08/2024
+P0254,66,M,,Não,Não,Não,2,2,Nenhum,14,0,Nenhum,2025-07-12
+P0897,69,masculino,Fundamental,Não,Não,NÃO,2,2,Nenhum,21,2,Manhã,2025-07-10
+P1347,77,f,Fundamental,Não,Sim,Sim,4,5,Nenhum,63,2,Noite,2025-11-16
+P0881,76,F,FUNDAMENTAL,Não,Não,sim,1,,Leve,21,0,Nenhum,2024-06-12
+P1455,86,F,Fundamental,Não,Não,Não,2,,Nenhum,42,5,Noite,2025-03-02
+P0624,69,F,Médio,Não,nao,Sim,2,3,Nenhum,35,0,Nenhum,09/06/2024
+P0346,60,feminino,Médio,Não,Não,Não,1,,Nenhum,35,3,Noite,2024-06-27
+P1325,76,F,Médio,Não,Sim,Sim,4,5,Nenhum,49,3,Tarde,08/08/2024
+P0263,76,F,,SIM,Não,Não,1,2,Nenhum,14,1,Manhã,29/02/2024
+P0151,73,M,nenhuma,Não,Não,Sim,4,6,Nenhum,70,3,Tarde,2024-03-20
+P0473,72,F,Superior,Sim,Sim,não,1,2,Nenhum,21,0,Nenhum,29/04/2024
+P0641,62,M,Médio,N,Não,SIM,2,4,Leve,42,2,Noite,2024-12-31
+P1282,,M,Fundamental,não,Sim,Não,1,2,Nenhum,14,1,Tarde,2024-09-27
+P1478,sessenta e dois,F,Ensino Fundamental,Não,Não,NÃO,1,1,Moderado,7,0,Nenhum,2025-04-17
+P0551,77,F,Médio,Não,Sim,Sim ,4,4,Nenhum,35,1,Tarde,10/05/2025
+P0929,72,M,Fundamental,NÃO,Nao,Não,1,2,Nenhum,21,0,Nenhum,24/07/2025
+P0489,67,F,Ensino Médio,Não,Sim ,N,3,4,Nenhum,42,2,Tarde,25/02/2024
+P1398,73,F,Ensino Fundamental,Não,Sim ,SIM,1,,Leve,21,0,Nenhum,2025-02-18
+P1172,60,F,Fundamental,Não,Nao,SIM,3,4,Nenhum,42,0,Nenhum,2024-03-27
+P0147,69,F,Médio ,N,não,não,1,2,Nenhum,14,1,Noite,2024-11-30
+P0403,81,F,Analfabeto,Não,Não,Não,1,2,Moderado,21,2,Tarde,2025-09-24
+P0955,68 anos,M,Fundamental,Não,Não,Não,1,1,Nenhum,7,0,Nenhum,2024-10-09
+P1447,93,F,Médio,Sim ,Não,S,3,5,Nenhum,56,6,Tarde,2025-07-13
+P0660,71,M,Fundamental,Não,N,Sim ,1,1,Nenhum,14,1,Manhã,2024-04-13
+P0464,60,M,Fundamental,Sim,Não,Sim,1,2,Nenhum,21,1,Noite,14/08/2025
+P0187,75,F,,Não,S,Sim,1,2,Nenhum,14,2,Tarde,2025-03-15
+P1148,71,M,Sem escolaridade,SIM,Não,Sim,1,,Nenhum,7,0,Nenhum,2025-03-01
+P1225,67,F,,não,Não,Não,3,4,Nenhum,35,1,Manhã,2025-05-23
+P0609,61,masculino,FUNDAMENTAL,Não,Não,Não,1,2,Nenhum,14,0,Nenhum,02/01/2024
+P0144,76,F,Sem escolaridade,não,não,Não,2,2,Nenhum,21,1,Noite,2025-01-23
+P0752,72,M,Fundamental,Não,s,nao,2,4,Nenhum,49,3,Manhã,08/10/2024
+P0982,62,FEMININO,nenhuma,Nao,não,NÃO,1,2,Nenhum,21,2,Noite,2025-04-18
+P0198,71,F,Fundamental,Sim,Não,não,1,3,Nenhum,28,3,Manhã,2025-05-02
+P0884,65,F,,SIM,Não,N,2,2,Nenhum,28,2,Tarde,2024-02-01
+P0280,76,M,Ensino Fundamental,Não,Não,Não,2,3,Nenhum,21,2,Manhã,07/01/2024
+P0294,60,F,,Não,Sim,Não,3,7,Nenhum,63,5,Noite,2024-03-12
+P1406,80,F,fundamental,Não,N,NÃO,1,5,Nenhum,42,2,Manhã,2024-01-07
+P0401,73,F,Ensino Fundamental,Nao,Sim,Sim,2,2,Nenhum,14,1,Noite,28/07/2024
+P0123,76,M,Sem escolaridade,Não,SIM,não,3,6,Nenhum,49,4,Noite,29/10/2024
+P1208,sessenta e sete,F,Sem escolaridade,Não,Sim,Não,1,3,Nenhum,35,2,Tarde,
+P0203,75,F,Superior,NÃO,Sim,Não,5,6,Leve,42,4,Manhã,2024-06-11
+P0836,67,F,Fundamental,Não,Sim ,Não,1,2,Nenhum,21,1,Tarde,13/09/2025
+P0247,65,Feminino,Fundamental,Não,s,Não,2,4,Nenhum,49,1,Manhã,2025-05-29
+P1464,78,m,Fundamental,Sim,Não,Sim,2,3,Leve,28,5,Noite,2025-02-26
+P1450,69,M,Fundamental,Não,Sim,Não,1,1,Nenhum,14,1,Manhã,22/10/2025
+P1154,70,M,Médio,Não,S,Sim,1,3,Nenhum,28,1,Noite,2024-07-29
+P0385,61,F,Sem escolaridade,Não,S,Não,1,4,Moderado,35,4,Manhã,2024-02-23
+P1361,71,F,Médio,Não,Sim,s,2,2,Nenhum,21,0,Nenhum,06/02/2024
+P0855,76,M,Superior,Não,Sim,Sim,1,1,Nenhum,14,2,Tarde,01/06/2024
+P0220,68,Masculino,nenhuma,Não,Sim,Nao,2,3,Nenhum,28,1,Noite,13/05/2024
+P0642,80,M,Sem escolaridade,Não,não,Não,1,2,Leve,21,1,Noite,2025-01-31
+P0002,66,F,,Sim,s,Não,1,3,Nenhum,35,0,Nenhum,2025-04-16
+P0113,69,F,Fundamental,Sim,Não,Não,5,5,Nenhum,56,9,Noite,2024-08-27
+P0699,67,F,medio,Nao,Não,Não,1,3,Nenhum,28,2,Noite,08/09/2024
+P1473,,M,Médio ,s,S,Não,1,2,Nenhum,21,2,Noite,2025-07-02
+P0952,78,F,Fundamental,Não,Sim,Nao,2,3,Nenhum,35,0,Nenhum,2025-05-22
+P1356,78,FEMININO,Fundamental,Não,nao,SIM,3,3,Nenhum,28,2,Tarde,2024-02-27
+P1292,70,f,Ensino Superior,Não,não,Não,1,3,Leve,28,1,Noite,2024-07-09
+P1395,60,M,Fundamental,não,Sim,Não,4,4,Nenhum,35,0,Nenhum,2024-11-02
+P0442,77,F,Médio,Sim,Não,Não,1,1,Moderado,14,2,Tarde,2025-05-18
+P1137,74,FEMININO,FUNDAMENTAL,Sim,Sim,Não,3,5,Nenhum,63,5,Manhã,2024-10-21
+P1257,80,M,fundamental,Não,Não,não,1,1,Nenhum,7,1,Tarde,2025-10-11
+P0664,71,F,Médio,Não,Sim ,Não,2,2,Nenhum,21,1,Tarde,2025-08-02
+P1469,63,F,Médio,Não,N,Não,3,4,Nenhum,42,2,Tarde,07/10/2025
+P1258,74,F,Fundamental,Não,Sim,Não,2,2,Nenhum,21,1,Noite,2024-03-14
+P1486,68,F,FUNDAMENTAL,Nao,Sim ,Não,1,3,Nenhum,28,0,Nenhum,22/01/2024
+P0318,68,F,Fundamental,Não,Não,Sim ,4,5,Nenhum,56,1,Tarde,24/01/2025
+P0649,75,Feminino,Fundamental,NÃO,nao,Não,1,1,Nenhum,7,0,Nenhum,2024-10-05
+P0710,79,F,FUNDAMENTAL,Não,Não,Sim,3,4,Nenhum,49,54,Tarde,27/07/2024
+P1283,60,f,Fundamental,Não,Sim,Não,1,3,Nenhum,28,0,Nenhum,25/06/2024
+P0973,76 anos,feminino,SUPERIOR,N,Sim,Não,1,1,Nenhum,7,0,Nenhum,2025-02-16
+P0628,85,F,Sem escolaridade,Não,ignorado,nao,4,5,Nenhum,63,6,Manhã,2024-11-21
+P0633,71,F,Fundamental,nao,Sim ,Nao,1,2,Moderado,14,2,Noite,2025-08-07
+P1307,66,F,Médio ,não,Sim ,Não,1,3,Nenhum,35,2,Tarde,2024-07-04
+P1249,73,M,Ensino Superior,não,Não,Sim,3,3,Leve,35,3,Noite,2024-12-30
+P0452,77,M,Sem escolaridade,não,Não,Não,1,2,Leve,28,4,Noite,31/10/2025
+P1255,68,Masculino,Médio,Não,Não,Não,1,1,Moderado,7,0,Nenhum,2025-04-07
+P1372,81,feminino,Sem escolaridade,Sim,Não,Não,2,4,Nenhum,28,3,Noite,2024-02-05
+P1355,89 anos,m,,Sim,Não,N,3,,Nenhum,77,8,Tarde,2024-08-02
+P1042,82,M,fundamental,Não,Não,Não,3,4,Nenhum,28,7,Noite,2024-05-27
+P1425,75,F,Sem escolaridade,Não,Não,N,3,4,Nenhum,42,3,Manhã,2025-10-25
+P0796,73,M,Fundamental,Não,Sim,Não,1,2,Nenhum,14,0,Nenhum,10/06/2024
+P0646,73,F,nenhuma,N,sim,Não,1,2,Nenhum,21,1,Manhã,2024-04-10
+P1013,70,Masculino,Fundamental,Não,Sim,Não,1,2,Nenhum,21,1,Noite,24/10/2024
+P0557,68,F,Médio ,Não,Sim,Sim,3,7,Nenhum,63,4,Noite,26/01/2025
+P0682,79,F,Fundamental,N,Sim,Não,1,1,Leve,7,0,Nenhum,04/04/2025
+P0578,84,FEMININO,Sem escolaridade,Não,Não,Sim,2,3,Nenhum,28,2,Noite,2025-09-12
+P1110,81,Masculino,Fundamental,Sim,Não,Não,5,7,Nenhum,70,14,Manhã,04/03/2025
+P1267,67,F,Ensino Fundamental,Não,Sim,S,1,3,Nenhum,28,1,Noite,07/09/2024
+P1184,79,F,Sem escolaridade,Não,Sim,Não,1,2,Nenhum,28,1,Noite,2024-01-08
+P0525,85,F,Superior,N,Sim,Nao,2,7,Nenhum,49,8,Tarde,2025-05-15
+P1060,78,M,Ensino Superior,Não,Sim,Não,2,4,Nenhum,42,2,Noite,2025-05-09
+P0541,61,F,Ensino Médio,Sim,Não,Sim,2,,Nenhum,28,2,Manhã,2024-08-28
+P1195,89,f,Sem escolaridade,SIM,Não,Não,1,2,Nenhum,21,0,Nenhum,2025-02-05
+P0749,71,F,Fundamental,Não,Não,Sim,1,1,Nenhum,7,0,Nenhum,06/11/2025
+P1428,81,F,Médio,Não,Sim,S,1,1,Moderado,7,0,Nenhum,2025-06-30
+P0485,74,Feminino,fundamental,nao,s,Sim,1,2,Nenhum,14,0,Nenhum,2025-07-28
+P0096,62,F,Médio,Sim ,Não,Sim,1,1,Nenhum,7,1,Tarde,2024-06-15
+P1021,77,M,Superior,NÃO,Sim,Sim,2,2,Nenhum,14,1,Tarde,2025-02-24
+P0564,68,M,Fundamental,Não,Sim,Não,1,1,Nenhum,14,0,Nenhum,2025-09-30
+P1265,74,FEMININO,Sem escolaridade,Não,Sim,Não,2,2,Leve,21,1,Noite,2024-04-13
+P0743,66,F,Superior,Não,Não,Não,1,2,Nenhum,21,1,Tarde,2025-03-29
+P0864,75,Masculino,FUNDAMENTAL,Sim,Não,NÃO,2,4,Leve,35,3,Noite,2025-03-22
+P0892,70,M,Fundamental,Não,Não,Sim,2,3,Nenhum,28,0,Nenhum,07/04/2024
+P1039,80,F,Sem escolaridade,Não,Sim,Não,4,8,Leve,56,12,Noite,2024-05-27
+P0207,67,m,Fundamental,Não,Não,N,1,3,Leve,28,4,Manhã,2024-02-09
+P0393,70,M,SUPERIOR,Não,Sim,Sim,2,6,Nenhum,49,0,Nenhum,12/09/2025
+P0795,60,F,Fundamental,Não,Sim,Sim,1,2,Nenhum,14,0,Nenhum,2025-02-21
+P0871,76,masculino,Fundamental,Não,Não,Não,1,1,Moderado,7,2,Noite,2025-11-19
+P0398,,M,Fundamental,Não,sim,Sim,3,5,Nenhum,42,0,Nenhum,2024-10-03
+P0767,75,F,Médio,Não,Sim,Não,3,3,Nenhum,35,0,Nenhum,2025-10-06
+P1418,82,F,Ensino Fundamental,Sim,não,Não,1,1,Nenhum,7,0,Nenhum,2024-01-20
+P1242,66,F,Ensino Fundamental,Não,Sim,S,3,6,Nenhum,77,5,Noite,2025-06-24
+P1029,74,M,SUPERIOR,Sim,Não,nao,3,4,Nenhum,49,9,Noite,2024-05-27
+P0643,90,Masculino,Fundamental,s,Não,Não,1,1,Leve,14,6,Noite,24/04/2024
+P0613,63,M,Fundamental,Não,não,Nao,2,5,Nenhum,42,3,Noite,2024-10-25
+P0961,87,F,Médio,Sim,Não,s,3,4,Nenhum,35,7,Noite,2025-08-10
+P0726,86,F,medio,Sim,Nao,N,2,3,Leve,35,11,Noite,2024-07-17
+P0684,70,F,Fundamental,Sim,Sim,Não,5,8,Nenhum,56,14,Tarde,2024-02-02
+P0099,77,f,Médio ,Sim,Sim,N,1,1,Nenhum,7,1,Tarde,03/03/2025
+P0805,84,M,SUPERIOR,Nao,Nao,Não,2,2,Nenhum,21,3,Noite,2025-01-28
+P0407,73,F,Médio,Não,Não,NÃO,1,2,Nenhum,14,0,Nenhum,16/12/2024
+P0503,68,M,medio,Não,Nao,Não,1,1,Nenhum,7,1,Tarde,2024-07-10
+P1072,65,M,,Não,Não,Não,1,2,Moderado,14,1,Noite,23/04/2025
+P1057,75,F,Ensino Fundamental,N,Sim,Não,3,4,Nenhum,42,4,Noite,2024-03-27
+P0930,75,F,Sem escolaridade,Sim,Não,Não,2,3,Nenhum,28,5,Noite,11/09/2025
+P0780,64,M,Médio,Não,NÃO,Não,1,2,Nenhum,21,0,Nenhum,18/07/2024
+P0201,,F,Médio,Sim,Não,Não,2,5,Moderado,56,19,Tarde,2025-10-31
+P0135,62,M,Médio,Não,Sim,Não,2,2,Nenhum,21,0,Nenhum,2024-12-30
+P1052,72,M,Médio,não,Não,Sim,1,1,Nenhum,7,1,Manhã,28/01/2024
+P0041,80,M,,Não,Sim,Sim,1,1,Nenhum,7,0,Nenhum,2025-05-02
+P1018,72,F,Superior,Não,Sim,Não,2,3,Nenhum,35,2,Noite,18/03/2024
+P0231,62,masculino,Superior,Não,sim,Sim,1,1,Moderado,14,2,Noite,2025-10-13
+P0379,87,M,nenhuma,Não,N,nao,1,1,Leve,14,3,Noite,2024-12-25
+P0289,72,M,Fundamental,NÃO,SIM,Não,1,2,Moderado,21,3,Noite,2024-09-08
+P0419,73,M,Sem escolaridade,Não,Sim,S,1,1,Nenhum,14,0,Nenhum,2025-04-22
+P0392,74,M,Fundamental,Não,Sim ,Não,1,2,Leve,21,0,Nenhum,19/07/2025
+P0593,89,M,Fundamental,Sim,Não,Nao,1,2,Moderado,21,5,Tarde,2024-04-24
+P1163,72,Feminino,nenhuma,Sim,Sim,Sim,3,3,Nenhum,28,1,Noite,2025-05-22
+P1087,63,feminino,Fundamental,NÃO,Sim,Sim,1,1,Nenhum,7,0,Nenhum,2024-06-10
+P0648,60 anos,M,Ensino Superior,Não,Não,Não,1,2,Nenhum,21,4,Tarde,2024-07-20
+P1153,76,Masculino,Fundamental,nao,não,Sim,3,3,Moderado,35,3,Noite,20/05/2025
+P1368,85,FEMININO,Fundamental,Não,Não,Não,1,1,Leve,7,1,Noite,2025-01-13
+P0521,66,m,,sim,Não,Não,1,1,Nenhum,14,0,Nenhum,2024-03-11
+P0065,,F,Fundamental,Não,Sim,Não,1,1,Nenhum,7,0,Nenhum,2025-02-11
+P0015,78,f,Fundamental,Sim,S,Nao,1,1,Leve,7,0,Nenhum,2024-01-30
+P1181,63,F,Sem escolaridade,Não,Sim,NÃO,3,3,Nenhum,35,0,Nenhum,2024-02-02
+P1065,69,feminino,,Não,sim,Não,2,4,Nenhum,42,0,Nenhum,2024-12-01
+P0493,72,f,,Sim,Não,Não,3,5,Nenhum,63,7,Tarde,2024-05-09
+P0380,70,M,Ensino Médio,Não,Não,Não,1,2,Nenhum,14,0,Nenhum,2025-03-18
+P0188,64,Masculino,nenhuma,Não,Sim,S,1,2,Leve,21,1,Tarde,2024-02-15
+P0764,79,F,,Não,Sim,Não,1,2,Moderado,21,1,Noite,06/07/2024
+P0217,78,F,sem escolaridade,Não,Nao,Sim,1,2,Nenhum,14,0,Nenhum,2024-04-26
+P0792,64,F,Fundamental,Não,Não,Não,1,2,Nenhum,21,1,Manhã,15/09/2024
+P1077,85,FEMININO,Fundamental,Não,Sim,Não,4,6,Leve,42,5,Noite,21/11/2025
+P0879,73,F,Médio,Sim,Não,S,2,4,Nenhum,42,7,Noite,2025-03-22
+P0338,76,FEMININO,Superior,Não,N,Não,1,2,Moderado,21,5,Noite,2024-01-28
+P0720,66,F,Analfabeto,Sim,Não,Não,1,1,Nenhum,7,0,Nenhum,2025-05-21
+P0296,75,F,,Não,S,Sim,1,1,Moderado,14,2,Tarde,2024-06-19
+P1017,74,F,Fundamental,Não,Não,Não,2,3,Nenhum,28,1,Noite,2025-10-28
+P1276,74,F,Fundamental,Não,Sim,Sim,1,1,Nenhum,7,0,Nenhum,2024-07-01
+P0456,75,M,medio,Sim,Sim,Sim,2,3,Moderado,28,5,Noite,05/08/2025
+P0440,77,f,,NÃO,Sim,Não,2,2,Nenhum,14,0,Nenhum,08/01/2025
+P0816,76,M,Fundamental,Não,Sim,Não,1,3,Nenhum,28,4,Noite,2025-08-17
+P0270,74,F,Sem escolaridade,Não,não,Sim,4,6,Nenhum,49,7,Manhã,2025-09-24
+P0996,77,Masculino,Fundamental,Não,Não,Sim ,1,,Nenhum,21,0,Nenhum,2024-04-21
+P0202,85,F,FUNDAMENTAL,Sim,Sim ,Não,5,6,Nenhum,70,8,Tarde,08/08/2024
+P0162,68,M,Superior,Não,Sim,Não,3,5,Nenhum,42,2,Tarde,2024-03-04
+P0730,65,M,,Não,S,Sim,1,3,Nenhum,35,0,Nenhum,21/01/2024
+P0402,76,f,nenhuma,Sim,Não,Nao,1,2,Nenhum,14,1,Manhã,2024-07-22
+P0703,66,F,Ensino Médio,Nao,Sim,Não,2,4,Nenhum,28,0,Nenhum,2024-12-31
+P1130,60,F,FUNDAMENTAL,Não,Sim,Não,3,8,Nenhum,63,5,Tarde,2024-09-06
+P0566,80,masculino,nenhuma,Não,Sim,Sim,1,2,Leve,14,2,Manhã,2025-06-28
+P1414,84 anos,m,Médio,sim,Não,Não,2,4,Nenhum,49,10,Noite,22/11/2025
+P1022,77,M,Médio,Não,Sim ,Sim,1,2,Nenhum,28,0,Nenhum,01/08/2024
+P1026,71,F,Médio,Não,Não,Não,3,5,Nenhum,49,6,Noite,2025-05-17
+P1412,92,masculino,Superior,nao,Sim ,Não,3,4,Leve,42,3,Tarde,2024-03-17
+P1105,65,F,Fundamental,Não,N,Sim,3,3,Nenhum,28,2,Tarde,09/09/2024
+P0206,74,M,FUNDAMENTAL,Sim,Sim,N,1,2,Leve,21,0,Nenhum,16/04/2024
+P0035,79,FEMININO,Médio,Não,Não,Sim,1,2,Nenhum,14,0,Nenhum,2025-01-28
+P0776,,F,Fundamental,Não,Sim,Não,1,2,Leve,14,0,Nenhum,2025-06-13
+P0509,,F,Sem escolaridade,s,Não,Nao,2,4,Nenhum,35,5,Noite,28/05/2025
+P1452,78,M,Médio,Não,Não,S,2,3,Nenhum,35,1,Manhã,14/03/2024
+P1479,71,F,Médio,Não,Sim,nao,2,2,Nenhum,21,0,Nenhum,18/11/2024
+P0052,79,F,,Não,sim,não,3,5,Nenhum,35,3,Tarde,2024-06-11
+P1391,69,M,fundamental,Não,Nao,Não,1,1,Nenhum,7,0,Nenhum,2024-01-12
+P0092,73,m,Superior,Não,Não,N,1,2,Moderado,14,2,Tarde,2025-01-23
+P1364,81,M,Fundamental,Não,Sim,Sim ,3,4,Leve,28,2,Noite,2025-07-30
+P0898,67,m,Fundamental,Sim,Não,não,1,1,Nenhum,7,1,Manhã,2025-05-03
+P0565,,Masculino,,Não,Não,Não,4,5,Nenhum,63,11,Manhã,17/10/2025
+P1370,82,F,Sem escolaridade,Sim,Não,SIM,1,1,Nenhum,14,1,Tarde,2024-07-02
+P0777,65,F,FUNDAMENTAL,S,Não,não,1,2,Nenhum,21,2,Tarde,10/10/2024
+P0242,73 anos,M,sem escolaridade,Não,Sim,Sim,5,,Leve,56,2,Tarde,19/04/2024
+P0014,83,f,Médio ,Não,Sim,Sim,2,2,Moderado,14,0,Nenhum,2024-01-18
+P0316,72,M,Fundamental,Não,s,NÃO,2,3,Nenhum,21,0,Nenhum,2024-02-26
+P0601,78,M,Fundamental,Não,Sim,Sim,1,4,Nenhum,49,1,Tarde,2024-11-02
+P0388,78 anos,M,Médio,Não,Sim,Não,2,4,Nenhum,42,0,Nenhum,2024-07-22
+P1298,69,F,Sem escolaridade,Não,Sim,Não,1,1,Nenhum,14,2,Manhã,2025-06-01
+P0167,81,F,Analfabeto,Sim,Não,Sim,2,2,Nenhum,21,1,Noite,2024-11-15
+P0841,89,M,Médio,Sim,Sim,Não,1,4,Nenhum,28,6,Noite,2025-06-21
+P0021,73,M,Ensino Fundamental,Não,Não,N,2,5,Nenhum,35,2,Noite,05/03/2025
+P0647,79,Masculino,Fundamental,Sim,nao,N,1,,Moderado,14,4,Manhã,2024-10-30
+P1155,80,masculino,Fundamental,Não,Não,Nao,4,5,Nenhum,49,3,Noite,2024-08-11
+P0832,86,F,Ensino Fundamental,Não,NÃO,Não,2,3,Nenhum,28,1,Noite,22/08/2024
+P1268,79,M,Fundamental,Não,Nao,Não,3,4,Leve,49,3,Noite,2024-09-22
+P0563,74,M,Fundamental,Sim,Não,N,3,,Nenhum,35,2,Manhã,2025-03-08
+P0414,80,M,Sem escolaridade,Não,S,Sim,1,6,Nenhum,49,3,Manhã,2024-12-13
+P0687,80,masculino,Superior,Sim,Sim,Não,3,3,Nenhum,21,2,Noite,
+P0958,92,F,Fundamental,Sim,não,Não,1,1,Leve,14,5,Manhã,2024-06-17
+P0190,87,F,fundamental,Não,Sim,S,2,6,Moderado,56,7,Noite,2025-05-14
+P0976,66,M,,Não,Não,Nao,4,5,Nenhum,35,5,Tarde,2025-10-15
+P0700,,F,Ensino Fundamental,Não,SIM,Não,3,4,Nenhum,35,2,Tarde,2024-11-07
+P1500,65,M,FUNDAMENTAL,Não,Sim,Sim,1,3,Nenhum,28,0,Nenhum,2024-09-24
+P0511,62,M,Médio,Não,Não,Não,1,3,Nenhum,28,2,Noite,2025-01-04
+P1083,77,F,Médio,Não,Não,Sim,2,3,Nenhum,21,0,Nenhum,2024-12-09
+P0475,79,Feminino,Superior,Sim,s,Sim,1,1,Nenhum,7,0,Nenhum,2024-05-21
+P0857,77,F,Fundamental,Não,Não,Não,1,2,Nenhum,14,1,Manhã,24/09/2024
+P0748,,M,Sem escolaridade,Não,Não,Não,3,5,Nenhum,56,2,Tarde,26/05/2025
+P0253,88,F,fundamental,Sim,NÃO,Sim,3,3,Nenhum,35,4,Manhã,2025-06-15
+P0022,69,M,Fundamental,Não,Sim,Sim,2,3,Nenhum,21,1,Tarde,28/08/2024
+P1338,79,F,Sem escolaridade,Sim,Não,NÃO,2,2,Nenhum,21,2,Noite,2025-05-01
+P0460,74,F,Médio,NÃO,Não,Não,3,4,Nenhum,49,8,Noite,2024-05-02
+P1185,74,F,Fundamental,Não,N,Não,1,2,Nenhum,21,0,Nenhum,2024-11-30
+P0277,68,M,Médio ,Não,Sim,Não,3,5,Nenhum,56,2,Noite,2024-10-06
+P0956,85,Feminino,Sem escolaridade,Sim,Não,não,1,1,Nenhum,14,2,Manhã,26/08/2024
+P1216,63,M,nenhuma,Não,Sim,Sim,1,1,Nenhum,7,0,Nenhum,2024-04-09
+P0386,68,F,Fundamental,Não,Sim,Sim,1,3,Nenhum,35,0,Nenhum,2025-11-01
+P0806,83,F,Fundamental,Sim,Sim,Não,3,99,Moderado,49,11,Tarde,05/02/2025
+P1438,60,M,Fundamental,Nao,sim,Não,1,2,Nenhum,14,0,Nenhum,2024-06-30
+P1269,79,F,Superior,Sim,Sim,não,1,5,Nenhum,49,7,Noite,2024-05-15
+P0344,77,M,Fundamental,nao,N,Não,1,3,Moderado,35,6,Tarde,08/01/2025
+P0770,87,M,Médio ,Sim,Não,Não,2,3,Nenhum,21,0,Nenhum,2024-10-25
+P1333,81,F,Fundamental,Sim,NÃO,Sim,1,2,Nenhum,14,1,Manhã,2024-09-25
+P0131,71,Feminino,Superior,Sim,Não,Não,1,2,Nenhum,21,0,Nenhum,2024-08-01
+P0872,66,M,Fundamental,Não,não,Não,1,1,Nenhum,7,0,Nenhum,2024-05-16
+P1124,72,F,Fundamental,Sim,N,Não,1,,Nenhum,35,6,Manhã,15/06/2025
+P1397,79,f,Médio,Sim,Sim,Sim,1,1,Nenhum,7,0,Nenhum,2025-07-31
+P0088,,F,Sem escolaridade,N,sim,N,2,,Nenhum,35,3,Noite,2025-02-17
+P1483,75,F,Médio,Sim,Não,Não,4,5,Nenhum,42,5,Tarde,2025-02-05
+P0331,86,F,Médio,N,Não,s,1,5,Nenhum,56,2,Tarde,2024-08-26
+P1239,79,F,Fundamental,Não,Não,Não,3,6,Nenhum,70,9,Noite,2024-12-31
+P0467,72,F,Fundamental,Não,N,NÃO,1,1,Nenhum,14,0,Nenhum,2025-07-23
+P0122,75,m,Superior,Não,Não,Não,3,5,Nenhum,42,8,Noite,2024-05-17
+P1045,68,F,Fundamental,Não,Não,Não,1,1,Nenhum,7,0,Nenhum,2025-11-27
+P1096,84,F,,Não,Não,Não,1,2,Nenhum,14,1,Noite,2024-04-10
+P1131,67,M,Superior,Não,Sim,Sim,1,2,Nenhum,21,1,Manhã,2024-06-01
+P1295,76,M,Médio,Não,Sim ,Não,4,6,Nenhum,77,3,Tarde,2024-11-14
+P0861,66,masculino,Sem escolaridade,Não,SIM,N,2,2,Nenhum,21,28,Nenhum,2024-12-16
+P1460,77,F,medio,Não,sim,Não,2,4,Nenhum,35,0,Nenhum,2025-06-15
+P1127,88,M,Analfabeto,sim,Não,Não,1,2,Nenhum,21,1,Manhã,2024-05-02
