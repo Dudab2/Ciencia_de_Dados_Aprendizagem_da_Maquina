@@ -3,6 +3,7 @@
 Projeto da disciplina **Ciência de Dados e Aprendizagem de Máquina**, feito seguindo o modelo **CRISP-DM**.
 
 **Dashboard:** [abrir o dashboard](https://dudab2.github.io/Ciencia_de_Dados_Aprendizagem_da_Maquina/Projeto_DataScience/docs/)
+Os dados usados são **sintéticos** (não são de pessoas reais) e foram criados para fins didáticos.
 
 ## Perguntas do projeto
 
@@ -45,11 +46,11 @@ Base: 1.479 idosos após a limpeza.
 
 ## Fonte dos dados
 
-Base `idosos_medicacao.csv` (1.545 registros), usada na disciplina Ciência de Dados e Aprendizagem de Máquina. Método: Guia Prático CRISP-DM da disciplina (Profa. Kadidja Valéria).
+Base `idosos_medicacao.csv` (1.545 registros **sintéticos**, criados para fins didáticos), usada na disciplina Ciência de Dados e Aprendizagem de Máquina. Método: Guia Prático CRISP-DM da disciplina (Profa. Kadidja Valéria).
 
 ## Limitações
 
-- A base parece construída para exercício (erros muito regulares), então os resultados descrevem esses dados e não valem como evidência clínica.
+- Os dados são sintéticos, então os resultados valem só para este exercício e não são evidência clínica.
 - Cognição, idade e número de medicamentos andam juntos, e as comparações simples não separam esses efeitos.
 - O limite de 20% para baixa adesão é uma escolha do projeto.
 
