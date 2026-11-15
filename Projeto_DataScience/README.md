@@ -3,7 +3,7 @@
 
 Projeto da disciplina **Ciência de Dados e Aprendizagem de Máquina**, feito seguindo o modelo **CRISP-DM**.
 
-**Dashboard:** `docs/index.html` (veja o passo a passo do GitHub Pages abaixo).
+**Dashboard:** [abrir o dashboard](https://dudab2.github.io/Ciencia_de_Dados_Aprendizagem_da_Maquina/Projeto_DataScience/docs/)
 
 ## Perguntas do projeto
 
