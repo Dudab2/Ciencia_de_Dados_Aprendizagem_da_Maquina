@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <title>Adesão à medicação em idosos</title>
+    <title>Quem esquece de tomar o remédio?</title>
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap">
     <link rel="stylesheet" href="style.css">
@@ -13,90 +13,121 @@
 <body>
     <main>
         <header>
-            <h1>Quem esquece o remédio, e por quê</h1>
-            <p class="sub">Projeto CRISP-DM com a base idosos_medicacao.csv: 1.479 idosos após a limpeza dos dados.</p>
+            <h1>Quem esquece de tomar o remédio?</h1>
+            <p class="sub">Análise de 1.479 idosos, feita com o método CRISP-DM na disciplina de Ciência de Dados e
+                Aprendizagem de Máquina.</p>
+            <ul class="sum">
+                <li><b>7 em cada 10</b> idosos (73,2%) esquecem pelo menos uma dose por semana.</li>
+                <li class="al"><b>Cerca de 1 em cada 13</b> (7,5%) esquece 1 a cada 5 doses ou mais. Chamamos isso de
+                    baixa adesão.</li>
+                <li>O risco é maior para quem <b>mora sozinho</b>, <b>não tem cuidador</b> ou tem <b>problemas de
+                        memória</b>.</li>
+            </ul>
         </header>
 
         <section aria-labelledby="q1">
-            <h2 id="q1">Pergunta 1: que porcentagem dos idosos esquece de tomar doses?</h2>
+            <h2 id="q1">Pergunta 1: quantos idosos esquecem de tomar o remédio?</h2>
             <div class="card">
                 <div class="answer"><strong>73,2%</strong><span>esquecem pelo menos uma dose por semana</span></div>
                 <div class="stack" role="img"
-                    aria-label="26,8% não esquecem, 65,7% esquecem pouco, 7,5% esquecem 20% ou mais das doses">
+                    aria-label="26,8% não esquecem, 65,7% esquecem poucas doses, 7,5% esquecem 1 a cada 5 doses ou mais">
                     <i style="width:26.8%;background:var(--tealb)"></i><i
                         style="width:65.7%;background:var(--teal)"></i><i
                         style="width:7.5%;background:var(--alert)"></i>
                 </div>
                 <div class="leg"><span style="--c:var(--tealb)">Não esquecem: 26,8%</span><span
-                        style="--c:var(--teal)">Esquecem menos de 20% das doses: 65,7%</span><span
-                        style="--c:var(--alert)">Baixa adesão (20% ou mais): 7,5%</span></div>
+                        style="--c:var(--teal)">Esquecem poucas doses: 65,7%</span><span style="--c:var(--alert)">Baixa
+                        adesão: 7,5%</span></div>
                 <div class="stats">
-                    <div><b>7,5%</b>têm baixa adesão, o grupo que precisa de atenção</div>
-                    <div><b>7,7%</b>das doses prescritas são esquecidas, em média</div>
-                    <div><b>Noite</b>é o horário mais esquecido (43,8% dos que esquecem), depois tarde (31,6%) e manhã
-                        (24,7%)</div>
+                    <div><b>7,7%</b>das doses são esquecidas, em média</div>
+                    <div><b>Noite</b>é o horário em que mais se esquece (43,8% dos casos), depois a tarde (31,6%) e a
+                        manhã (24,7%)</div>
                 </div>
             </div>
-            <p class="sub" style="margin-top:12px">Esquecer uma dose de vez em quando é comum. O número que orienta uma
-                ação é a baixa adesão, definida aqui como esquecer 20% ou mais das doses da semana.</p>
+            <p class="sub" style="margin-top:12px">Esquecer uma dose de vez em quando é comum. O grupo que preocupa é o
+                da baixa adesão: quem esquece 1 a cada 5 doses ou mais (20% ou mais).</p>
         </section>
 
         <section aria-labelledby="q2">
-            <h2 id="q2">Pergunta 2: quais características aumentam o risco de baixa adesão?</h2>
-            <p>Somamos três fatores de risco por idoso: morar sozinho, não ter cuidador e ter comprometimento cognitivo.
-                O risco de baixa adesão sobe de forma contínua.</p>
+            <h2 id="q2">Pergunta 2: o que aumenta o risco de esquecer?</h2>
+            <p>Contamos três fatores de risco para cada idoso: morar sozinho, não ter cuidador e ter problemas de
+                memória. Quanto mais fatores, maior o risco.</p>
             <div class="card">
-                <h3>Idosos com baixa adesão, por número de fatores de risco</h3>
+                <h3>De cada 100 idosos, quantos têm baixa adesão?</h3>
                 <div class="cols" id="risk"></div>
                 <div class="lbls" id="riskl"></div>
             </div>
 
+            <p style="margin-top:22px"><b>Compare cada característica.</b> Escolha o que mostrar:</p>
             <div class="tog" role="group" aria-label="Medida exibida">
                 <button data-m="2" aria-pressed="true">Baixa adesão</button>
                 <button data-m="3" aria-pressed="false">Esquece alguma dose</button>
-                <button data-m="4" aria-pressed="false">Taxa média de esquecimento</button>
+                <button data-m="4" aria-pressed="false">Média de doses esquecidas</button>
             </div>
             <p class="sub" id="mdesc"></p>
             <div id="grid"></div>
 
             <div class="note">
-                <p style="margin:0 0 8px"><b>O que a comparação mostra.</b> Comprometimento cognitivo moderado, morar
-                    sozinho, ter 80 anos ou mais e tomar 7 ou mais medicamentos têm as maiores taxas. Cuidador e alarme
-                    aparecem como proteção. Escolaridade e sexo quase não mudam o resultado.</p>
-                <p style="margin:0">Há uma lacuna: só 32,3% dos idosos sem comprometimento cognitivo usam alarme, e
-                    entre os com comprometimento são 37,5%. Quem mais precisa do lembrete quase não o usa a mais.</p>
+                <p style="margin:0 0 8px"><b>O que dá para ver.</b> O risco é maior para quem tem problemas de memória,
+                    mora sozinho, tem 80 anos ou mais ou toma 7 ou mais remédios. Ter cuidador e usar alarme ajuda.
+                    Escolaridade e sexo quase não mudam nada.</p>
+                <p style="margin:0">Um ponto de atenção: só 37,5% dos idosos com problemas de memória usam alarme. Entre
+                    os que não têm esse problema, são 32,3%. Quem mais precisa do lembrete quase não usa a mais.</p>
+            </div>
+        </section>
+
+        <section aria-labelledby="mo">
+            <h2 id="mo">Dá para prever quem está em risco?</h2>
+            <p>Usamos um modelo simples, chamado regressão logística, para tentar descobrir quem tem baixa adesão. Ele
+                aprendeu com 70% dos idosos e foi testado nos outros 30%.</p>
+            <div class="card">
+                <div class="stats" style="margin-top:0">
+                    <div><span class="big">79%</span><br>dos idosos com baixa adesão foram encontrados pelo modelo</div>
+                    <div><span class="big">28%</span><br>dos alertas eram casos reais, então o modelo dá muitos alarmes
+                        falsos</div>
+                    <div><span class="big">0,92</span><br>nota geral do modelo, de 0 a 1 (AUC)</div>
+                </div>
+            </div>
+            <div class="card" style="margin-top:14px">
+                <h3>O que mais pesa no risco</h3>
+                <p class="sub" style="margin-bottom:6px">Acima de 1 aumenta o risco. Abaixo de 1 diminui. Por exemplo,
+                    2,4 significa mais ou menos o dobro do risco.</p>
+                <div id="modelo"></div>
             </div>
         </section>
 
         <section aria-labelledby="cr">
-            <h2 id="cr">Como o trabalho segue o CRISP-DM</h2>
+            <h2 id="cr">Como o trabalho foi feito (CRISP-DM)</h2>
             <dl>
-                <dt>1. Entendimento do negócio</dt>
-                <dd>Reduzir o esquecimento de doses em idosos. Critério de sucesso: identificar quem tem baixa adesão
-                    (20% ou mais de doses esquecidas) e por quê.</dd>
-                <dt>2. Entendimento dos dados</dt>
-                <dd>1.545 linhas e 14 colunas, com 45 duplicatas, grafias inconsistentes, idades impossíveis e datas em
-                    dois formatos.</dd>
-                <dt>3. Preparação dos dados</dt>
-                <dd>Padronização de sim/não, sexo e escolaridade. Idades por extenso convertidas. Valores fora de faixa
-                    (idade 999, 99 medicamentos) tratados como ausentes. 21 registros com doses incoerentes removidos.
-                    Criação da taxa de esquecimento e da marca de baixa adesão.</dd>
-                <dt>4. Modelagem</dt>
-                <dd>Próximo passo: regressão logística e árvore de decisão para prever baixa adesão, e K-means para
-                    achar perfis de idosos.</dd>
-                <dt>5. Avaliação</dt>
-                <dd>Medir se o modelo identifica os 7,5% de risco com poucos falsos alarmes, e não só a acurácia.</dd>
-                <dt>6. Implantação</dt>
-                <dd>Este painel e a base limpa. Uma etapa futura seria usar o risco para ajustar lembretes e avisar
-                    cuidadores.</dd>
+                <dt>1. Entender o problema</dt>
+                <dd>Descobrir quantos idosos esquecem o remédio e o que aumenta esse risco.</dd>
+                <dt>2. Conhecer os dados</dt>
+                <dd>A base tinha 1.545 linhas e 14 colunas, com repetições, erros de digitação, idades impossíveis e
+                    datas em dois formatos.</dd>
+                <dt>3. Arrumar os dados</dt>
+                <dd>Padronizamos as respostas, convertemos idades escritas por extenso, tratamos valores absurdos como
+                    vazios e tiramos 21 registros com doses sem sentido.</dd>
+                <dt>4. Criar o modelo</dt>
+                <dd>Regressão logística para prever quem tem baixa adesão.</dd>
+                <dt>5. Avaliar</dt>
+                <dd>Olhamos quantos casos o modelo encontra e quantos alarmes falsos ele dá.</dd>
+                <dt>6. Mostrar o resultado</dt>
+                <dd>Este painel e a base de dados limpa.</dd>
             </dl>
             <div class="note">
-                <p style="margin:0"><b>Limite importante.</b> A base parece construída para exercício, com erros muito
-                    regulares. Os resultados descrevem esses dados e não valem como evidência clínica. Quem tem
-                    comprometimento cognitivo também tende a ser mais velho e a tomar mais remédios, então as
-                    comparações acima não separam os efeitos.</p>
+                <p style="margin:0"><b>Cuidados com o resultado.</b> A base parece ter sido criada para um exercício,
+                    então os números valem para estes dados e não são prova médica. Além disso, quem tem problemas de
+                    memória também costuma ser mais velho e tomar mais remédios, então as comparações não separam o
+                    efeito de cada fator.</p>
             </div>
         </section>
+        <footer>
+            <p><b>Fonte dos dados:</b> base <i>idosos_medicacao.csv</i>, com 1.545 registros de idosos, usada na
+                disciplina Ciência de Dados e Aprendizagem de Máquina. Depois da limpeza, ficaram 1.479 idosos.</p>
+            <p><b>Método:</b> CRISP-DM, conforme o Guia Prático CRISP-DM da disciplina (Profa. Kadidja Valéria).</p>
+            <p><b>Ferramentas:</b> cálculos e modelo feitos em Python (pandas e scikit-learn). Código e base limpa estão
+                no repositório do projeto.</p>
+        </footer>
     </main>
     <script src="script.js"></script>
 </body>

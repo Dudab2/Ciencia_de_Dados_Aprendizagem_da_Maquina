@@ -1,9 +1,8 @@
-
 # Adesão à medicação em idosos
 
 Projeto da disciplina **Ciência de Dados e Aprendizagem de Máquina**, feito seguindo o modelo **CRISP-DM**.
 
-**Dashboard:** [abrir o dashboard](https://dudab2.github.io/Ciencia_de_Dados_Aprendizagem_da_Maquina/Projeto_DataScience/docs/)
+**Dashboard:** `docs/index.html` (veja o passo a passo do GitHub Pages abaixo).
 
 ## Perguntas do projeto
 
@@ -43,6 +42,10 @@ Base: 1.479 idosos após a limpeza.
 | 4. Modelagem | `src/modelo.py`: regressão logística simples |
 | 5. Avaliação | AUC, recall e precisão para a classe de baixa adesão |
 | 6. Implantação | Dashboard em `docs/index.html` |
+
+## Fonte dos dados
+
+Base `idosos_medicacao.csv` (1.545 registros), usada na disciplina Ciência de Dados e Aprendizagem de Máquina. Método: Guia Prático CRISP-DM da disciplina (Profa. Kadidja Valéria).
 
 ## Limitações
 
