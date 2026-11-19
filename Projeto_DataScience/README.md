@@ -4,7 +4,7 @@ Projeto da disciplina **Ciência de Dados e Aprendizagem de Máquina** (Profa. K
 
 **Dashboard:** [abrir o dashboard](https://dudab2.github.io/Ciencia_de_Dados_Aprendizagem_da_Maquina/Projeto_DataScience/docs/)
 
-**Notebook completo (Fases 1 a 6):** [`notebooks/Projeto_Adesao_Medicamentos.ipynb`](Projeto_Adesao_Medicamentos.ipynb)
+**Notebook completo (Fases 1 a 6):** [`Projeto_Adesao_Medicamentos.ipynb`](Projeto_Adesao_Medicamentos.ipynb)
 
 Os dados usados são **sintéticos** (não são de pessoas reais) e foram criados para fins didáticos.
 

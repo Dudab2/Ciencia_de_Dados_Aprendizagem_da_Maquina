@@ -22,4 +22,47 @@ document.querySelectorAll(".tog button").forEach(b => b.onclick = () => { m = +b
 const mx = Math.max(...D.risco.map(r => r[2]));
 document.getElementById("risk").innerHTML = D.risco.map(r => `<div class="col"><b>${f(r[2])}</b><i style="height:${r[2] / mx * 80}%"></i></div>`).join("");
 document.getElementById("riskl").innerHTML = D.risco.map(r => `<div>${r[0]}<br>${r[1]} idosos</div>`).join("");
+
+
+const fatoresModelo = [
+    ["Comprometimento cognitivo moderado", 2.14],
+    ["Morar sozinho", 2.13],
+    ["Idade", 1.93],
+    ["Comprometimento cognitivo leve", 1.86],
+    ["Número de medicamentos", 1.24],
+    ["Número de doenças crônicas", 1.17],
+    ["Ter cuidador", 0.52],
+    ["Usar alarme", 0.37]
+];
+
+function mostrarModelo() {
+    const elemento = document.getElementById("modelo");
+
+    const maior = Math.max(...fatoresModelo.map(f => f[1]));
+
+    elemento.innerHTML = fatoresModelo.map(([nome, valor]) => {
+        const largura = (valor / maior) * 100;
+        const cor = valor >= 1 ? "var(--alert)" : "var(--teal)";
+
+        return `
+            <div style="margin:14px 0">
+                <div style="display:flex; justify-content:space-between;
+                    gap:10px; margin-bottom:5px">
+                    <span>${nome}</span>
+                    <strong>${valor.toFixed(2).replace(".", ",")}</strong>
+                </div>
+
+                <div style="height:12px; background:var(--line);
+                    border-radius:8px; overflow:hidden">
+                    <div style="height:100%; width:${largura}%;
+                        background:${cor}; border-radius:8px">
+                    </div>
+                </div>
+            </div>
+        `;
+    }).join("");
+}
+
+mostrarModelo();
+
 draw();

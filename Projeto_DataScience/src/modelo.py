@@ -32,7 +32,11 @@ Xtr, Xte, ytr, yte = train_test_split(
 modelo = make_pipeline(
     SimpleImputer(strategy="median"),
     StandardScaler(),
-    LogisticRegression(class_weight="balanced", max_iter=1000),
+    LogisticRegression(
+        C=0.1,
+        class_weight="balanced",
+        max_iter=1000
+    ),
 )
 modelo.fit(Xtr, ytr)
 
